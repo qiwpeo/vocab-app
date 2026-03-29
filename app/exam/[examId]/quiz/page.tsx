@@ -116,16 +116,22 @@ export default function QuizPage() {
   if (!started) {
     return (
       <div className="max-w-lg mx-auto">
-        <h1 className="text-xl font-bold text-gray-900 dark:text-gray-100 mb-6">
+        <Link href={`/exam/${examId}`} className="inline-flex items-center gap-1 text-sm text-indigo-500 hover:text-indigo-600 mb-4 font-medium">
+          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
+          </svg>
+          돌아가기
+        </Link>
+        <h1 className="text-2xl font-extrabold text-gray-900 dark:text-gray-100 mb-1">
           퀴즈 설정
         </h1>
-        <p className="text-sm text-gray-500 dark:text-gray-400 mb-6">
+        <p className="text-sm text-gray-400 dark:text-gray-500 mb-8">
           {examData.exam.label}
         </p>
 
-        <div className="space-y-5">
+        <div className="space-y-6">
           <div>
-            <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+            <label className="block text-xs font-bold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-2">
               퀴즈 모드
             </label>
             <div className="flex gap-2">
@@ -134,10 +140,10 @@ export default function QuizPage() {
                   <button
                     key={v}
                     onClick={() => setMode(v)}
-                    className={`flex-1 py-2 rounded-lg text-sm font-medium transition-colors ${
+                    className={`flex-1 py-3 rounded-xl text-sm font-bold transition-all duration-200 ${
                       mode === v
-                        ? 'bg-blue-500 text-white'
-                        : 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300'
+                        ? 'bg-gradient-to-r from-indigo-500 to-purple-500 text-white shadow-md shadow-indigo-200 dark:shadow-indigo-900/30'
+                        : 'bg-white dark:bg-slate-800 text-gray-500 dark:text-gray-400 border border-gray-200 dark:border-slate-700'
                     }`}
                   >
                     {l}
@@ -148,7 +154,7 @@ export default function QuizPage() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+            <label className="block text-xs font-bold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-2">
               출제 범위
             </label>
             <div className="flex gap-2">
@@ -157,10 +163,10 @@ export default function QuizPage() {
                   <button
                     key={v}
                     onClick={() => setScope(v)}
-                    className={`flex-1 py-2 rounded-lg text-sm font-medium transition-colors ${
+                    className={`flex-1 py-3 rounded-xl text-sm font-bold transition-all duration-200 ${
                       scope === v
-                        ? 'bg-blue-500 text-white'
-                        : 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300'
+                        ? 'bg-gradient-to-r from-indigo-500 to-purple-500 text-white shadow-md shadow-indigo-200 dark:shadow-indigo-900/30'
+                        : 'bg-white dark:bg-slate-800 text-gray-500 dark:text-gray-400 border border-gray-200 dark:border-slate-700'
                     }`}
                   >
                     {l}
@@ -171,7 +177,7 @@ export default function QuizPage() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+            <label className="block text-xs font-bold text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-2">
               문제 수
             </label>
             <div className="flex gap-2">
@@ -179,10 +185,10 @@ export default function QuizPage() {
                 <button
                   key={String(v)}
                   onClick={() => setCount(v)}
-                  className={`flex-1 py-2 rounded-lg text-sm font-medium transition-colors ${
+                  className={`flex-1 py-3 rounded-xl text-sm font-bold transition-all duration-200 ${
                     count === v
-                      ? 'bg-blue-500 text-white'
-                      : 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300'
+                      ? 'bg-gradient-to-r from-indigo-500 to-purple-500 text-white shadow-md shadow-indigo-200 dark:shadow-indigo-900/30'
+                      : 'bg-white dark:bg-slate-800 text-gray-500 dark:text-gray-400 border border-gray-200 dark:border-slate-700'
                   }`}
                 >
                   {v === 'all' ? '전체' : `${v}문제`}
@@ -193,15 +199,9 @@ export default function QuizPage() {
 
           <button
             onClick={() => setStarted(true)}
-            className="w-full py-3 bg-blue-500 text-white rounded-xl font-medium hover:bg-blue-600 transition-colors mt-4"
+            className="w-full py-4 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-2xl font-bold text-lg hover:shadow-xl hover:shadow-indigo-200 dark:hover:shadow-indigo-900/30 transition-all duration-200 mt-2"
           >
             퀴즈 시작
-          </button>
-          <button
-            onClick={() => router.back()}
-            className="w-full py-3 text-gray-500 dark:text-gray-400 text-sm"
-          >
-            돌아가기
           </button>
         </div>
       </div>
@@ -212,31 +212,35 @@ export default function QuizPage() {
   if (finished) {
     const correctCount = results.filter((r) => r.correct).length;
     const wrongWords = results.filter((r) => !r.correct);
+    const score = Math.round((correctCount / results.length) * 100);
 
     return (
       <div className="max-w-lg mx-auto">
-        <h1 className="text-xl font-bold text-gray-900 dark:text-gray-100 mb-2">
+        <h1 className="text-2xl font-extrabold text-gray-900 dark:text-gray-100 mb-6">
           퀴즈 결과
         </h1>
-        <div className="text-center py-8">
-          <div className="text-5xl font-bold text-blue-500 mb-2">
-            {correctCount}/{results.length}
+        <div className="text-center py-8 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-2xl shadow-lg shadow-indigo-200 dark:shadow-indigo-900/30 mb-6">
+          <div className="text-6xl font-extrabold text-white mb-1">
+            {score}
           </div>
-          <p className="text-gray-500 dark:text-gray-400">
-            {Math.round((correctCount / results.length) * 100)}점
+          <p className="text-white/70 text-lg">
+            {correctCount} / {results.length} 정답
           </p>
         </div>
 
         {wrongWords.length > 0 && (
           <div className="mb-6">
-            <h2 className="text-sm font-semibold text-red-500 mb-3">
+            <h2 className="text-sm font-bold text-rose-500 mb-3 flex items-center gap-1.5">
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.082 16.5c-.77.833.192 2.5 1.732 2.5z" />
+              </svg>
               틀린 단어 ({wrongWords.length}개) — 오답노트에 추가됨
             </h2>
             <div className="space-y-2">
               {wrongWords.map(({ word }) => (
                 <div
                   key={word.id}
-                  className="p-3 bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-lg"
+                  className="p-3 bg-rose-50 dark:bg-rose-900/10 border border-rose-200 dark:border-rose-800/50 rounded-xl"
                 >
                   <span className="font-bold text-gray-900 dark:text-gray-100">
                     {word.word}
@@ -258,13 +262,13 @@ export default function QuizPage() {
               setCurrentIdx(0);
               setResults([]);
             }}
-            className="flex-1 py-3 bg-blue-500 text-white rounded-xl font-medium hover:bg-blue-600 transition-colors"
+            className="flex-1 py-3 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-xl font-bold hover:shadow-lg transition-all duration-200"
           >
             다시 풀기
           </button>
           <Link
             href={`/exam/${examId}`}
-            className="flex-1 py-3 text-center bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-xl font-medium hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
+            className="flex-1 py-3 text-center bg-white dark:bg-slate-800 text-gray-700 dark:text-gray-300 rounded-xl font-bold border border-gray-200 dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700 transition-all duration-200"
           >
             단어장으로
           </Link>

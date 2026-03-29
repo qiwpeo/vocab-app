@@ -21,10 +21,10 @@ export default function FilterBar({
         <button
           key={f.value}
           onClick={() => onChange(f.value)}
-          className={`px-3 py-1.5 text-sm rounded-full transition-colors ${
+          className={`px-3.5 py-1.5 text-sm font-medium rounded-full transition-all duration-200 ${
             current === f.value
-              ? 'bg-blue-500 text-white'
-              : 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
+              ? 'bg-gradient-to-r from-indigo-500 to-purple-500 text-white shadow-md shadow-indigo-200 dark:shadow-indigo-900/30'
+              : 'bg-white dark:bg-slate-800 text-gray-500 dark:text-gray-400 border border-gray-200 dark:border-slate-700 hover:border-indigo-300 dark:hover:border-indigo-600'
           }`}
         >
           {f.label}

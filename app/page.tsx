@@ -19,12 +19,17 @@ export default function HomePage() {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-6">
-        고1 영어 모의고사 단어장
-      </h1>
+      <div className="mb-8">
+        <h1 className="text-3xl font-extrabold gradient-text mb-2">
+          모의고사 단어장
+        </h1>
+        <p className="text-gray-500 dark:text-gray-400">
+          고1 영어 모의고사 핵심 단어를 학습하세요
+        </p>
+      </div>
       {years.map((year) => (
         <section key={year} className="mb-8">
-          <h2 className="text-lg font-semibold text-gray-700 dark:text-gray-300 mb-3">
+          <h2 className="text-sm font-bold text-indigo-500 dark:text-indigo-400 uppercase tracking-wider mb-3">
             {year}년
           </h2>
           <div className="grid gap-3">

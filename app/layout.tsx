@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#3b82f6",
+  themeColor: "#6366f1",
   width: "device-width",
   initialScale: 1,
 };
@@ -26,16 +26,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko" className={`${geistSans.variable} h-full antialiased`}>
-      <body className="min-h-full flex flex-col bg-gray-50 dark:bg-gray-900 font-[family-name:var(--font-geist-sans)]">
-        <header className="sticky top-0 z-50 bg-white/80 dark:bg-gray-900/80 backdrop-blur border-b border-gray-200 dark:border-gray-800">
-          <div className="max-w-2xl mx-auto px-4 py-3 flex items-center justify-between">
-            <a href="/" className="font-bold text-blue-600 dark:text-blue-400">
-              고1 영어 단어장
+      <body className="min-h-full flex flex-col bg-[var(--background)] font-[family-name:var(--font-geist-sans)]">
+        <header className="sticky top-0 z-50 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 shadow-lg">
+          <div className="max-w-2xl mx-auto px-4 py-4 flex items-center justify-between">
+            <a href="/" className="font-bold text-white text-lg tracking-tight">
+              Voca Master
             </a>
             <a
               href="/wrong-notes"
-              className="text-sm text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200"
+              className="text-sm text-white/80 hover:text-white transition-colors flex items-center gap-1.5"
             >
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+              </svg>
               오답노트
             </a>
           </div>

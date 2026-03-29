@@ -19,20 +19,20 @@ export default function WordCard({
 
   return (
     <div
-      className={`border rounded-xl p-4 transition-all ${
+      className={`rounded-2xl p-4 transition-all duration-200 ${
         isMemorized
-          ? 'bg-gray-50 dark:bg-gray-800/50 border-gray-200 dark:border-gray-700 opacity-60'
-          : 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700'
+          ? 'bg-gray-50 dark:bg-slate-800/40 border border-gray-100 dark:border-slate-700/50 opacity-50'
+          : 'bg-white dark:bg-slate-800 border border-gray-100 dark:border-slate-700 shadow-sm hover:shadow-md'
       }`}
     >
       <div className="flex items-start justify-between gap-3">
         <div className="flex-1 min-w-0">
-          <div className="flex items-center gap-2 mb-1">
+          <div className="flex items-center gap-2 mb-1.5">
             <h3 className="text-lg font-bold text-gray-900 dark:text-gray-100">
               {word.word}
             </h3>
             {word.questionNumber && (
-              <span className="text-xs px-2 py-0.5 bg-blue-100 dark:bg-blue-900 text-blue-700 dark:text-blue-300 rounded-full">
+              <span className="text-xs font-medium px-2 py-0.5 bg-gradient-to-r from-indigo-50 to-purple-50 dark:from-indigo-900/30 dark:to-purple-900/30 text-indigo-600 dark:text-indigo-400 rounded-full">
                 {word.questionNumber}번
               </span>
             )}
@@ -41,7 +41,7 @@ export default function WordCard({
           {hideMeaning && !showMeaning ? (
             <button
               onClick={() => setShowMeaning(true)}
-              className="text-sm text-blue-500 hover:text-blue-600 dark:text-blue-400 mb-2"
+              className="text-sm text-indigo-500 hover:text-indigo-600 dark:text-indigo-400 font-medium mb-2"
             >
               뜻 보기
             </button>
@@ -55,26 +55,26 @@ export default function WordCard({
                   뜻 숨기기
                 </button>
               )}
-              <p className="text-gray-700 dark:text-gray-300 mb-2">
+              <p className="text-gray-600 dark:text-gray-300 mb-2 font-medium">
                 {word.meaning}
               </p>
             </>
           )}
 
-          {meaningVisible && (
-            <div className="text-sm text-gray-500 dark:text-gray-400 space-y-0.5">
+          {meaningVisible && word.example && (
+            <div className="text-sm text-gray-400 dark:text-gray-500 bg-gray-50 dark:bg-slate-900/50 rounded-lg px-3 py-2 mt-1">
               <p className="italic">&quot;{word.example}&quot;</p>
-              <p>{word.exampleMeaning}</p>
+              {word.exampleMeaning && <p className="mt-0.5">{word.exampleMeaning}</p>}
             </div>
           )}
         </div>
 
         <button
           onClick={onToggleMemorized}
-          className={`shrink-0 w-8 h-8 rounded-full border-2 flex items-center justify-center transition-all ${
+          className={`shrink-0 w-9 h-9 rounded-full flex items-center justify-center transition-all duration-200 ${
             isMemorized
-              ? 'bg-blue-500 border-blue-500 text-white'
-              : 'border-gray-300 dark:border-gray-600 text-transparent hover:border-blue-400'
+              ? 'bg-gradient-to-r from-indigo-500 to-purple-500 text-white shadow-md shadow-indigo-200 dark:shadow-indigo-900/30'
+              : 'border-2 border-gray-200 dark:border-slate-600 text-transparent hover:border-indigo-400 hover:scale-110'
           }`}
           aria-label={isMemorized ? '암기 해제' : '암기 완료'}
         >
