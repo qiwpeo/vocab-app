@@ -65,10 +65,16 @@ export default function ExamPage() {
             {hideMeaning ? '학습 모드' : '뜻 보기'}
           </button>
           <Link
+            href={`/exam/${examId}/flashcard`}
+            className="text-sm px-4 py-1.5 bg-gradient-to-r from-amber-400 to-orange-500 text-white rounded-full font-medium hover:shadow-lg hover:shadow-orange-200 dark:hover:shadow-orange-900/30 transition-all duration-200"
+          >
+            플래시카드
+          </Link>
+          <Link
             href={`/exam/${examId}/quiz`}
             className="text-sm px-4 py-1.5 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-full font-medium hover:shadow-lg hover:shadow-indigo-200 dark:hover:shadow-indigo-900/30 transition-all duration-200"
           >
-            퀴즈 시작
+            퀴즈
           </Link>
         </div>
       </div>
