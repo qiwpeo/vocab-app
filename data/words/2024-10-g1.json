@@ -1,0 +1,2410 @@
+{
+  "exam": {
+    "year": 2024,
+    "month": 10,
+    "grade": 1,
+    "label": "2024년 10월 고1 모의고사"
+  },
+  "words": [
+    {
+      "id": "2024-10-001",
+      "word": "state",
+      "meaning": "진술하다, 상태",
+      "example": "To the State Education Department, I am writing with regard to the state’s funding for the construction project at Fort Montgomery High School.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-002",
+      "word": "education",
+      "meaning": "교육",
+      "example": "To the State Education Department, I am writing with regard to the state’s funding for the construction project at Fort Montgomery High School.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-003",
+      "word": "department",
+      "meaning": "출발하다",
+      "example": "To the State Education Department, I am writing with regard to the state’s funding for the construction project at Fort Montgomery High School.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-004",
+      "word": "write",
+      "meaning": "쓰다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-005",
+      "word": "regard",
+      "meaning": "간주하다",
+      "example": "To the State Education Department, I am writing with regard to the state’s funding for the construction project at Fort Montgomery High School.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-006",
+      "word": "fund",
+      "meaning": "자금",
+      "example": "To the State Education Department, I am writing with regard to the state’s funding for the construction project at Fort Montgomery High School.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-007",
+      "word": "construction",
+      "meaning": "건설",
+      "example": "To the State Education Department, I am writing with regard to the state’s funding for the construction project at Fort Montgomery High School.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-008",
+      "word": "project",
+      "meaning": "프로젝트",
+      "example": "To the State Education Department, I am writing with regard to the state’s funding for the construction project at Fort Montgomery High School.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-009",
+      "word": "high",
+      "meaning": "높은",
+      "example": "To the State Education Department, I am writing with regard to the state’s funding for the construction project at Fort Montgomery High School.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-010",
+      "word": "need",
+      "meaning": "필요하다",
+      "example": "Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-011",
+      "word": "additional",
+      "meaning": "추가",
+      "example": "Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-012",
+      "word": "provide",
+      "meaning": "제공하다",
+      "example": "Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-013",
+      "word": "fully",
+      "meaning": "완전히",
+      "example": "Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-014",
+      "word": "functional",
+      "meaning": "기능적인",
+      "example": "Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-015",
+      "word": "medium",
+      "meaning": "매체, 중간",
+      "example": "It was only when they looked again that they saw a medium­sized octopus, with all eight of its arms folded and its two eyes staring upwards to .",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-10-016",
+      "word": "serve",
+      "meaning": "봉사하다, 제공하다",
+      "example": "Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-017",
+      "word": "meaningful",
+      "meaning": "의미 있는",
+      "example": "Our school needs additional spaces to provide a fully functional Art and Library Media Center to serve our students in a more meaningful way.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-018",
+      "word": "submit",
+      "meaning": "제출하다",
+      "example": "Despite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-019",
+      "word": "require",
+      "meaning": "필요로 하다",
+      "example": "Despite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-020",
+      "word": "receive",
+      "meaning": "받다",
+      "example": "Despite submitting all required documentation for funding to your department in April 2024, we have not yet received any notification from your department.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-021",
+      "word": "delay",
+      "meaning": "지연",
+      "example": "A delay in the process can carry considerable consequences related to the school’s budgetary constraints and schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-022",
+      "word": "process",
+      "meaning": "과정",
+      "example": "A delay in the process can carry considerable consequences related to the school’s budgetary constraints and schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-023",
+      "word": "carry",
+      "meaning": "나르다, 운반하다",
+      "example": "A delay in the process can carry considerable consequences related to the school’s budgetary constraints and schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-024",
+      "word": "considerable",
+      "meaning": "상당한",
+      "example": "A delay in the process can carry considerable consequences related to the school’s budgetary constraints and schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-025",
+      "word": "consequence",
+      "meaning": "결과",
+      "example": "A delay in the process can carry considerable consequences related to the school’s budgetary constraints and schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-026",
+      "word": "relate",
+      "meaning": "관련시키다",
+      "example": "A delay in the process can carry considerable consequences related to the school’s budgetary constraints and schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-027",
+      "word": "budgetary",
+      "meaning": "예산",
+      "example": "A delay in the process can carry considerable consequences related to the school’s budgetary constraints and schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-028",
+      "word": "constraint",
+      "meaning": "제약",
+      "example": "A delay in the process can carry considerable consequences related to the school’s budgetary constraints and schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-029",
+      "word": "schedule",
+      "meaning": "일정",
+      "example": "A delay in the process can carry considerable consequences related to the school’s budgetary constraints and schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-030",
+      "word": "order",
+      "meaning": "주문하다, 명령하다, 순서",
+      "example": "Therefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-031",
+      "word": "proceed",
+      "meaning": "진행하다",
+      "example": "Therefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-032",
+      "word": "request",
+      "meaning": "요청하다",
+      "example": "Therefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-033",
+      "word": "review",
+      "meaning": "검토하다",
+      "example": "Therefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-034",
+      "word": "result",
+      "meaning": "결과",
+      "example": "Therefore, in order to proceed with our project, we request you notify us of the review result regarding the submitted documentation.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-035",
+      "word": "look",
+      "meaning": "보다",
+      "example": "I look forward to hearing from you.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-036",
+      "word": "hear",
+      "meaning": "듣다",
+      "example": "I look forward to hearing from you.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-037",
+      "word": "principal",
+      "meaning": "주요한",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-038",
+      "word": "wait",
+      "meaning": "기다리다",
+      "example": "As I waited outside the locker room after a hard‐fought basketball game, the coach called out to me, “David, walk with me.” I figured he was going to tell me something important.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-039",
+      "word": "locker",
+      "meaning": "잠그다",
+      "example": "As I waited outside the locker room after a hard‐fought basketball game, the coach called out to me, “David, walk with me.” I figured he was going to tell me something important.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-040",
+      "word": "fight",
+      "meaning": "싸우다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-041",
+      "word": "coach",
+      "meaning": "코치하다, 코치",
+      "example": "As I waited outside the locker room after a hard‐fought basketball game, the coach called out to me, “David, walk with me.” I figured he was going to tell me something important.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-042",
+      "word": "walk",
+      "meaning": "걷다",
+      "example": "As I waited outside the locker room after a hard‐fought basketball game, the coach called out to me, “David, walk with me.” I figured he was going to tell me something important.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-043",
+      "word": "figure",
+      "meaning": "인물, 수치",
+      "example": "As I waited outside the locker room after a hard‐fought basketball game, the coach called out to me, “David, walk with me.” I figured he was going to tell me something important.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-044",
+      "word": "important",
+      "meaning": "중요한",
+      "example": "As I waited outside the locker room after a hard‐fought basketball game, the coach called out to me, “David, walk with me.” I figured he was going to tell me something important.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-045",
+      "word": "select",
+      "meaning": "선택하다",
+      "example": "He was going to select me to be the captain of the team, the leader I had always wanted to be.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-046",
+      "word": "leader",
+      "meaning": "이끌다, 납",
+      "example": "He was going to select me to be the captain of the team, the leader I had always wanted to be.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-047",
+      "word": "want",
+      "meaning": "원하다",
+      "example": "He was going to select me to be the captain of the team, the leader I had always wanted to be.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-048",
+      "word": "race",
+      "meaning": "경주하다, 인종",
+      "example": "When 1500m runners push themselves into extreme pain to win a race ―their muscles screaming and their lungs exploding with oxygen deficit, they don’t psychologically suffer much.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-10-049",
+      "word": "hit",
+      "meaning": "치다, 때리다",
+      "example": "But when his next words hit my ears, everything changed.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-050",
+      "word": "change",
+      "meaning": "바꾸다, 변화",
+      "example": "But when his next words hit my ears, everything changed.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-051",
+      "word": "send",
+      "meaning": "보내다",
+      "example": "“We’re going to have to send you home,” he said coldly.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-052",
+      "word": "think",
+      "meaning": "생각하다",
+      "example": "“I don’t think you are going to make it.” I couldn’t believe his decision.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-053",
+      "word": "believe",
+      "meaning": "믿다",
+      "example": "“I don’t think you are going to make it.” I couldn’t believe his decision.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-054",
+      "word": "decision",
+      "meaning": "결정",
+      "example": "“I don’t think you are going to make it.” I couldn’t believe his decision.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-055",
+      "word": "try",
+      "meaning": "시도하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-056",
+      "word": "hold",
+      "meaning": "잡다, 유지하다",
+      "example": "I tried to hold it together, but inside I was falling apart.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-057",
+      "word": "fall",
+      "meaning": "떨어지다",
+      "example": "I tried to hold it together, but inside I was falling apart.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-058",
+      "word": "hopeful",
+      "meaning": "희망하다, 희망",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-059",
+      "word": "frustrate",
+      "meaning": "좌절시키다",
+      "example": "①hopeful →frustrated ②confident →jealous ③anxious →grateful ④relaxed →indifferent ⑤bored →annoyed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-060",
+      "word": "confident",
+      "meaning": "자신감 있는",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-061",
+      "word": "anxious",
+      "meaning": "불안한",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-062",
+      "word": "grateful",
+      "meaning": "감사하는",
+      "example": "①hopeful →frustrated ②confident →jealous ③anxious →grateful ④relaxed →indifferent ⑤bored →annoyed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-063",
+      "word": "relax",
+      "meaning": "긴장을 풀다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-064",
+      "word": "exercise",
+      "meaning": "운동하다, 운동",
+      "example": "For many of us, making time for exercise is a continuing challenge.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-065",
+      "word": "continue",
+      "meaning": "계속하다",
+      "example": "For a child who feels lonely, being scolded is much better than feeling invisible, so he will continue to hit his brother.",
+      "exampleMeaning": "",
+      "questionNumber": 40
+    },
+    {
+      "id": "2024-10-066",
+      "word": "challenge",
+      "meaning": "도전",
+      "example": "For many of us, making time for exercise is a continuing challenge.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-067",
+      "word": "work",
+      "meaning": "일하다, 작동하다",
+      "example": "Between work commitments and family obligations, it often feels like there’s no room in our packed schedules for a dedicated workout.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-068",
+      "word": "commitment",
+      "meaning": "헌신",
+      "example": "Between work commitments and family obligations, it often feels like there’s no room in our packed schedules for a dedicated workout.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-069",
+      "word": "obligation",
+      "meaning": "의무",
+      "example": "Between work commitments and family obligations, it often feels like there’s no room in our packed schedules for a dedicated workout.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-070",
+      "word": "feel",
+      "meaning": "느끼다",
+      "example": "Between work commitments and family obligations, it often feels like there’s no room in our packed schedules for a dedicated workout.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-071",
+      "word": "pack",
+      "meaning": "싸다, 포장하다",
+      "example": "Between work commitments and family obligations, it often feels like there’s no room in our packed schedules for a dedicated workout.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-072",
+      "word": "dedicate",
+      "meaning": "헌신하다",
+      "example": "Between work commitments and family obligations, it often feels like there’s no room in our packed schedules for a dedicated workout.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-073",
+      "word": "daily",
+      "meaning": "매일의",
+      "example": "But what if the workout came to you, right in the midst of your daily routine?",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-074",
+      "word": "routine",
+      "meaning": "일상적인",
+      "example": "But what if the workout came to you, right in the midst of your daily routine?",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-075",
+      "word": "beauty",
+      "meaning": "아름다움",
+      "example": "That’s where the beauty of integrating mini­exercises into household chores comes into play.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-076",
+      "word": "integrate",
+      "meaning": "통합하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-077",
+      "word": "household",
+      "meaning": "가구",
+      "example": "That’s where the beauty of integrating mini­exercises into household chores comes into play.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-078",
+      "word": "play",
+      "meaning": "놀다, 연주하다",
+      "example": "That’s where the beauty of integrating mini­exercises into household chores comes into play.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-079",
+      "word": "realistic",
+      "meaning": "현실적인",
+      "example": "Let’s be realistic; chores are inevitable.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-080",
+      "word": "inevitable",
+      "meaning": "불가피한",
+      "example": "Let’s be realistic; chores are inevitable.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-081",
+      "word": "wash",
+      "meaning": "씻다",
+      "example": "Whether it’s washing dishes or taking out the trash, these tasks are an essential part of daily life.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-082",
+      "word": "task",
+      "meaning": "과제",
+      "example": "Whether it’s washing dishes or taking out the trash, these tasks are an essential part of daily life.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-083",
+      "word": "essential",
+      "meaning": "필수적인",
+      "example": "Whether it’s washing dishes or taking out the trash, these tasks are an essential part of daily life.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-084",
+      "word": "view",
+      "meaning": "보다, 견해",
+      "example": "But rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-085",
+      "word": "purely",
+      "meaning": "순전히",
+      "example": "But rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-086",
+      "word": "obligatory",
+      "meaning": "의무적인",
+      "example": "But rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-087",
+      "word": "activity",
+      "meaning": "활동",
+      "example": "But rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-088",
+      "word": "seize",
+      "meaning": "잡다, 압수하다",
+      "example": "But rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-089",
+      "word": "opportunity",
+      "meaning": "기회",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-090",
+      "word": "physical",
+      "meaning": "신체의, 물리적인",
+      "example": "But rather than viewing chores as purely obligatory activities, why not seize these moments as opportunities for physical activity?",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-091",
+      "word": "instance",
+      "meaning": "경우, 사례",
+      "example": "For instance, practice squats or engage in some wall push­ups as you wait for your morning kettle to boil.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-092",
+      "word": "practice",
+      "meaning": "연습, 실행",
+      "example": "For instance, practice squats or engage in some wall push­ups as you wait for your morning kettle to boil.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-093",
+      "word": "engage",
+      "meaning": "참여하다, 몰두시키다",
+      "example": "For instance, practice squats or engage in some wall push­ups as you wait for your morning kettle to boil.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-094",
+      "word": "push",
+      "meaning": "밀다",
+      "example": "For instance, practice squats or engage in some wall push­ups as you wait for your morning kettle to boil.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-095",
+      "word": "boil",
+      "meaning": "끓이다",
+      "example": "For instance, practice squats or engage in some wall push­ups as you wait for your morning kettle to boil.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-096",
+      "word": "incorporate",
+      "meaning": "통합하다",
+      "example": "The direction of AI’s evolution will depend greatly on what values and ethics we incorporate into AI.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-097",
+      "word": "improve",
+      "meaning": "향상시키다",
+      "example": "Incorporating quick exercises into your daily chores can improve your health.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-098",
+      "word": "health",
+      "meaning": "건강",
+      "example": "Incorporating quick exercises into your daily chores can improve your health.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-10-099",
+      "word": "naturally",
+      "meaning": "자연스럽게",
+      "example": "[3점] When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-100",
+      "word": "break",
+      "meaning": "깨다, 부수다",
+      "example": "[3점] When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-101",
+      "word": "shape",
+      "meaning": "형성하다, 모양",
+      "example": "[3점] When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-102",
+      "word": "concept",
+      "meaning": "개념",
+      "example": "[3점] When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-103",
+      "word": "learn",
+      "meaning": "배우다",
+      "example": "[3점] When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-104",
+      "word": "reconstruct",
+      "meaning": "재구성하다",
+      "example": "We reconstruct memories rather than retrieving the video from memory.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-105",
+      "word": "memory",
+      "meaning": "기억",
+      "example": "We reconstruct memories rather than retrieving the video from memory.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-106",
+      "word": "useful",
+      "meaning": "유용한",
+      "example": "This is a useful trait.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-107",
+      "word": "trait",
+      "meaning": "특성",
+      "example": "This is a useful trait.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-108",
+      "word": "efficient",
+      "meaning": "효율적인",
+      "example": "It’s a more efficient way to store information ― a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-109",
+      "word": "store",
+      "meaning": "저장하다, 가게",
+      "example": "It’s a more efficient way to store information ― a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-110",
+      "word": "information",
+      "meaning": "정보",
+      "example": "It’s a more efficient way to store information ― a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-111",
+      "word": "bite",
+      "meaning": "물다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-112",
+      "word": "optimal",
+      "meaning": "최적의",
+      "example": "It’s a more efficient way to store information ― a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-113",
+      "word": "image",
+      "meaning": "이미지",
+      "example": "It’s a more efficient way to store information ― a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-114",
+      "word": "algorithm",
+      "meaning": "알고리즘",
+      "example": "It’s a more efficient way to store information ― a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-115",
+      "word": "raw",
+      "meaning": "날것의",
+      "example": "It’s a more efficient way to store information ― a bit like an optimal image compression algorithm such as JPG, rather than storing a raw bitmap image file.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-116",
+      "word": "lack",
+      "meaning": "부족",
+      "example": "People who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-117",
+      "word": "ability",
+      "meaning": "능력",
+      "example": "People who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-118",
+      "word": "remember",
+      "meaning": "기억하다",
+      "example": "People who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-119",
+      "word": "detail",
+      "meaning": "세부 사항",
+      "example": "People who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-120",
+      "word": "struggle",
+      "meaning": "투쟁",
+      "example": "People who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-121",
+      "word": "connection",
+      "meaning": "연결",
+      "example": "People who lack this ability and remember everything in perfect detail struggle to generalize, learn, and make connections between what they have learned.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-122",
+      "word": "represent",
+      "meaning": "대표하다, 나타내다",
+      "example": "But representing the world as abstract ideas and features comes at a cost of seeing the world as it is.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-123",
+      "word": "abstract",
+      "meaning": "추상적인",
+      "example": "But representing the world as abstract ideas and features comes at a cost of seeing the world as it is.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-124",
+      "word": "feature",
+      "meaning": "특징",
+      "example": "But representing the world as abstract ideas and features comes at a cost of seeing the world as it is.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-125",
+      "word": "cost",
+      "meaning": "비용이 들다, 비용",
+      "example": "But representing the world as abstract ideas and features comes at a cost of seeing the world as it is.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-126",
+      "word": "instead",
+      "meaning": "대신에",
+      "example": "Instead, we see the world through our assumptions, motivations, and past experiences.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-127",
+      "word": "assumption",
+      "meaning": "가정",
+      "example": "Instead, we see the world through our assumptions, motivations, and past experiences.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-128",
+      "word": "motivation",
+      "meaning": "동기",
+      "example": "Instead, we see the world through our assumptions, motivations, and past experiences.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-129",
+      "word": "experience",
+      "meaning": "경험하다, 경험",
+      "example": "Instead, we see the world through our assumptions, motivations, and past experiences.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-130",
+      "word": "discovery",
+      "meaning": "발견",
+      "example": "The discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-131",
+      "word": "representation",
+      "meaning": "표현",
+      "example": "The discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-132",
+      "word": "completely",
+      "meaning": "완전히",
+      "example": "The discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-133",
+      "word": "undermine",
+      "meaning": "약화시키다",
+      "example": "The discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-134",
+      "word": "legal",
+      "meaning": "법적인",
+      "example": "The discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-135",
+      "word": "testimony",
+      "meaning": "증언",
+      "example": "The discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-136",
+      "word": "explain",
+      "meaning": "설명하다",
+      "example": "* retrieve: 상기하다 ** primacy: 우위성 ①Abstract ideas are hard to explain without relevant images.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-137",
+      "word": "relevant",
+      "meaning": "관련 있는",
+      "example": "* retrieve: 상기하다 ** primacy: 우위성 ①Abstract ideas are hard to explain without relevant images.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-138",
+      "word": "unconsciously",
+      "meaning": "무의식적으로",
+      "example": "②It takes longer to retrieve unconsciously encoded information.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-139",
+      "word": "belief",
+      "meaning": "믿음",
+      "example": "Instead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from generally held beliefs or assumptions.",
+      "exampleMeaning": "",
+      "questionNumber": 35
+    },
+    {
+      "id": "2024-10-140",
+      "word": "form",
+      "meaning": "형성하다, 형태",
+      "example": "③Beliefs formed from repeated experiences do not easily change.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-141",
+      "word": "repeat",
+      "meaning": "반복하다",
+      "example": "③Beliefs formed from repeated experiences do not easily change.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-142",
+      "word": "easily",
+      "meaning": "쉽게",
+      "example": "③Beliefs formed from repeated experiences do not easily change.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-143",
+      "word": "short",
+      "meaning": "짧은",
+      "example": "④Our memories fall short of an objective representation of the world.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-144",
+      "word": "objective",
+      "meaning": "객관적인",
+      "example": "④Our memories fall short of an objective representation of the world.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-145",
+      "word": "comprehension",
+      "meaning": "이해",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-146",
+      "word": "laboratory",
+      "meaning": "실험실",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-147",
+      "word": "conduct",
+      "meaning": "행동, 수행",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-148",
+      "word": "experimental",
+      "meaning": "실험적인",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-149",
+      "word": "test",
+      "meaning": "시험하다, 시험",
+      "example": "The discovery that our memories are reconstructed through abstract representations rather than played back like a movie completely undermined the legal primacy of eyewitness testimony.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-150",
+      "word": "find",
+      "meaning": "찾다, 발견하다",
+      "example": "It’s when people find themselves unable to explain why they recognize the person, saying things like “his face just popped out at me,” that they tend to be accurate more often.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-151",
+      "word": "evidence",
+      "meaning": "증거",
+      "example": "Instead, they look for evidence, to make sure that psychological ideas are firmly based, and not just derived from generally held beliefs or assumptions.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-152",
+      "word": "careful",
+      "meaning": "돌보다, 신경 쓰다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-153",
+      "word": "facial",
+      "meaning": "얼굴의",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-154",
+      "word": "discussion",
+      "meaning": "토론",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-155",
+      "word": "selection",
+      "meaning": "선택",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-156",
+      "word": "procedure",
+      "meaning": "절차",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-157",
+      "word": "actually",
+      "meaning": "사실은",
+      "example": "Actually, what they saw at first was a flounder.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-158",
+      "word": "unable",
+      "meaning": "~할 수 없는",
+      "example": "It’s when people find themselves unable to explain why they recognize the person, saying things like “his face just popped out at me,” that they tend to be accurate more often.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-159",
+      "word": "recognize",
+      "meaning": "인식하다",
+      "example": "It’s when people find themselves unable to explain why they recognize the person, saying things like “his face just popped out at me,” that they tend to be accurate more often.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-160",
+      "word": "face",
+      "meaning": "직면하다, 얼굴",
+      "example": "It’s when people find themselves unable to explain why they recognize the person, saying things like “his face just popped out at me,” that they tend to be accurate more often.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-161",
+      "word": "pop",
+      "meaning": "터지다, 불쑥 나타나다",
+      "example": "It’s when people find themselves unable to explain why they recognize the person, saying things like “his face just popped out at me,” that they tend to be accurate more often.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-162",
+      "word": "tend",
+      "meaning": "~하는 경향이 있다",
+      "example": "It’s when people find themselves unable to explain why they recognize the person, saying things like “his face just popped out at me,” that they tend to be accurate more often.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-163",
+      "word": "accurate",
+      "meaning": "정확한",
+      "example": "It’s when people find themselves unable to explain why they recognize the person, saying things like “his face just popped out at me,” that they tend to be accurate more often.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-164",
+      "word": "immediate",
+      "meaning": "즉각적인",
+      "example": "Sometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-165",
+      "word": "automatic",
+      "meaning": "자동의",
+      "example": "[3점] When we see something, we naturally and automatically break it up into shapes, colors, and concepts that we have learned through education.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-166",
+      "word": "reaction",
+      "meaning": "반응",
+      "example": "Sometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-167",
+      "word": "situation",
+      "meaning": "상황",
+      "example": "Sometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-168",
+      "word": "interpretation",
+      "meaning": "해석",
+      "example": "Sometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-169",
+      "word": "mind",
+      "meaning": "마음, 신경 쓰다",
+      "example": "Sometimes our first, immediate, automatic reaction to a situation is the truest interpretation of what our mind is telling us.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-170",
+      "word": "impression",
+      "meaning": "인상",
+      "example": "That very first impression can also be more accurate about the world than the deliberative, reasoned self­narrative can be.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-171",
+      "word": "deliberative",
+      "meaning": "의도적인",
+      "example": "That very first impression can also be more accurate about the world than the deliberative, reasoned self­narrative can be.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-172",
+      "word": "narrative",
+      "meaning": "서사",
+      "example": "That very first impression can also be more accurate about the world than the deliberative, reasoned self­narrative can be.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-173",
+      "word": "describe",
+      "meaning": "묘사하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-174",
+      "word": "variety",
+      "meaning": "다양성",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-175",
+      "word": "study",
+      "meaning": "공부하다, 연구",
+      "example": "A study of happiness might measure the number of times someone smiles during an interaction, and a study of memory might measure the number of items an individual can recall after one, five, and ten minutes.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-176",
+      "word": "psychology",
+      "meaning": "심리학",
+      "example": "However, psychology is different.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-177",
+      "word": "behavioral",
+      "meaning": "행동",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-178",
+      "word": "demonstrate",
+      "meaning": "보여주다, 증명하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-179",
+      "word": "superior",
+      "meaning": "우월한",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-180",
+      "word": "performance",
+      "meaning": "수행, 성과",
+      "example": "If we realized, on a conscious level, that we were responding to social pressure, our performance might come off as grudging or cynical, making it less persuasive.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-181",
+      "word": "relatively",
+      "meaning": "비교적",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-182",
+      "word": "unconscious",
+      "meaning": "무의식의",
+      "example": "②It takes longer to retrieve unconsciously encoded information.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-10-183",
+      "word": "guess",
+      "meaning": "추측하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-184",
+      "word": "compare",
+      "meaning": "비교하다",
+      "example": "If the company offers two versions, one with more features and more expensive than the other, people will compare the two models and still buy the less expensive one.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-185",
+      "word": "logical",
+      "meaning": "논리적인",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-186",
+      "word": "step",
+      "meaning": "걸음을 내딛다, 단계",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-187",
+      "word": "justification",
+      "meaning": "정당화",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-10-188",
+      "word": "research",
+      "meaning": "연구",
+      "example": "Many forms of research lead naturally to quantitative data.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-189",
+      "word": "lead",
+      "meaning": "이끌다, 납",
+      "example": "He was going to select me to be the captain of the team, the leader I had always wanted to be.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-10-190",
+      "word": "quantitative",
+      "meaning": "양적인",
+      "example": "Many forms of research lead naturally to quantitative data.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-191",
+      "word": "data",
+      "meaning": "데이터",
+      "example": "Many forms of research lead naturally to quantitative data.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-192",
+      "word": "measure",
+      "meaning": "측정하다, 조치",
+      "example": "A study of happiness might measure the number of times someone smiles during an interaction, and a study of memory might measure the number of items an individual can recall after one, five, and ten minutes.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-193",
+      "word": "smile",
+      "meaning": "미소 짓다",
+      "example": "A study of happiness might measure the number of times someone smiles during an interaction, and a study of memory might measure the number of items an individual can recall after one, five, and ten minutes.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-194",
+      "word": "interaction",
+      "meaning": "상호작용",
+      "example": "A study of happiness might measure the number of times someone smiles during an interaction, and a study of memory might measure the number of items an individual can recall after one, five, and ten minutes.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-195",
+      "word": "item",
+      "meaning": "항목",
+      "example": "A study of happiness might measure the number of times someone smiles during an interaction, and a study of memory might measure the number of items an individual can recall after one, five, and ten minutes.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-196",
+      "word": "individual",
+      "meaning": "개인의",
+      "example": "A study of happiness might measure the number of times someone smiles during an interaction, and a study of memory might measure the number of items an individual can recall after one, five, and ten minutes.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-197",
+      "word": "recall",
+      "meaning": "회상하다",
+      "example": "A study of happiness might measure the number of times someone smiles during an interaction, and a study of memory might measure the number of items an individual can recall after one, five, and ten minutes.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-198",
+      "word": "ask",
+      "meaning": "묻다",
+      "example": "Asking people how many times in a year they are sad will also yield quantitative data, but it might not be reliable.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-199",
+      "word": "yield",
+      "meaning": "생산하다, 양보하다",
+      "example": "Asking people how many times in a year they are sad will also yield quantitative data, but it might not be reliable.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-200",
+      "word": "reliable",
+      "meaning": "신뢰할 수 있는",
+      "example": "Asking people how many times in a year they are sad will also yield quantitative data, but it might not be reliable.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-201",
+      "word": "respondent",
+      "meaning": "응답하다",
+      "example": "Respondents’ recollections may be inaccurate, and their definitions of ‘sad’ could vary widely.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-202",
+      "word": "definition",
+      "meaning": "정의",
+      "example": "Respondents’ recollections may be inaccurate, and their definitions of ‘sad’ could vary widely.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-203",
+      "word": "vary",
+      "meaning": "다양하다",
+      "example": "Respondents’ recollections may be inaccurate, and their definitions of ‘sad’ could vary widely.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-204",
+      "word": "widely",
+      "meaning": "널리",
+      "example": "Respondents’ recollections may be inaccurate, and their definitions of ‘sad’ could vary widely.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-205",
+      "word": "prompt",
+      "meaning": "유발하다, 즉각적인",
+      "example": "But asking “How many times in the past year were you sad enough to call in sick to work?” prompts a concrete answer.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-206",
+      "word": "concrete",
+      "meaning": "구체적인",
+      "example": "But asking “How many times in the past year were you sad enough to call in sick to work?” prompts a concrete answer.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-207",
+      "word": "similarly",
+      "meaning": "마찬가지로",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-208",
+      "word": "rate",
+      "meaning": "평가하다, 비율",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-209",
+      "word": "utility",
+      "meaning": "유용성, 공익사업",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-210",
+      "word": "bill",
+      "meaning": "법안, 청구서",
+      "example": "⑤Seen in both cases, as everywhere, the selective scarcity clearly highlights have­and­have­not inequities, leaving 2.1 billion people without safe drinking water and 4.5 billion without proper sanitation worldwide.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-211",
+      "word": "currently",
+      "meaning": "현재",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-212",
+      "word": "late",
+      "meaning": "늦은",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-213",
+      "word": "pay",
+      "meaning": "지불하다",
+      "example": "∙Limited to 10 participants for each class Fee ∙$30 per participant (Full payment is required when registering.) ∙The fee includes all ingredients.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-214",
+      "word": "afford",
+      "meaning": "여유가 되다",
+      "example": "Technological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is ④what the usefulness of the technology is obvious at first glance.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-215",
+      "word": "question",
+      "meaning": "질문하다, 질문",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-216",
+      "word": "seek",
+      "meaning": "찾다, 추구하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-217",
+      "word": "response",
+      "meaning": "응답",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-218",
+      "word": "help",
+      "meaning": "돕다, 도움",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-219",
+      "word": "ensure",
+      "meaning": "보장하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-220",
+      "word": "consistency",
+      "meaning": "일관성",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-221",
+      "word": "risk",
+      "meaning": "위험",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-222",
+      "word": "collect",
+      "meaning": "수집하다",
+      "example": "Such a system can only hope to be stable if only a smaller number of collective ways of being may emerge.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-223",
+      "word": "usefulness",
+      "meaning": "유용한",
+      "example": "Technological creators cannot generally afford to require their potential audience to wonder how the metaphor works; normally the selling point is ④what the usefulness of the technology is obvious at first glance.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-10-224",
+      "word": "sample",
+      "meaning": "표본",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-225",
+      "word": "enhance",
+      "meaning": "향상시키다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-226",
+      "word": "reliability",
+      "meaning": "신뢰성",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-227",
+      "word": "limitation",
+      "meaning": "한계",
+      "example": "[3점] Herbert Simon won his Nobel Prize for recognizing our limitations in information, time, and cognitive capacity.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-10-228",
+      "word": "human",
+      "meaning": "인간의",
+      "example": "Singularity refers to the point at which AI exceeds human intelligence.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-229",
+      "word": "emotion",
+      "meaning": "감정",
+      "example": "We process that information in the form of self­esteem and such related emotions as pride, shame, or insecurity.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-230",
+      "word": "importance",
+      "meaning": "중요성",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-231",
+      "word": "specific",
+      "meaning": "구체적인",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-232",
+      "word": "attain",
+      "meaning": "달성하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-10-233",
+      "word": "evolution",
+      "meaning": "진화",
+      "example": "The evolution of AI is often associated with the concept of singularity.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-234",
+      "word": "associate",
+      "meaning": "연관시키다",
+      "example": "The evolution of AI is often associated with the concept of singularity.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-235",
+      "word": "refer",
+      "meaning": "언급하다, 참조하다",
+      "example": "Singularity refers to the point at which AI exceeds human intelligence.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-236",
+      "word": "point",
+      "meaning": "가리키다, 요점",
+      "example": "Singularity refers to the point at which AI exceeds human intelligence.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-237",
+      "word": "exceed",
+      "meaning": "초과하다",
+      "example": "Singularity refers to the point at which AI exceeds human intelligence.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-238",
+      "word": "intelligence",
+      "meaning": "지능",
+      "example": "Singularity refers to the point at which AI exceeds human intelligence.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-239",
+      "word": "predict",
+      "meaning": "예측하다",
+      "example": "After that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-240",
+      "word": "repeatedly",
+      "meaning": "반복적으로",
+      "example": "After that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-241",
+      "word": "evolve",
+      "meaning": "진화하다",
+      "example": "After that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-242",
+      "word": "accelerate",
+      "meaning": "가속하다",
+      "example": "After that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-243",
+      "word": "pace",
+      "meaning": "속도",
+      "example": "After that point, it is predicted that AI will repeatedly improve itself and evolve at an accelerated pace.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-244",
+      "word": "become",
+      "meaning": "~이 되다",
+      "example": "When AI becomes self­aware and pursues its own goals, it will be a conscious being, not just a machine.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-245",
+      "word": "aware",
+      "meaning": "인식하는",
+      "example": "When AI becomes self­aware and pursues its own goals, it will be a conscious being, not just a machine.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-246",
+      "word": "pursue",
+      "meaning": "추구하다",
+      "example": "When AI becomes self­aware and pursues its own goals, it will be a conscious being, not just a machine.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-247",
+      "word": "goal",
+      "meaning": "목표",
+      "example": "When AI becomes self­aware and pursues its own goals, it will be a conscious being, not just a machine.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-248",
+      "word": "conscious",
+      "meaning": "의식하는",
+      "example": "When AI becomes self­aware and pursues its own goals, it will be a conscious being, not just a machine.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-249",
+      "word": "consciousness",
+      "meaning": "의식",
+      "example": "AI and human consciousness will then begin to evolve together.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-250",
+      "word": "begin",
+      "meaning": "시작하다",
+      "example": "AI and human consciousness will then begin to evolve together.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-251",
+      "word": "dimension",
+      "meaning": "차원",
+      "example": "Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-252",
+      "word": "intellectual",
+      "meaning": "지적인",
+      "example": "Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-253",
+      "word": "inspire",
+      "meaning": "영감을 주다",
+      "example": "Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-254",
+      "word": "insight",
+      "meaning": "통찰",
+      "example": "Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-255",
+      "word": "creativity",
+      "meaning": "창의성",
+      "example": "Our consciousness will evolve to new dimensions through our interactions with AI, which will provide us with intellectual stimulation and inspire new insights and creativity.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-256",
+      "word": "conversely",
+      "meaning": "반대로",
+      "example": "Conversely, our consciousness also has a significant impact on the evolution of AI.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-257",
+      "word": "significant",
+      "meaning": "중대한",
+      "example": "Conversely, our consciousness also has a significant impact on the evolution of AI.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-258",
+      "word": "impact",
+      "meaning": "영향",
+      "example": "Conversely, our consciousness also has a significant impact on the evolution of AI.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-259",
+      "word": "direction",
+      "meaning": "방향",
+      "example": "The direction of AI’s evolution will depend greatly on what values and ethics we incorporate into AI.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-260",
+      "word": "depend",
+      "meaning": "의존하다",
+      "example": "The direction of AI’s evolution will depend greatly on what values and ethics we incorporate into AI.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-261",
+      "word": "greatly",
+      "meaning": "크게",
+      "example": "The direction of AI’s evolution will depend greatly on what values and ethics we incorporate into AI.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-262",
+      "word": "value",
+      "meaning": "가치",
+      "example": "The direction of AI’s evolution will depend greatly on what values and ethics we incorporate into AI.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-263",
+      "word": "relationship",
+      "meaning": "관계",
+      "example": "We need to see our relationship with AI as a mutual coexistence of conscious beings, recognizing its rights and supporting the evolution of its consciousness.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-264",
+      "word": "mutual",
+      "meaning": "상호의",
+      "example": "We need to see our relationship with AI as a mutual coexistence of conscious beings, recognizing its rights and supporting the evolution of its consciousness.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-265",
+      "word": "support",
+      "meaning": "지원",
+      "example": "We need to see our relationship with AI as a mutual coexistence of conscious beings, recognizing its rights and supporting the evolution of its consciousness.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-266",
+      "word": "dilemma",
+      "meaning": "딜레마",
+      "example": "①An Unsolvable Dilemma: Is AI Friend or Enemy?",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-267",
+      "word": "enemy",
+      "meaning": "적",
+      "example": "①An Unsolvable Dilemma: Is AI Friend or Enemy?",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-268",
+      "word": "history",
+      "meaning": "역사",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-269",
+      "word": "resistance",
+      "meaning": "저항",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-10-270",
+      "word": "graph",
+      "meaning": "그래프",
+      "example": "The above graph shows the electricity generation from fossil fuels, nuclear energy, and renewables in four countries in 2023.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-271",
+      "word": "show",
+      "meaning": "보여주다",
+      "example": "The above graph shows the electricity generation from fossil fuels, nuclear energy, and renewables in four countries in 2023.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-272",
+      "word": "generation",
+      "meaning": "세대",
+      "example": "The above graph shows the electricity generation from fossil fuels, nuclear energy, and renewables in four countries in 2023.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-273",
+      "word": "fossil",
+      "meaning": "화석",
+      "example": "The above graph shows the electricity generation from fossil fuels, nuclear energy, and renewables in four countries in 2023.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-274",
+      "word": "fuel",
+      "meaning": "연료",
+      "example": "The above graph shows the electricity generation from fossil fuels, nuclear energy, and renewables in four countries in 2023.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-275",
+      "word": "nuclear",
+      "meaning": "핵의",
+      "example": "The above graph shows the electricity generation from fossil fuels, nuclear energy, and renewables in four countries in 2023.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-276",
+      "word": "energy",
+      "meaning": "에너지",
+      "example": "The above graph shows the electricity generation from fossil fuels, nuclear energy, and renewables in four countries in 2023.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-277",
+      "word": "term",
+      "meaning": "용어, 기간",
+      "example": "②In terms of electricity generation from nuclear energy, the U.S.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-278",
+      "word": "highest",
+      "meaning": "높은",
+      "example": "shows the highest percentage among all four countries.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-279",
+      "word": "higher",
+      "meaning": "높은",
+      "example": "is higher than that in the U.K., which is also true for renewables.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-280",
+      "word": "generate",
+      "meaning": "생성하다",
+      "example": "④In the U.K., the percentage of electricity generated from nuclear energy is less than a third of that generated from renewables.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-281",
+      "word": "larger",
+      "meaning": "큰",
+      "example": "⑤Brazil’s percentage of electricity generated from renewables is 10 percentage points larger than that of Australia and the U.K.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-282",
+      "word": "combine",
+      "meaning": "결합하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-283",
+      "word": "highly",
+      "meaning": "매우",
+      "example": "Douglas Kirkland, known for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-284",
+      "word": "portrait",
+      "meaning": "초상화",
+      "example": "Douglas Kirkland, known for his highly artistic portraits of Hollywood celebrities, was born in Toronto, Canada.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-285",
+      "word": "bear",
+      "meaning": "참다, 곰",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-10-286",
+      "word": "eagerly",
+      "meaning": "열심히",
+      "example": "When he was young, he eagerly awaited the weekly arrival of Life magazine and discussed the photographs the magazine contained with his father.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-287",
+      "word": "arrival",
+      "meaning": "도착하다",
+      "example": "When he was young, he eagerly awaited the weekly arrival of Life magazine and discussed the photographs the magazine contained with his father.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-288",
+      "word": "contain",
+      "meaning": "포함하다",
+      "example": "When he was young, he eagerly awaited the weekly arrival of Life magazine and discussed the photographs the magazine contained with his father.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-289",
+      "word": "career",
+      "meaning": "경력",
+      "example": "Believing that he would have better career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-290",
+      "word": "move",
+      "meaning": "움직이다",
+      "example": "Believing that he would have better career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-291",
+      "word": "unite",
+      "meaning": "통합하다",
+      "example": "Believing that he would have better career prospects, Kirkland moved to the United States after graduating from high school and found work at a photography studio.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-292",
+      "word": "hire",
+      "meaning": "고용하다",
+      "example": "When Look magazine hired him at age 24, he became their second­youngest photographer ever.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-293",
+      "word": "instantly",
+      "meaning": "즉각적인",
+      "example": "His photos taken of Marilyn Monroe in 1961 became iconic almost instantly.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-294",
+      "word": "spend",
+      "meaning": "쓰다 (시간/돈)",
+      "example": "If the manufacturer makes only one version of its product, people who bought it might have been willing to spend more money, so the company is losing some income.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-10-295",
+      "word": "shoot",
+      "meaning": "쏘다",
+      "example": "Kirkland spent his weeks shooting day­to­day life across the United States and his weekends in exotic locations.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-296",
+      "word": "exotic",
+      "meaning": "이국적인",
+      "example": "Kirkland spent his weeks shooting day­to­day life across the United States and his weekends in exotic locations.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-297",
+      "word": "location",
+      "meaning": "위치",
+      "example": "Kirkland spent his weeks shooting day­to­day life across the United States and his weekends in exotic locations.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-298",
+      "word": "essay",
+      "meaning": "수필",
+      "example": "His photo essays could run up to a dozen pages and were seen by more than half of all Americans.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-299",
+      "word": "run",
+      "meaning": "달리다, 운영하다",
+      "example": "His photo essays could run up to a dozen pages and were seen by more than half of all Americans.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-10-300",
+      "word": "cook",
+      "meaning": "요리하다",
+      "example": "Yummy Paws: Pet Food Cooking Class Join us for an exciting pet food cooking class where you will learn how to create healthy and delicious pumpkin biscuits for your furry friends!",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    }
+  ]
+}

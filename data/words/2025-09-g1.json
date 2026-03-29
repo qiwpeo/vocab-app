@@ -1,0 +1,2410 @@
+{
+  "exam": {
+    "year": 2025,
+    "month": 9,
+    "grade": 1,
+    "label": "2025년 9월 고1 모의고사"
+  },
+  "words": [
+    {
+      "id": "2025-09-001",
+      "word": "mean",
+      "meaning": "의미하다, 비열한",
+      "example": "That meant the casting director would call very soon with the results of my first audition for a musical part in The Wizard of Oz.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-002",
+      "word": "result",
+      "meaning": "결과",
+      "example": "That meant the casting director would call very soon with the results of my first audition for a musical part in The Wizard of Oz.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-003",
+      "word": "ring",
+      "meaning": "울리다, 반지",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-004",
+      "word": "hear",
+      "meaning": "듣다",
+      "example": "I heard him say, “Ahh, thank you.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-005",
+      "word": "thank",
+      "meaning": "감사하다",
+      "example": "I heard him say, “Ahh, thank you.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-006",
+      "word": "senior",
+      "meaning": "선임의",
+      "example": "You’re second senior munchkin,” he announced.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-007",
+      "word": "announce",
+      "meaning": "발표하다",
+      "example": "You’re second senior munchkin,” he announced.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-008",
+      "word": "rush",
+      "meaning": "서두르다",
+      "example": "I got a little rush of excitement, knowing I was in — that whatever happened I could be involved in one of the productions.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-009",
+      "word": "excitement",
+      "meaning": "흥분",
+      "example": "I got a little rush of excitement, knowing I was in — that whatever happened I could be involved in one of the productions.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-010",
+      "word": "happen",
+      "meaning": "일어나다",
+      "example": "I got a little rush of excitement, knowing I was in — that whatever happened I could be involved in one of the productions.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-011",
+      "word": "involve",
+      "meaning": "관련시키다, 수반하다",
+      "example": "I got a little rush of excitement, knowing I was in — that whatever happened I could be involved in one of the productions.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-012",
+      "word": "production",
+      "meaning": "생산",
+      "example": "I got a little rush of excitement, knowing I was in — that whatever happened I could be involved in one of the productions.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-013",
+      "word": "calm",
+      "meaning": "차분한",
+      "example": "① puzzled → calm ② bored → confused ③ nervous → pleased ④ satisfied → regretful ⑤ confident → disappointed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-014",
+      "word": "confuse",
+      "meaning": "혼란스럽게 하다",
+      "example": "① puzzled → calm ② bored → confused ③ nervous → pleased ④ satisfied → regretful ⑤ confident → disappointed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-015",
+      "word": "nervous",
+      "meaning": "신경",
+      "example": "① puzzled → calm ② bored → confused ③ nervous → pleased ④ satisfied → regretful ⑤ confident → disappointed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-016",
+      "word": "please",
+      "meaning": "기쁘게 하다",
+      "example": "① puzzled → calm ② bored → confused ③ nervous → pleased ④ satisfied → regretful ⑤ confident → disappointed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-017",
+      "word": "satisfy",
+      "meaning": "만족시키다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-018",
+      "word": "regretful",
+      "meaning": "후회하다",
+      "example": "① puzzled → calm ② bored → confused ③ nervous → pleased ④ satisfied → regretful ⑤ confident → disappointed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-019",
+      "word": "confident",
+      "meaning": "자신감 있는",
+      "example": "① puzzled → calm ② bored → confused ③ nervous → pleased ④ satisfied → regretful ⑤ confident → disappointed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-020",
+      "word": "disappoint",
+      "meaning": "실망시키다",
+      "example": "① puzzled → calm ② bored → confused ③ nervous → pleased ④ satisfied → regretful ⑤ confident → disappointed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-09-021",
+      "word": "teacher",
+      "meaning": "가르치다",
+      "example": "Inefficient teachers overlook the potential power of the opening minutes of class.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-022",
+      "word": "overlook",
+      "meaning": "간과하다",
+      "example": "Inefficient teachers overlook the potential power of the opening minutes of class.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-023",
+      "word": "potential",
+      "meaning": "잠재적인",
+      "example": "Inefficient teachers overlook the potential power of the opening minutes of class.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-024",
+      "word": "power",
+      "meaning": "힘, 권력",
+      "example": "Inefficient teachers overlook the potential power of the opening minutes of class.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-025",
+      "word": "open",
+      "meaning": "열다",
+      "example": "Inefficient teachers overlook the potential power of the opening minutes of class.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-026",
+      "word": "press",
+      "meaning": "누르다",
+      "example": "Often, if students are quiet enough and if there are many pressing demands on a teacher’s time at that moment, more than ten minutes can disappear before class starts.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-027",
+      "word": "demand",
+      "meaning": "수요, 요구",
+      "example": "Often, if students are quiet enough and if there are many pressing demands on a teacher’s time at that moment, more than ten minutes can disappear before class starts.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-028",
+      "word": "disappear",
+      "meaning": "사라지다",
+      "example": "Often, if students are quiet enough and if there are many pressing demands on a teacher’s time at that moment, more than ten minutes can disappear before class starts.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-029",
+      "word": "start",
+      "meaning": "시작하다",
+      "example": "Often, if students are quiet enough and if there are many pressing demands on a teacher’s time at that moment, more than ten minutes can disappear before class starts.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-030",
+      "word": "wonder",
+      "meaning": "궁금해하다, 경이",
+      "example": "It’s no wonder that students are late for class; they have little reason to be on time.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-031",
+      "word": "late",
+      "meaning": "늦은",
+      "example": "It’s no wonder that students are late for class; they have little reason to be on time.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-032",
+      "word": "choose",
+      "meaning": "선택하다",
+      "example": "You can use the first ten minutes to get your class off to a great start, or you can choose to waste this time.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-033",
+      "word": "waste",
+      "meaning": "낭비",
+      "example": "You can use the first ten minutes to get your class off to a great start, or you can choose to waste this time.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-034",
+      "word": "set",
+      "meaning": "설정하다, 놓다",
+      "example": "The first minutes set the tone for the rest of the class.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-035",
+      "word": "tone",
+      "meaning": "어조",
+      "example": "The first minutes set the tone for the rest of the class.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-036",
+      "word": "rest",
+      "meaning": "쉬다, 나머지",
+      "example": "The first minutes set the tone for the rest of the class.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-037",
+      "word": "prepare",
+      "meaning": "준비하다",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-038",
+      "word": "teach",
+      "meaning": "가르치다",
+      "example": "Inefficient teachers overlook the potential power of the opening minutes of class.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-039",
+      "word": "routine",
+      "meaning": "일상적인",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-040",
+      "word": "brief",
+      "meaning": "짧은",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-041",
+      "word": "mental",
+      "meaning": "정신적인",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-042",
+      "word": "emotional",
+      "meaning": "감정적인",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-043",
+      "word": "transition",
+      "meaning": "전환",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-044",
+      "word": "last",
+      "meaning": "지속하다, 마지막의",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-045",
+      "word": "subject",
+      "meaning": "~을 당하기 쉬운",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-046",
+      "word": "focus",
+      "meaning": "초점",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-047",
+      "word": "learn",
+      "meaning": "배우다",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-048",
+      "word": "material",
+      "meaning": "재료",
+      "example": "If you are prepared for class and have taught your students an opening routine, they can use this brief time to make mental and emotional transitions from the last class or subject and prepare to focus on learning new material.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-049",
+      "word": "summary",
+      "meaning": "요약",
+      "example": "In summary, you should establish an opening routine to develop your class with an effective start.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-050",
+      "word": "establish",
+      "meaning": "설립하다, 확립하다",
+      "example": "In summary, you should establish an opening routine to develop your class with an effective start.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-051",
+      "word": "develop",
+      "meaning": "발전시키다, 개발하다",
+      "example": "In summary, you should establish an opening routine to develop your class with an effective start.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-052",
+      "word": "effective",
+      "meaning": "효과적인",
+      "example": "In summary, you should establish an opening routine to develop your class with an effective start.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-053",
+      "word": "principal",
+      "meaning": "주요한",
+      "example": "Dear Principal Jones, I hope this message finds you well.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-054",
+      "word": "hope",
+      "meaning": "희망하다, 희망",
+      "example": "Dear Principal Jones, I hope this message finds you well.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-055",
+      "word": "message",
+      "meaning": "메시지",
+      "example": "Dear Principal Jones, I hope this message finds you well.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-056",
+      "word": "find",
+      "meaning": "찾다, 발견하다",
+      "example": "Dear Principal Jones, I hope this message finds you well.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-057",
+      "word": "council",
+      "meaning": "의회",
+      "example": "As student council president, I am reaching out to discuss an important matter regarding our school library’s current operating hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-058",
+      "word": "reach",
+      "meaning": "도달하다",
+      "example": "As student council president, I am reaching out to discuss an important matter regarding our school library’s current operating hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-059",
+      "word": "important",
+      "meaning": "중요한",
+      "example": "As student council president, I am reaching out to discuss an important matter regarding our school library’s current operating hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-060",
+      "word": "matter",
+      "meaning": "문제, 물질",
+      "example": "As student council president, I am reaching out to discuss an important matter regarding our school library’s current operating hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-061",
+      "word": "regard",
+      "meaning": "간주하다",
+      "example": "As student council president, I am reaching out to discuss an important matter regarding our school library’s current operating hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-062",
+      "word": "current",
+      "meaning": "현재의",
+      "example": "As student council president, I am reaching out to discuss an important matter regarding our school library’s current operating hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-063",
+      "word": "operate",
+      "meaning": "작동하다, 운영하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-064",
+      "word": "present",
+      "meaning": "제시하다, 현재의, 선물",
+      "example": "At present, the library closes at 5 p.m., which many students feel limits their ability to fully use its resources for study and research after regular class hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-065",
+      "word": "close",
+      "meaning": "닫다, 가까운",
+      "example": "At present, the library closes at 5 p.m., which many students feel limits their ability to fully use its resources for study and research after regular class hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-066",
+      "word": "feel",
+      "meaning": "느끼다",
+      "example": "At present, the library closes at 5 p.m., which many students feel limits their ability to fully use its resources for study and research after regular class hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-067",
+      "word": "limit",
+      "meaning": "제한하다, 한계",
+      "example": "At present, the library closes at 5 p.m., which many students feel limits their ability to fully use its resources for study and research after regular class hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-068",
+      "word": "ability",
+      "meaning": "능력",
+      "example": "At present, the library closes at 5 p.m., which many students feel limits their ability to fully use its resources for study and research after regular class hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-069",
+      "word": "fully",
+      "meaning": "완전히",
+      "example": "At present, the library closes at 5 p.m., which many students feel limits their ability to fully use its resources for study and research after regular class hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-070",
+      "word": "resource",
+      "meaning": "자원",
+      "example": "At present, the library closes at 5 p.m., which many students feel limits their ability to fully use its resources for study and research after regular class hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-071",
+      "word": "study",
+      "meaning": "공부하다, 연구",
+      "example": "At present, the library closes at 5 p.m., which many students feel limits their ability to fully use its resources for study and research after regular class hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-072",
+      "word": "research",
+      "meaning": "연구",
+      "example": "At present, the library closes at 5 p.m., which many students feel limits their ability to fully use its resources for study and research after regular class hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-073",
+      "word": "regular",
+      "meaning": "규칙적인",
+      "example": "At present, the library closes at 5 p.m., which many students feel limits their ability to fully use its resources for study and research after regular class hours.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-074",
+      "word": "particularly",
+      "meaning": "특히",
+      "example": "This is particularly challenging for those preparing for college entrance exams or working on academic projects that demand a quiet and resourceful environment.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-075",
+      "word": "challenge",
+      "meaning": "도전",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-076",
+      "word": "entrance",
+      "meaning": "입구",
+      "example": "This is particularly challenging for those preparing for college entrance exams or working on academic projects that demand a quiet and resourceful environment.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-077",
+      "word": "work",
+      "meaning": "일하다, 작동하다",
+      "example": "This is particularly challenging for those preparing for college entrance exams or working on academic projects that demand a quiet and resourceful environment.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-078",
+      "word": "academic",
+      "meaning": "학문적인",
+      "example": "This is particularly challenging for those preparing for college entrance exams or working on academic projects that demand a quiet and resourceful environment.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-079",
+      "word": "project",
+      "meaning": "프로젝트",
+      "example": "This is particularly challenging for those preparing for college entrance exams or working on academic projects that demand a quiet and resourceful environment.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-080",
+      "word": "resourceful",
+      "meaning": "자원",
+      "example": "This is particularly challenging for those preparing for college entrance exams or working on academic projects that demand a quiet and resourceful environment.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-081",
+      "word": "environment",
+      "meaning": "환경",
+      "example": "This is particularly challenging for those preparing for college entrance exams or working on academic projects that demand a quiet and resourceful environment.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-082",
+      "word": "ask",
+      "meaning": "묻다",
+      "example": "Therefore, I’d like to ask you to extend the library’s operating hours to 7 p.m.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-083",
+      "word": "extend",
+      "meaning": "연장하다",
+      "example": "Therefore, I’d like to ask you to extend the library’s operating hours to 7 p.m.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-084",
+      "word": "change",
+      "meaning": "바꾸다, 변화",
+      "example": "This change would greatly benefit students by providing additional time to focus on their academic goals.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-085",
+      "word": "greatly",
+      "meaning": "크게",
+      "example": "This change would greatly benefit students by providing additional time to focus on their academic goals.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-086",
+      "word": "benefit",
+      "meaning": "이익, 혜택",
+      "example": "This change would greatly benefit students by providing additional time to focus on their academic goals.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-087",
+      "word": "provide",
+      "meaning": "제공하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-088",
+      "word": "additional",
+      "meaning": "추가",
+      "example": "This change would greatly benefit students by providing additional time to focus on their academic goals.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-089",
+      "word": "goal",
+      "meaning": "목표",
+      "example": "This change would greatly benefit students by providing additional time to focus on their academic goals.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-090",
+      "word": "consider",
+      "meaning": "고려하다",
+      "example": "I hope you will consider this proposal as a step toward improving our academic environment and better supporting our needs.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-091",
+      "word": "proposal",
+      "meaning": "제안",
+      "example": "I hope you will consider this proposal as a step toward improving our academic environment and better supporting our needs.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-092",
+      "word": "step",
+      "meaning": "걸음을 내딛다, 단계",
+      "example": "I hope you will consider this proposal as a step toward improving our academic environment and better supporting our needs.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-093",
+      "word": "improve",
+      "meaning": "향상시키다",
+      "example": "These activities help improve strength, flexibility, and endurance.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-094",
+      "word": "support",
+      "meaning": "지원",
+      "example": "I hope you will consider this proposal as a step toward improving our academic environment and better supporting our needs.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-095",
+      "word": "need",
+      "meaning": "필요하다",
+      "example": "I hope you will consider this proposal as a step toward improving our academic environment and better supporting our needs.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-096",
+      "word": "sincerely",
+      "meaning": "진심으로",
+      "example": "Sincerely, Eric Park Student Council President --- PAGE 3 --- 고1 영어영역 3 3 8 21.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-09-097",
+      "word": "follow",
+      "meaning": "따르다",
+      "example": "There will be many who will follow you.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-098",
+      "word": "universe",
+      "meaning": "우주",
+      "example": "Many atoms in your body are nearly as old as the universe itself.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-099",
+      "word": "breathe",
+      "meaning": "숨 쉬다",
+      "example": "When you breathe, for example, only some of the atoms that you inhale are exhaled in your next breath.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-100",
+      "word": "breath",
+      "meaning": "숨",
+      "example": "When you breathe, for example, only some of the atoms that you inhale are exhaled in your next breath.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-101",
+      "word": "remain",
+      "meaning": "남다, 유지되다",
+      "example": "The remaining atoms are taken into your body to become part of you, and they later leave your body by various means.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-102",
+      "word": "become",
+      "meaning": "~이 되다",
+      "example": "The remaining atoms are taken into your body to become part of you, and they later leave your body by various means.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-103",
+      "word": "later",
+      "meaning": "늦은",
+      "example": "The remaining atoms are taken into your body to become part of you, and they later leave your body by various means.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-104",
+      "word": "leave",
+      "meaning": "떠나다, 남기다",
+      "example": "The remaining atoms are taken into your body to become part of you, and they later leave your body by various means.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-105",
+      "word": "borrow",
+      "meaning": "빌리다",
+      "example": "You don’t “own” the atoms that make up your body; you borrow them.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-106",
+      "word": "share",
+      "meaning": "공유하다",
+      "example": "We all share from the same atom pool because atoms forever travel around, within, and among us.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-107",
+      "word": "pool",
+      "meaning": "모으다, 수영장",
+      "example": "We all share from the same atom pool because atoms forever travel around, within, and among us.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-108",
+      "word": "travel",
+      "meaning": "여행하다",
+      "example": "We all share from the same atom pool because atoms forever travel around, within, and among us.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-109",
+      "word": "cycle",
+      "meaning": "순환",
+      "example": "Atoms cycle from person to person as we breathe and as our sweat is evaporated.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-110",
+      "word": "recycle",
+      "meaning": "재활용하다",
+      "example": "We recycle atoms on a grand scale.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-111",
+      "word": "grand",
+      "meaning": "웅장한",
+      "example": "We recycle atoms on a grand scale.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-112",
+      "word": "scale",
+      "meaning": "규모, 척도",
+      "example": "We recycle atoms on a grand scale.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-113",
+      "word": "origin",
+      "meaning": "기원",
+      "example": "The origin of the lightest atoms goes back to the origin of the universe, and most heavier atoms are older than the Sun and Earth.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-114",
+      "word": "lightest",
+      "meaning": "밝히다, 빛, 가벼운",
+      "example": "The origin of the lightest atoms goes back to the origin of the universe, and most heavier atoms are older than the Sun and Earth.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-115",
+      "word": "exist",
+      "meaning": "존재하다",
+      "example": "There are atoms in your body that have existed since the first moments of time, recycling throughout the universe among limitless forms, both nonliving and living.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-116",
+      "word": "limitless",
+      "meaning": "제한하다, 한계",
+      "example": "There are atoms in your body that have existed since the first moments of time, recycling throughout the universe among limitless forms, both nonliving and living.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-117",
+      "word": "form",
+      "meaning": "형성하다, 형태",
+      "example": "There are atoms in your body that have existed since the first moments of time, recycling throughout the universe among limitless forms, both nonliving and living.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-118",
+      "word": "live",
+      "meaning": "살다",
+      "example": "This tendency is best seen with little kids and their toy joy: When they get what they’ve longed for, they believe they will be happy for the rest of their lives.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2025-09-119",
+      "word": "unique",
+      "meaning": "독특한",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-120",
+      "word": "original",
+      "meaning": "원래의, 독창적인",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-121",
+      "word": "completely",
+      "meaning": "완전히",
+      "example": "While our experiences affect our mood, we are not blown in a completely new direction by each gust of wind.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-122",
+      "word": "act",
+      "meaning": "행동하다, 행동",
+      "example": "The act of gardening itself is a fantastic form of physical activity.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-123",
+      "word": "fantastic",
+      "meaning": "환상적인",
+      "example": "The act of gardening itself is a fantastic form of physical activity.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-124",
+      "word": "physical",
+      "meaning": "신체의, 물리적인",
+      "example": "The act of gardening itself is a fantastic form of physical activity.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-125",
+      "word": "activity",
+      "meaning": "활동",
+      "example": "The act of gardening itself is a fantastic form of physical activity.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-126",
+      "word": "range",
+      "meaning": "범위",
+      "example": "It involves a range of motions, from digging and planting to watering and harvesting.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-127",
+      "word": "plant",
+      "meaning": "심다, 식물",
+      "example": "It involves a range of motions, from digging and planting to watering and harvesting.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-128",
+      "word": "harvest",
+      "meaning": "수확",
+      "example": "It involves a range of motions, from digging and planting to watering and harvesting.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-129",
+      "word": "help",
+      "meaning": "돕다, 도움",
+      "example": "These activities help improve strength, flexibility, and endurance.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-130",
+      "word": "strength",
+      "meaning": "힘, 강점",
+      "example": "These activities help improve strength, flexibility, and endurance.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-131",
+      "word": "flexibility",
+      "meaning": "유연성",
+      "example": "These activities help improve strength, flexibility, and endurance.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-132",
+      "word": "endurance",
+      "meaning": "인내력",
+      "example": "These activities help improve strength, flexibility, and endurance.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-133",
+      "word": "realize",
+      "meaning": "깨닫다",
+      "example": "You might not realize it, but small tasks like weeding or turning compost can burn many calories.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-134",
+      "word": "task",
+      "meaning": "과제",
+      "example": "You might not realize it, but small tasks like weeding or turning compost can burn many calories.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-135",
+      "word": "turn",
+      "meaning": "돌리다, 차례",
+      "example": "You might not realize it, but small tasks like weeding or turning compost can burn many calories.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-136",
+      "word": "burn",
+      "meaning": "태우다",
+      "example": "You might not realize it, but small tasks like weeding or turning compost can burn many calories.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-137",
+      "word": "beneficial",
+      "meaning": "유익한",
+      "example": "Gardening is particularly beneficial for those who find traditional exercise challenging.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-138",
+      "word": "traditional",
+      "meaning": "전통적인",
+      "example": "Gardening is particularly beneficial for those who find traditional exercise challenging.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-139",
+      "word": "exercise",
+      "meaning": "운동하다, 운동",
+      "example": "Gardening is particularly beneficial for those who find traditional exercise challenging.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-140",
+      "word": "impact",
+      "meaning": "영향",
+      "example": "It’s a low­impact way to stay active and fit, making it accessible for people of all ages and physical abilities.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-141",
+      "word": "stay",
+      "meaning": "머무르다",
+      "example": "It’s a low­impact way to stay active and fit, making it accessible for people of all ages and physical abilities.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-142",
+      "word": "active",
+      "meaning": "활동적인",
+      "example": "It’s a low­impact way to stay active and fit, making it accessible for people of all ages and physical abilities.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-143",
+      "word": "fit",
+      "meaning": "맞다, 적합한",
+      "example": "It’s a low­impact way to stay active and fit, making it accessible for people of all ages and physical abilities.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-144",
+      "word": "accessible",
+      "meaning": "접근 가능한",
+      "example": "It’s a low­impact way to stay active and fit, making it accessible for people of all ages and physical abilities.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-145",
+      "word": "health",
+      "meaning": "건강",
+      "example": "Besides physical health, gardening has profound mental health benefits.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-146",
+      "word": "profound",
+      "meaning": "심오한",
+      "example": "Besides physical health, gardening has profound mental health benefits.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-147",
+      "word": "tend",
+      "meaning": "~하는 경향이 있다",
+      "example": "Tending to plants can be incredibly calming and meditative.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-148",
+      "word": "incredibly",
+      "meaning": "믿을 수 없을 만큼",
+      "example": "Tending to plants can be incredibly calming and meditative.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-149",
+      "word": "allow",
+      "meaning": "허용하다",
+      "example": "It allows you to focus on the present moment, reducing stress and anxiety.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-150",
+      "word": "reduce",
+      "meaning": "줄이다",
+      "example": "Studies have shown that spending time in nature, even in a small garden, can elevate mood, improve cognition, and reduce depression symptoms.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-151",
+      "word": "stress",
+      "meaning": "스트레스, 강조",
+      "example": "It allows you to focus on the present moment, reducing stress and anxiety.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-152",
+      "word": "anxiety",
+      "meaning": "불안",
+      "example": "It allows you to focus on the present moment, reducing stress and anxiety.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-153",
+      "word": "state",
+      "meaning": "진술하다, 상태",
+      "example": "The repetitive tasks involved in gardening can induce a state of mindfulness, similar to meditation.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-154",
+      "word": "similar",
+      "meaning": "비슷한",
+      "example": "The repetitive tasks involved in gardening can induce a state of mindfulness, similar to meditation.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-155",
+      "word": "show",
+      "meaning": "보여주다",
+      "example": "Studies have shown that spending time in nature, even in a small garden, can elevate mood, improve cognition, and reduce depression symptoms.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-156",
+      "word": "spend",
+      "meaning": "쓰다 (시간/돈)",
+      "example": "Studies have shown that spending time in nature, even in a small garden, can elevate mood, improve cognition, and reduce depression symptoms.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-157",
+      "word": "nature",
+      "meaning": "자연, 본성",
+      "example": "Studies have shown that spending time in nature, even in a small garden, can elevate mood, improve cognition, and reduce depression symptoms.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-158",
+      "word": "mood",
+      "meaning": "분위기, 기분",
+      "example": "Studies have shown that spending time in nature, even in a small garden, can elevate mood, improve cognition, and reduce depression symptoms.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-159",
+      "word": "depression",
+      "meaning": "우울증, 불황",
+      "example": "Studies have shown that spending time in nature, even in a small garden, can elevate mood, improve cognition, and reduce depression symptoms.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-160",
+      "word": "symptom",
+      "meaning": "증상",
+      "example": "Studies have shown that spending time in nature, even in a small garden, can elevate mood, improve cognition, and reduce depression symptoms.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-161",
+      "word": "sense",
+      "meaning": "감지하다, 감각",
+      "example": "The sense of accomplishment from watching your plants grow and thrive can also boost self­esteem and overall well­being.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-162",
+      "word": "accomplishment",
+      "meaning": "업적",
+      "example": "The sense of accomplishment from watching your plants grow and thrive can also boost self­esteem and overall well­being.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-163",
+      "word": "watch",
+      "meaning": "지켜보다",
+      "example": "The sense of accomplishment from watching your plants grow and thrive can also boost self­esteem and overall well­being.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-164",
+      "word": "grow",
+      "meaning": "자라다, 성장하다",
+      "example": "The sense of accomplishment from watching your plants grow and thrive can also boost self­esteem and overall well­being.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-165",
+      "word": "thrive",
+      "meaning": "번성하다",
+      "example": "The sense of accomplishment from watching your plants grow and thrive can also boost self­esteem and overall well­being.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-166",
+      "word": "boost",
+      "meaning": "높이다, 증가",
+      "example": "The sense of accomplishment from watching your plants grow and thrive can also boost self­esteem and overall well­being.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-167",
+      "word": "overall",
+      "meaning": "전반적으로",
+      "example": "The sense of accomplishment from watching your plants grow and thrive can also boost self­esteem and overall well­being.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-09-168",
+      "word": "human",
+      "meaning": "인간의",
+      "example": "For many centuries, humans have taken advantage of tools that translate and bring into our perception natural phenomena that we can’t perceive with our senses.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-169",
+      "word": "advantage",
+      "meaning": "이점",
+      "example": "For many centuries, humans have taken advantage of tools that translate and bring into our perception natural phenomena that we can’t perceive with our senses.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-170",
+      "word": "tool",
+      "meaning": "도구",
+      "example": "For many centuries, humans have taken advantage of tools that translate and bring into our perception natural phenomena that we can’t perceive with our senses.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-171",
+      "word": "translate",
+      "meaning": "번역하다",
+      "example": "For many centuries, humans have taken advantage of tools that translate and bring into our perception natural phenomena that we can’t perceive with our senses.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-172",
+      "word": "bring",
+      "meaning": "가져오다",
+      "example": "For many centuries, humans have taken advantage of tools that translate and bring into our perception natural phenomena that we can’t perceive with our senses.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-173",
+      "word": "perception",
+      "meaning": "인식",
+      "example": "For many centuries, humans have taken advantage of tools that translate and bring into our perception natural phenomena that we can’t perceive with our senses.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-174",
+      "word": "natural",
+      "meaning": "자연의",
+      "example": "For many centuries, humans have taken advantage of tools that translate and bring into our perception natural phenomena that we can’t perceive with our senses.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-175",
+      "word": "phenomenon",
+      "meaning": "현상",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-176",
+      "word": "perceive",
+      "meaning": "인식하다",
+      "example": "For many centuries, humans have taken advantage of tools that translate and bring into our perception natural phenomena that we can’t perceive with our senses.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-177",
+      "word": "consist",
+      "meaning": "구성되다",
+      "example": "In some cases, this consists of simply amplifying signals that feed into our normal sensory inputs (e.g., telescopes can bring into clear view that which is too far away for our eyes to perceive on their own).",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-178",
+      "word": "simply",
+      "meaning": "단순히",
+      "example": "In some cases, this consists of simply amplifying signals that feed into our normal sensory inputs (e.g., telescopes can bring into clear view that which is too far away for our eyes to perceive on their own).",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-179",
+      "word": "signal",
+      "meaning": "신호를 보내다, 신호",
+      "example": "In some cases, this consists of simply amplifying signals that feed into our normal sensory inputs (e.g., telescopes can bring into clear view that which is too far away for our eyes to perceive on their own).",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-180",
+      "word": "normal",
+      "meaning": "정상적인",
+      "example": "In some cases, this consists of simply amplifying signals that feed into our normal sensory inputs (e.g., telescopes can bring into clear view that which is too far away for our eyes to perceive on their own).",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-181",
+      "word": "sensory",
+      "meaning": "감지하다, 감각",
+      "example": "In some cases, this consists of simply amplifying signals that feed into our normal sensory inputs (e.g., telescopes can bring into clear view that which is too far away for our eyes to perceive on their own).",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-182",
+      "word": "input",
+      "meaning": "입력",
+      "example": "In some cases, this consists of simply amplifying signals that feed into our normal sensory inputs (e.g., telescopes can bring into clear view that which is too far away for our eyes to perceive on their own).",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-183",
+      "word": "view",
+      "meaning": "보다, 견해",
+      "example": "In some cases, this consists of simply amplifying signals that feed into our normal sensory inputs (e.g., telescopes can bring into clear view that which is too far away for our eyes to perceive on their own).",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-184",
+      "word": "instrument",
+      "meaning": "기구, 악기",
+      "example": "Other instruments turn signals that we cannot perceive into ones that we can observe.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-185",
+      "word": "observe",
+      "meaning": "관찰하다",
+      "example": "Other instruments turn signals that we cannot perceive into ones that we can observe.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-186",
+      "word": "expand",
+      "meaning": "확장하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-187",
+      "word": "create",
+      "meaning": "창조하다",
+      "example": "Guidelines • Create a bookmark by hand using markers or crayons.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-188",
+      "word": "visible",
+      "meaning": "눈에 보이는",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-189",
+      "word": "image",
+      "meaning": "이미지",
+      "example": "• Designs must fit the slogan “Find Your Voice.” • Do not use commercialized character images in your design.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-190",
+      "word": "base",
+      "meaning": "기반을 두다, 기초",
+      "example": "There will be highs and lows, but over time, like water seeking its own level, we are pulled toward our baseline ― back up after bad news and back down after good.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-191",
+      "word": "spectrum",
+      "meaning": "스펙트럼",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-192",
+      "word": "light",
+      "meaning": "밝히다, 빛, 가벼운",
+      "example": "The origin of the lightest atoms goes back to the origin of the universe, and most heavier atoms are older than the Sun and Earth.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-193",
+      "word": "sound",
+      "meaning": "건전한",
+      "example": "In 1967, he discovered that humpback whales make long and complex sounds.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-194",
+      "word": "normally",
+      "meaning": "보통",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-195",
+      "word": "alternatively",
+      "meaning": "대안",
+      "example": "Alternatively, some instruments measure properties for which we have no sensory capacity at all and change them into that which we can observe.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-196",
+      "word": "measure",
+      "meaning": "측정하다, 조치",
+      "example": "Alternatively, some instruments measure properties for which we have no sensory capacity at all and change them into that which we can observe.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-197",
+      "word": "property",
+      "meaning": "재산, 속성",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-198",
+      "word": "capacity",
+      "meaning": "용량, 능력",
+      "example": "Alternatively, some instruments measure properties for which we have no sensory capacity at all and change them into that which we can observe.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-199",
+      "word": "difficulty",
+      "meaning": "어려움",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-200",
+      "word": "replace",
+      "meaning": "대체하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 35
+    },
+    {
+      "id": "2025-09-201",
+      "word": "increase",
+      "meaning": "증가시키다, 증가",
+      "example": "This natural chemical builds up in your blood as time awake increases.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-202",
+      "word": "inspire",
+      "meaning": "영감을 주다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-203",
+      "word": "invent",
+      "meaning": "발명하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-204",
+      "word": "scientific",
+      "meaning": "과학적인",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-205",
+      "word": "difference",
+      "meaning": "차이",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-206",
+      "word": "visual",
+      "meaning": "시각적인",
+      "example": "For example, when visualizing a hammer in our mind’s eye, we tend to “see” it in profile or at some other “ready for use” angle.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-207",
+      "word": "imagination",
+      "meaning": "상상력",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-208",
+      "word": "discover",
+      "meaning": "발견하다",
+      "example": "Consequently, the correlation between animal experimentation and medical discovery is the result of legal necessity, not evidence that animal experimentation led to medical advances.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-09-209",
+      "word": "opponent",
+      "meaning": "상대방",
+      "example": "Many opponents of animal experimentation argue that not only is modern medicine not the only cause for the decline in mortality, many medical advances that did contribute to human health were not the result of animal experimentation.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-210",
+      "word": "argue",
+      "meaning": "주장하다, 논쟁하다",
+      "example": "Many opponents of animal experimentation argue that not only is modern medicine not the only cause for the decline in mortality, many medical advances that did contribute to human health were not the result of animal experimentation.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-211",
+      "word": "modern",
+      "meaning": "현대의",
+      "example": "Many opponents of animal experimentation argue that not only is modern medicine not the only cause for the decline in mortality, many medical advances that did contribute to human health were not the result of animal experimentation.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-212",
+      "word": "medicine",
+      "meaning": "약, 의학",
+      "example": "Many opponents of animal experimentation argue that not only is modern medicine not the only cause for the decline in mortality, many medical advances that did contribute to human health were not the result of animal experimentation.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-213",
+      "word": "cause",
+      "meaning": "야기하다, 원인",
+      "example": "Many opponents of animal experimentation argue that not only is modern medicine not the only cause for the decline in mortality, many medical advances that did contribute to human health were not the result of animal experimentation.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-214",
+      "word": "decline",
+      "meaning": "감소",
+      "example": "Many opponents of animal experimentation argue that not only is modern medicine not the only cause for the decline in mortality, many medical advances that did contribute to human health were not the result of animal experimentation.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-215",
+      "word": "medical",
+      "meaning": "의학의",
+      "example": "Many opponents of animal experimentation argue that not only is modern medicine not the only cause for the decline in mortality, many medical advances that did contribute to human health were not the result of animal experimentation.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-216",
+      "word": "advance",
+      "meaning": "발전하다, 전진",
+      "example": "Many opponents of animal experimentation argue that not only is modern medicine not the only cause for the decline in mortality, many medical advances that did contribute to human health were not the result of animal experimentation.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-217",
+      "word": "contribute",
+      "meaning": "기여하다",
+      "example": "Many opponents of animal experimentation argue that not only is modern medicine not the only cause for the decline in mortality, many medical advances that did contribute to human health were not the result of animal experimentation.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-218",
+      "word": "defender",
+      "meaning": "방어하다",
+      "example": "Defenders of research have claimed that since there is a strong correlation between the practice of animal experimentation and medical advancement, the former caused the latter.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-219",
+      "word": "claim",
+      "meaning": "주장",
+      "example": "Defenders of research have claimed that since there is a strong correlation between the practice of animal experimentation and medical advancement, the former caused the latter.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-220",
+      "word": "strong",
+      "meaning": "강한",
+      "example": "Defenders of research have claimed that since there is a strong correlation between the practice of animal experimentation and medical advancement, the former caused the latter.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-221",
+      "word": "correlation",
+      "meaning": "상관관계",
+      "example": "Defenders of research have claimed that since there is a strong correlation between the practice of animal experimentation and medical advancement, the former caused the latter.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-222",
+      "word": "practice",
+      "meaning": "연습, 실행",
+      "example": "Defenders of research have claimed that since there is a strong correlation between the practice of animal experimentation and medical advancement, the former caused the latter.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-223",
+      "word": "advancement",
+      "meaning": "발전하다, 전진",
+      "example": "Defenders of research have claimed that since there is a strong correlation between the practice of animal experimentation and medical advancement, the former caused the latter.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-224",
+      "word": "former",
+      "meaning": "이전의",
+      "example": "Defenders of research have claimed that since there is a strong correlation between the practice of animal experimentation and medical advancement, the former caused the latter.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-225",
+      "word": "latter",
+      "meaning": "후자의",
+      "example": "Defenders of research have claimed that since there is a strong correlation between the practice of animal experimentation and medical advancement, the former caused the latter.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-226",
+      "word": "reject",
+      "meaning": "거부하다",
+      "example": "Opponents of research reject this inference.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-227",
+      "word": "independent",
+      "meaning": "독립적인",
+      "example": "After all, we have independent reasons to expect these phenomena to be correlated.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-228",
+      "word": "expect",
+      "meaning": "기대하다",
+      "example": "After all, we have independent reasons to expect these phenomena to be correlated.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-229",
+      "word": "law",
+      "meaning": "법",
+      "example": "Since the law prescribes that all new drugs, prosthetic devices, and surgical techniques be tried on animals before they are used in humans, we will subsequently find that all medical advances are correlated with prior experimentation on animals.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-230",
+      "word": "drug",
+      "meaning": "약물",
+      "example": "Since the law prescribes that all new drugs, prosthetic devices, and surgical techniques be tried on animals before they are used in humans, we will subsequently find that all medical advances are correlated with prior experimentation on animals.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-231",
+      "word": "device",
+      "meaning": "장치",
+      "example": "Since the law prescribes that all new drugs, prosthetic devices, and surgical techniques be tried on animals before they are used in humans, we will subsequently find that all medical advances are correlated with prior experimentation on animals.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-232",
+      "word": "technique",
+      "meaning": "기술",
+      "example": "Since the law prescribes that all new drugs, prosthetic devices, and surgical techniques be tried on animals before they are used in humans, we will subsequently find that all medical advances are correlated with prior experimentation on animals.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-233",
+      "word": "try",
+      "meaning": "시도하다",
+      "example": "Just imagine trying to herd an animal that runs away, blindly hits ⑤itself against walls, can leap up to nearly 30 feet, and can run at a speed of 50 miles per hour!",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2025-09-234",
+      "word": "subsequently",
+      "meaning": "이후에",
+      "example": "Since the law prescribes that all new drugs, prosthetic devices, and surgical techniques be tried on animals before they are used in humans, we will subsequently find that all medical advances are correlated with prior experimentation on animals.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-235",
+      "word": "consequently",
+      "meaning": "결과적으로",
+      "example": "Consequently, the correlation between animal experimentation and medical discovery is the result of legal necessity, not evidence that animal experimentation led to medical advances.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-236",
+      "word": "discovery",
+      "meaning": "발견",
+      "example": "Consequently, the correlation between animal experimentation and medical discovery is the result of legal necessity, not evidence that animal experimentation led to medical advances.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-237",
+      "word": "legal",
+      "meaning": "법적인",
+      "example": "Consequently, the correlation between animal experimentation and medical discovery is the result of legal necessity, not evidence that animal experimentation led to medical advances.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-238",
+      "word": "necessity",
+      "meaning": "필요성",
+      "example": "Consequently, the correlation between animal experimentation and medical discovery is the result of legal necessity, not evidence that animal experimentation led to medical advances.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-239",
+      "word": "evidence",
+      "meaning": "증거",
+      "example": "Consequently, the correlation between animal experimentation and medical discovery is the result of legal necessity, not evidence that animal experimentation led to medical advances.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-240",
+      "word": "lead",
+      "meaning": "이끌다, 납",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-241",
+      "word": "moreover",
+      "meaning": "게다가",
+      "example": "Moreover, several influential physicians have offered historical evidence that animal experimentation has not been as responsible for biomedical discovery as defenders suggest.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-242",
+      "word": "several",
+      "meaning": "심각한",
+      "example": "Moreover, several influential physicians have offered historical evidence that animal experimentation has not been as responsible for biomedical discovery as defenders suggest.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-243",
+      "word": "influential",
+      "meaning": "영향력 있는",
+      "example": "Moreover, several influential physicians have offered historical evidence that animal experimentation has not been as responsible for biomedical discovery as defenders suggest.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-244",
+      "word": "offer",
+      "meaning": "제안하다",
+      "example": "Moreover, several influential physicians have offered historical evidence that animal experimentation has not been as responsible for biomedical discovery as defenders suggest.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-245",
+      "word": "historical",
+      "meaning": "역사적인",
+      "example": "Moreover, several influential physicians have offered historical evidence that animal experimentation has not been as responsible for biomedical discovery as defenders suggest.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-246",
+      "word": "responsible",
+      "meaning": "책임감 있는",
+      "example": "Moreover, several influential physicians have offered historical evidence that animal experimentation has not been as responsible for biomedical discovery as defenders suggest.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-247",
+      "word": "suggest",
+      "meaning": "제안하다",
+      "example": "Moreover, several influential physicians have offered historical evidence that animal experimentation has not been as responsible for biomedical discovery as defenders suggest.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-248",
+      "word": "clinical",
+      "meaning": "임상의",
+      "example": "They claim that clinical discoveries played a more substantial role than animal researchers have led us to believe.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-249",
+      "word": "play",
+      "meaning": "놀다, 연주하다",
+      "example": "They claim that clinical discoveries played a more substantial role than animal researchers have led us to believe.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-250",
+      "word": "substantial",
+      "meaning": "상당한",
+      "example": "They claim that clinical discoveries played a more substantial role than animal researchers have led us to believe.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-251",
+      "word": "role",
+      "meaning": "역할",
+      "example": "They claim that clinical discoveries played a more substantial role than animal researchers have led us to believe.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-252",
+      "word": "researcher",
+      "meaning": "연구",
+      "example": "They claim that clinical discoveries played a more substantial role than animal researchers have led us to believe.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-253",
+      "word": "believe",
+      "meaning": "믿다",
+      "example": "They claim that clinical discoveries played a more substantial role than animal researchers have led us to believe.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-254",
+      "word": "frontier",
+      "meaning": "국경, 개척지",
+      "example": "* prosthetic: 보철의 ① Bio­medicine: Unlocking New Frontiers in Health Care ② Is Medicine Advanced by Experimenting on Animals?",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-255",
+      "word": "care",
+      "meaning": "돌보다, 신경 쓰다",
+      "example": "You’re the present caretaker of the atoms in your body.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-09-256",
+      "word": "experiment",
+      "meaning": "실험",
+      "example": "Many opponents of animal experimentation argue that not only is modern medicine not the only cause for the decline in mortality, many medical advances that did contribute to human health were not the result of animal experimentation.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-257",
+      "word": "refer",
+      "meaning": "언급하다, 참조하다",
+      "example": "③ Refer to Historical Evidence to Solve Medical Issues ④ Why Aren’t There Strict Laws for Animal Adoption?",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-258",
+      "word": "solve",
+      "meaning": "해결하다",
+      "example": "③ Refer to Historical Evidence to Solve Medical Issues ④ Why Aren’t There Strict Laws for Animal Adoption?",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-259",
+      "word": "issue",
+      "meaning": "문제, 쟁점",
+      "example": "③ Refer to Historical Evidence to Solve Medical Issues ④ Why Aren’t There Strict Laws for Animal Adoption?",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-260",
+      "word": "strict",
+      "meaning": "엄격한",
+      "example": "③ Refer to Historical Evidence to Solve Medical Issues ④ Why Aren’t There Strict Laws for Animal Adoption?",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-261",
+      "word": "span",
+      "meaning": "범위, 기간",
+      "example": "⑤ Medical Advances for Extending Human Life Span --- PAGE 4 --- 4 영어영역 고1 4 8 25.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-09-262",
+      "word": "graph",
+      "meaning": "그래프",
+      "example": "The graph above shows the percentage of online news consumption preferences in three ways for six countries in 2020.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-263",
+      "word": "consumption",
+      "meaning": "소비",
+      "example": "The graph above shows the percentage of online news consumption preferences in three ways for six countries in 2020.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-264",
+      "word": "preference",
+      "meaning": "선호",
+      "example": "The graph above shows the percentage of online news consumption preferences in three ways for six countries in 2020.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-265",
+      "word": "read",
+      "meaning": "읽다",
+      "example": "①In Germany, the UK and Finland, reading was the most preferred way of consuming online news, with its percentage over 60 percent across the three countries.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-266",
+      "word": "prefer",
+      "meaning": "선호하다",
+      "example": "The graph above shows the percentage of online news consumption preferences in three ways for six countries in 2020.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-267",
+      "word": "consume",
+      "meaning": "소비하다",
+      "example": "① Breaking the Ice: Building Trust with Customers ② To Be a Smart Consumer or Not ③ Why “May I Help You?” Fails ④ How “Buy One Get One” Opens Your Wallet ⑤ The Closer to Customers, the More Money You Make 42.",
+      "exampleMeaning": "",
+      "questionNumber": 41
+    },
+    {
+      "id": "2025-09-268",
+      "word": "interest",
+      "meaning": "관심, 이자",
+      "example": "②The interesting point is that the Philippines, Thailand and India all preferred to watch online news the most.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-269",
+      "word": "point",
+      "meaning": "가리키다, 요점",
+      "example": "②The interesting point is that the Philippines, Thailand and India all preferred to watch online news the most.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-270",
+      "word": "term",
+      "meaning": "용어, 기간",
+      "example": "③In terms of preference to watching online news, the Philippines showed the highest percentage and Finland showed the lowest preference among all six countries.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-271",
+      "word": "highest",
+      "meaning": "높은",
+      "example": "③In terms of preference to watching online news, the Philippines showed the highest percentage and Finland showed the lowest preference among all six countries.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-272",
+      "word": "high",
+      "meaning": "높은",
+      "example": "③In terms of preference to watching online news, the Philippines showed the highest percentage and Finland showed the lowest preference among all six countries.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-273",
+      "word": "listen",
+      "meaning": "듣다",
+      "example": "⑤For listening, the least preferred way of consuming online news, the percentage of people who preferred it in Finland was a third of that of Thailand.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-274",
+      "word": "bear",
+      "meaning": "참다, 곰",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-275",
+      "word": "biology",
+      "meaning": "생물학",
+      "example": "He studied biology at Harvard University and eventually earned his Ph.D.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-276",
+      "word": "university",
+      "meaning": "대학교",
+      "example": "He studied biology at Harvard University and eventually earned his Ph.D.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-277",
+      "word": "eventually",
+      "meaning": "결국",
+      "example": "He studied biology at Harvard University and eventually earned his Ph.D.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-278",
+      "word": "earn",
+      "meaning": "벌다",
+      "example": "He studied biology at Harvard University and eventually earned his Ph.D.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-279",
+      "word": "complex",
+      "meaning": "복잡한",
+      "example": "In 1967, he discovered that humpback whales make long and complex sounds.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-280",
+      "word": "communicate",
+      "meaning": "의사소통하다",
+      "example": "They’re known as “whale songs,” and he showed that whales use them to communicate.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-281",
+      "word": "release",
+      "meaning": "발표, 해방",
+      "example": "Then in 1970, he released an album Songs of the Humpback Whale, which became a surprise hit and helped start the global “Save the Whales” movement.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-282",
+      "word": "surprise",
+      "meaning": "놀라움",
+      "example": "Then in 1970, he released an album Songs of the Humpback Whale, which became a surprise hit and helped start the global “Save the Whales” movement.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-283",
+      "word": "hit",
+      "meaning": "치다, 때리다",
+      "example": "Then in 1970, he released an album Songs of the Humpback Whale, which became a surprise hit and helped start the global “Save the Whales” movement.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-284",
+      "word": "global",
+      "meaning": "세계적인",
+      "example": "Then in 1970, he released an album Songs of the Humpback Whale, which became a surprise hit and helped start the global “Save the Whales” movement.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-285",
+      "word": "save",
+      "meaning": "저장하다, 구하다",
+      "example": "Then in 1970, he released an album Songs of the Humpback Whale, which became a surprise hit and helped start the global “Save the Whales” movement.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-286",
+      "word": "movement",
+      "meaning": "움직임, 운동",
+      "example": "Then in 1970, he released an album Songs of the Humpback Whale, which became a surprise hit and helped start the global “Save the Whales” movement.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-287",
+      "word": "found",
+      "meaning": "설립하다",
+      "example": "The following year, he founded Ocean Alliance to protect whales and the earth’s oceans, and he used new, safe methods to study whales without harming them.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-288",
+      "word": "alliance",
+      "meaning": "동맹",
+      "example": "The following year, he founded Ocean Alliance to protect whales and the earth’s oceans, and he used new, safe methods to study whales without harming them.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-289",
+      "word": "protect",
+      "meaning": "보호하다",
+      "example": "The following year, he founded Ocean Alliance to protect whales and the earth’s oceans, and he used new, safe methods to study whales without harming them.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-290",
+      "word": "safe",
+      "meaning": "안전한",
+      "example": "The following year, he founded Ocean Alliance to protect whales and the earth’s oceans, and he used new, safe methods to study whales without harming them.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-291",
+      "word": "method",
+      "meaning": "방법",
+      "example": "The following year, he founded Ocean Alliance to protect whales and the earth’s oceans, and he used new, safe methods to study whales without harming them.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-292",
+      "word": "harm",
+      "meaning": "해",
+      "example": "The following year, he founded Ocean Alliance to protect whales and the earth’s oceans, and he used new, safe methods to study whales without harming them.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-293",
+      "word": "career",
+      "meaning": "경력",
+      "example": "Over his career, he led more than 100 research trips worldwide, including the Voyage of the Odyssey from 2000 to 2005, which studied ocean pollution.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-294",
+      "word": "worldwide",
+      "meaning": "세계적으로",
+      "example": "Over his career, he led more than 100 research trips worldwide, including the Voyage of the Odyssey from 2000 to 2005, which studied ocean pollution.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-295",
+      "word": "include",
+      "meaning": "포함하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-09-296",
+      "word": "pollution",
+      "meaning": "오염",
+      "example": "Over his career, he led more than 100 research trips worldwide, including the Voyage of the Odyssey from 2000 to 2005, which studied ocean pollution.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-297",
+      "word": "ban",
+      "meaning": "금지",
+      "example": "His work helped make laws that protect marine mammals, which finally led to the global ban on commercial whaling in 1986.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-298",
+      "word": "commercial",
+      "meaning": "상업적인",
+      "example": "His work helped make laws that protect marine mammals, which finally led to the global ban on commercial whaling in 1986.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-299",
+      "word": "design",
+      "meaning": "설계하다, 디자인",
+      "example": "2025 Library Bookmark Design Contest The 6th annual Library Bookmark Design Contest is now open!",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-09-300",
+      "word": "contest",
+      "meaning": "경쟁하다, 대회",
+      "example": "2025 Library Bookmark Design Contest The 6th annual Library Bookmark Design Contest is now open!",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    }
+  ]
+}

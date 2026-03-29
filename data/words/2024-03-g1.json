@@ -1,0 +1,2410 @@
+{
+  "exam": {
+    "year": 2024,
+    "month": 3,
+    "grade": 1,
+    "label": "2024년 3월 고1 모의고사"
+  },
+  "words": [
+    {
+      "id": "2024-03-001",
+      "word": "teacher",
+      "meaning": "가르치다",
+      "example": "Jane Watson, I am John Austin, a science teacher at Crestville High School.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-002",
+      "word": "high",
+      "meaning": "높은",
+      "example": "Jane Watson, I am John Austin, a science teacher at Crestville High School.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-003",
+      "word": "recently",
+      "meaning": "최근에",
+      "example": "Recently I was impressed by the latest book you wrote about the environment.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-004",
+      "word": "impress",
+      "meaning": "감동시키다",
+      "example": "Recently I was impressed by the latest book you wrote about the environment.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-005",
+      "word": "latest",
+      "meaning": "늦은",
+      "example": "Recently I was impressed by the latest book you wrote about the environment.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-006",
+      "word": "write",
+      "meaning": "쓰다",
+      "example": "Write down all the real­time challenges that you face and deal with.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-007",
+      "word": "environment",
+      "meaning": "환경",
+      "example": "Recently I was impressed by the latest book you wrote about the environment.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-008",
+      "word": "read",
+      "meaning": "읽다",
+      "example": "Also my students read your book and had a class discussion about it.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-009",
+      "word": "discussion",
+      "meaning": "토론",
+      "example": "Also my students read your book and had a class discussion about it.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-010",
+      "word": "ask",
+      "meaning": "묻다",
+      "example": "They are big fans of your book, so I’d like to ask you to visit our school and give a special lecture.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-011",
+      "word": "visit",
+      "meaning": "방문하다",
+      "example": "They are big fans of your book, so I’d like to ask you to visit our school and give a special lecture.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-012",
+      "word": "special",
+      "meaning": "특별한",
+      "example": "They are big fans of your book, so I’d like to ask you to visit our school and give a special lecture.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-013",
+      "word": "lecture",
+      "meaning": "강의",
+      "example": "They are big fans of your book, so I’d like to ask you to visit our school and give a special lecture.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-014",
+      "word": "set",
+      "meaning": "설정하다, 놓다",
+      "example": "We can set the date and time to suit your schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-015",
+      "word": "suit",
+      "meaning": "어울리다, 양복",
+      "example": "We can set the date and time to suit your schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-016",
+      "word": "schedule",
+      "meaning": "일정",
+      "example": "We can set the date and time to suit your schedule.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-017",
+      "word": "fantastic",
+      "meaning": "환상적인",
+      "example": "Having you at our school would be a fantastic experience for the students.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-018",
+      "word": "experience",
+      "meaning": "경험하다, 경험",
+      "example": "Having you at our school would be a fantastic experience for the students.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-019",
+      "word": "grateful",
+      "meaning": "감사하는",
+      "example": "We would be very grateful if you could come.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-020",
+      "word": "regard",
+      "meaning": "간주하다",
+      "example": "Thus we all have the potential to be leaders at school, in our communities, and at work, regardless of age or experience.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-021",
+      "word": "build",
+      "meaning": "짓다, 세우다",
+      "example": "She ran to Marilyn, saying she would never build a sandcastle again.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-022",
+      "word": "later",
+      "meaning": "늦은",
+      "example": "Moments later, an enormous wave destroyed Sarah’s castle.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-023",
+      "word": "enormous",
+      "meaning": "거대한",
+      "example": "Moments later, an enormous wave destroyed Sarah’s castle.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-024",
+      "word": "wave",
+      "meaning": "파도",
+      "example": "Moments later, an enormous wave destroyed Sarah’s castle.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-025",
+      "word": "destroy",
+      "meaning": "파괴하다",
+      "example": "Moments later, an enormous wave destroyed Sarah’s castle.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-026",
+      "word": "response",
+      "meaning": "응답",
+      "example": "In response to the loss of her sandcastle, tears streamed down Sarah’s cheeks and her heart was broken.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-027",
+      "word": "loss",
+      "meaning": "손실",
+      "example": "In response to the loss of her sandcastle, tears streamed down Sarah’s cheeks and her heart was broken.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-028",
+      "word": "tear",
+      "meaning": "찢다, 눈물",
+      "example": "In response to the loss of her sandcastle, tears streamed down Sarah’s cheeks and her heart was broken.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-029",
+      "word": "break",
+      "meaning": "깨다, 부수다",
+      "example": "If you find yourself struggling to decide whether you have finished, take a break and come back to it later with fresh eyes.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-030",
+      "word": "run",
+      "meaning": "달리다, 운영하다",
+      "example": "(A) When a messenger neared the next hut, he began to call out and repeated the message three or four times to the one who was running out to meet him.",
+      "exampleMeaning": "",
+      "questionNumber": 35
+    },
+    {
+      "id": "2024-03-031",
+      "word": "joy",
+      "meaning": "기쁨",
+      "example": "① sad → excited ② envious → anxious ③ bored → joyful ④ relaxed → regretful ⑤ nervous → surprised 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-032",
+      "word": "gift",
+      "meaning": "선물, 재능",
+      "example": "• Winning Prize - A $100 gift card to use at local shops -The winner will be announced on our website on May 30.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-033",
+      "word": "love",
+      "meaning": "사랑하다",
+      "example": "Do you love the movie Cinderella like me?",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-034",
+      "word": "respond",
+      "meaning": "응답하다",
+      "example": "One of the most striking characteristics of a sleeping animal or person is that they do not respond normally to environmental stimuli.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-035",
+      "word": "enthusiasm",
+      "meaning": "열정",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-036",
+      "word": "closer",
+      "meaning": "닫다, 가까운",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-037",
+      "word": "excite",
+      "meaning": "흥분시키다",
+      "example": "① sad → excited ② envious → anxious ③ bored → joyful ④ relaxed → regretful ⑤ nervous → surprised 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-038",
+      "word": "anxious",
+      "meaning": "불안한",
+      "example": "① sad → excited ② envious → anxious ③ bored → joyful ④ relaxed → regretful ⑤ nervous → surprised 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-039",
+      "word": "joyful",
+      "meaning": "기쁨",
+      "example": "① sad → excited ② envious → anxious ③ bored → joyful ④ relaxed → regretful ⑤ nervous → surprised 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-040",
+      "word": "relax",
+      "meaning": "긴장을 풀다",
+      "example": "① sad → excited ② envious → anxious ③ bored → joyful ④ relaxed → regretful ⑤ nervous → surprised 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-041",
+      "word": "regretful",
+      "meaning": "후회하다",
+      "example": "① sad → excited ② envious → anxious ③ bored → joyful ④ relaxed → regretful ⑤ nervous → surprised 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-042",
+      "word": "nervous",
+      "meaning": "신경",
+      "example": "① sad → excited ② envious → anxious ③ bored → joyful ④ relaxed → regretful ⑤ nervous → surprised 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-043",
+      "word": "surprise",
+      "meaning": "놀라움",
+      "example": "① sad → excited ② envious → anxious ③ bored → joyful ④ relaxed → regretful ⑤ nervous → surprised 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-044",
+      "word": "wish",
+      "meaning": "바라다",
+      "example": "Magic is what we all wish for to happen in our life.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-045",
+      "word": "happen",
+      "meaning": "일어나다",
+      "example": "Magic is what we all wish for to happen in our life.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-046",
+      "word": "real",
+      "meaning": "진짜의",
+      "example": "Well, in real life, you can also create magic.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-047",
+      "word": "create",
+      "meaning": "창조하다",
+      "example": "Well, in real life, you can also create magic.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-048",
+      "word": "challenge",
+      "meaning": "도전",
+      "example": "Write down all the real­time challenges that you face and deal with.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-049",
+      "word": "face",
+      "meaning": "직면하다, 얼굴",
+      "example": "Write down all the real­time challenges that you face and deal with.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-050",
+      "word": "deal",
+      "meaning": "거래",
+      "example": "Write down all the real­time challenges that you face and deal with.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-051",
+      "word": "change",
+      "meaning": "바꾸다, 변화",
+      "example": "Just change the challenge statement into positive statements.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-052",
+      "word": "statement",
+      "meaning": "진술",
+      "example": "Just change the challenge statement into positive statements.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-053",
+      "word": "positive",
+      "meaning": "긍정적인",
+      "example": "Just change the challenge statement into positive statements.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-054",
+      "word": "struggle",
+      "meaning": "투쟁",
+      "example": "If you struggle with getting up early in the morning, then write a positive statement such as “I get up early in the morning at 5:00 am every day.” Once you write these statements, get ready to witness magic and confidence.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-055",
+      "word": "ready",
+      "meaning": "준비된",
+      "example": "If you struggle with getting up early in the morning, then write a positive statement such as “I get up early in the morning at 5:00 am every day.” Once you write these statements, get ready to witness magic and confidence.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-056",
+      "word": "witness",
+      "meaning": "목격자",
+      "example": "If you struggle with getting up early in the morning, then write a positive statement such as “I get up early in the morning at 5:00 am every day.” Once you write these statements, get ready to witness magic and confidence.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-057",
+      "word": "confidence",
+      "meaning": "자신감",
+      "example": "If you struggle with getting up early in the morning, then write a positive statement such as “I get up early in the morning at 5:00 am every day.” Once you write these statements, get ready to witness magic and confidence.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-058",
+      "word": "shift",
+      "meaning": "변화",
+      "example": "You will be surprised that just by writing these statements, there is a shift in the way you think and act.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-059",
+      "word": "think",
+      "meaning": "생각하다",
+      "example": "You will be surprised that just by writing these statements, there is a shift in the way you think and act.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-060",
+      "word": "act",
+      "meaning": "행동하다, 행동",
+      "example": "You will be surprised that just by writing these statements, there is a shift in the way you think and act.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-061",
+      "word": "suddenly",
+      "meaning": "갑자기",
+      "example": "Suddenly you feel more powerful and positive.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-062",
+      "word": "feel",
+      "meaning": "느끼다",
+      "example": "Suddenly you feel more powerful and positive.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-063",
+      "word": "powerful",
+      "meaning": "강력한",
+      "example": "Suddenly you feel more powerful and positive.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-064",
+      "word": "push",
+      "meaning": "밀다",
+      "example": "밑줄 친 push animal senses into Aristotelian buckets가 다 음 글에서 의미하는 바로 가장 적절한 것은?",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-065",
+      "word": "sense",
+      "meaning": "감지하다, 감각",
+      "example": "밑줄 친 push animal senses into Aristotelian buckets가 다 음 글에서 의미하는 바로 가장 적절한 것은?",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-066",
+      "word": "consider",
+      "meaning": "고려하다",
+      "example": "[3점] Consider the seemingly simple question How many senses are there?",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-067",
+      "word": "seemingly",
+      "meaning": "겉보기에",
+      "example": "[3점] Consider the seemingly simple question How many senses are there?",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-068",
+      "word": "simple",
+      "meaning": "간단한",
+      "example": "[3점] Consider the seemingly simple question How many senses are there?",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-069",
+      "word": "question",
+      "meaning": "질문하다, 질문",
+      "example": "[3점] Consider the seemingly simple question How many senses are there?",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-070",
+      "word": "human",
+      "meaning": "인간의",
+      "example": "Around 2,370 years ago, Aristotle wrote that there are five, in both humans and animals — sight, hearing, smell, taste, and touch.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-071",
+      "word": "hear",
+      "meaning": "듣다",
+      "example": "In response to the loss of her sandcastle, tears streamed down Sarah’s cheeks and her heart was broken.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2024-03-072",
+      "word": "smell",
+      "meaning": "냄새 맡다",
+      "example": "Around 2,370 years ago, Aristotle wrote that there are five, in both humans and animals — sight, hearing, smell, taste, and touch.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-073",
+      "word": "taste",
+      "meaning": "맛보다, 맛",
+      "example": "Around 2,370 years ago, Aristotle wrote that there are five, in both humans and animals — sight, hearing, smell, taste, and touch.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-074",
+      "word": "touch",
+      "meaning": "만지다",
+      "example": "Around 2,370 years ago, Aristotle wrote that there are five, in both humans and animals — sight, hearing, smell, taste, and touch.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-075",
+      "word": "however",
+      "meaning": "그러나",
+      "example": "However, according to the philosopher Fiona Macpherson, there are reasons to doubt it.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-076",
+      "word": "doubt",
+      "meaning": "의심",
+      "example": "However, according to the philosopher Fiona Macpherson, there are reasons to doubt it.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-077",
+      "word": "start",
+      "meaning": "시작하다",
+      "example": "For a start, Aristotle missed a few in humans: the perception of your own body which is different from touch and the sense of balance which has links to both touch and vision.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-078",
+      "word": "miss",
+      "meaning": "놓치다, 그리워하다",
+      "example": "For a start, Aristotle missed a few in humans: the perception of your own body which is different from touch and the sense of balance which has links to both touch and vision.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-079",
+      "word": "perception",
+      "meaning": "인식",
+      "example": "For a start, Aristotle missed a few in humans: the perception of your own body which is different from touch and the sense of balance which has links to both touch and vision.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-080",
+      "word": "different",
+      "meaning": "다른",
+      "example": "For a start, Aristotle missed a few in humans: the perception of your own body which is different from touch and the sense of balance which has links to both touch and vision.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-081",
+      "word": "balance",
+      "meaning": "균형",
+      "example": "For a start, Aristotle missed a few in humans: the perception of your own body which is different from touch and the sense of balance which has links to both touch and vision.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-082",
+      "word": "link",
+      "meaning": "연결",
+      "example": "For a start, Aristotle missed a few in humans: the perception of your own body which is different from touch and the sense of balance which has links to both touch and vision.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-083",
+      "word": "vision",
+      "meaning": "비전, 시력",
+      "example": "For a start, Aristotle missed a few in humans: the perception of your own body which is different from touch and the sense of balance which has links to both touch and vision.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-084",
+      "word": "categorize",
+      "meaning": "분류하다",
+      "example": "Other animals have senses that are even harder to categorize.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-085",
+      "word": "detect",
+      "meaning": "감지하다",
+      "example": "Many vertebrates have a different sense system for detecting odors.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-086",
+      "word": "heat",
+      "meaning": "가열하다, 열",
+      "example": "Some snakes can detect the body heat of their prey.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-087",
+      "word": "prey",
+      "meaning": "먹이",
+      "example": "Some snakes can detect the body heat of their prey.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-088",
+      "word": "clearly",
+      "meaning": "분명히",
+      "example": "These examples tell us that “senses cannot be clearly divided into a limited number of specific kinds,” Macpherson wrote in The Senses.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-089",
+      "word": "divide",
+      "meaning": "나누다",
+      "example": "These examples tell us that “senses cannot be clearly divided into a limited number of specific kinds,” Macpherson wrote in The Senses.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-090",
+      "word": "limit",
+      "meaning": "제한하다, 한계",
+      "example": "These examples tell us that “senses cannot be clearly divided into a limited number of specific kinds,” Macpherson wrote in The Senses.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-091",
+      "word": "specific",
+      "meaning": "구체적인",
+      "example": "These examples tell us that “senses cannot be clearly divided into a limited number of specific kinds,” Macpherson wrote in The Senses.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-092",
+      "word": "kind",
+      "meaning": "친절한, 종류",
+      "example": "These examples tell us that “senses cannot be clearly divided into a limited number of specific kinds,” Macpherson wrote in The Senses.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-093",
+      "word": "instead",
+      "meaning": "대신에",
+      "example": "Instead of trying to push animal senses into Aristotelian buckets, we should study them for what they are.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-094",
+      "word": "try",
+      "meaning": "시도하다",
+      "example": "Instead of trying to push animal senses into Aristotelian buckets, we should study them for what they are.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-095",
+      "word": "study",
+      "meaning": "공부하다, 연구",
+      "example": "Instead of trying to push animal senses into Aristotelian buckets, we should study them for what they are.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-096",
+      "word": "sort",
+      "meaning": "분류하다, 종류",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-097",
+      "word": "fix",
+      "meaning": "고치다, 고정하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-098",
+      "word": "category",
+      "meaning": "범주",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-099",
+      "word": "keep",
+      "meaning": "유지하다, 보관하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-100",
+      "word": "view",
+      "meaning": "보다, 견해",
+      "example": "No respectable boss would say, “I make it a point to discourage my staff from speaking up, and I maintain a culture that prevents disagreeing viewpoints from ever getting aired.” If anything, most bosses even say that they are pro­dissent.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-101",
+      "word": "understand",
+      "meaning": "이해하다",
+      "example": "Knowing that experts forget how hard it was for them to learn, we can understand the need to , rather than making assumptions about how students ‘should be’ learning.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-102",
+      "word": "traditional",
+      "meaning": "전통적인",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-103",
+      "word": "ignore",
+      "meaning": "무시하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-104",
+      "word": "lesson",
+      "meaning": "교훈, 수업",
+      "example": "(B) Odawa shared Iktomi’s lesson with (b) his people.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-105",
+      "word": "analyze",
+      "meaning": "분석하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-106",
+      "word": "find",
+      "meaning": "찾다, 발견하다",
+      "example": "If you find yourself struggling to decide whether you have finished, take a break and come back to it later with fresh eyes.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2024-03-107",
+      "word": "leader",
+      "meaning": "이끌다, 납",
+      "example": "When we think of leaders, we may think of people such as Abraham Lincoln or Martin Luther King, Jr.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-108",
+      "word": "historical",
+      "meaning": "역사적인",
+      "example": "If you consider the historical importance and far­reaching influence of these individuals, leadership might seem like a noble and high goal.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-109",
+      "word": "importance",
+      "meaning": "중요성",
+      "example": "If you consider the historical importance and far­reaching influence of these individuals, leadership might seem like a noble and high goal.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-110",
+      "word": "reach",
+      "meaning": "도달하다",
+      "example": "If you consider the historical importance and far­reaching influence of these individuals, leadership might seem like a noble and high goal.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-111",
+      "word": "influence",
+      "meaning": "영향",
+      "example": "If you consider the historical importance and far­reaching influence of these individuals, leadership might seem like a noble and high goal.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-112",
+      "word": "individual",
+      "meaning": "개인의",
+      "example": "If you consider the historical importance and far­reaching influence of these individuals, leadership might seem like a noble and high goal.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-113",
+      "word": "leadership",
+      "meaning": "리더십",
+      "example": "If you consider the historical importance and far­reaching influence of these individuals, leadership might seem like a noble and high goal.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-114",
+      "word": "noble",
+      "meaning": "고귀한",
+      "example": "If you consider the historical importance and far­reaching influence of these individuals, leadership might seem like a noble and high goal.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-115",
+      "word": "goal",
+      "meaning": "목표",
+      "example": "If you consider the historical importance and far­reaching influence of these individuals, leadership might seem like a noble and high goal.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-116",
+      "word": "worker",
+      "meaning": "일하다, 작동하다",
+      "example": "But like all of us, these people started out as students, workers, and citizens who possessed ideas about how some aspect of daily life could be improved on a larger scale.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-117",
+      "word": "possess",
+      "meaning": "소유하다",
+      "example": "But like all of us, these people started out as students, workers, and citizens who possessed ideas about how some aspect of daily life could be improved on a larger scale.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-118",
+      "word": "aspect",
+      "meaning": "측면",
+      "example": "But like all of us, these people started out as students, workers, and citizens who possessed ideas about how some aspect of daily life could be improved on a larger scale.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-119",
+      "word": "daily",
+      "meaning": "매일의",
+      "example": "But like all of us, these people started out as students, workers, and citizens who possessed ideas about how some aspect of daily life could be improved on a larger scale.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-120",
+      "word": "improve",
+      "meaning": "향상시키다",
+      "example": "But like all of us, these people started out as students, workers, and citizens who possessed ideas about how some aspect of daily life could be improved on a larger scale.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-121",
+      "word": "larger",
+      "meaning": "큰",
+      "example": "But like all of us, these people started out as students, workers, and citizens who possessed ideas about how some aspect of daily life could be improved on a larger scale.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-122",
+      "word": "scale",
+      "meaning": "규모, 척도",
+      "example": "But like all of us, these people started out as students, workers, and citizens who possessed ideas about how some aspect of daily life could be improved on a larger scale.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-123",
+      "word": "share",
+      "meaning": "공유하다",
+      "example": "(B) Odawa shared Iktomi’s lesson with (b) his people.",
+      "exampleMeaning": "",
+      "questionNumber": 42
+    },
+    {
+      "id": "2024-03-124",
+      "word": "seek",
+      "meaning": "찾다, 추구하다",
+      "example": "Through diligence and experience, they improved upon their ideas by sharing them with others, seeking their opinions and feedback and constantly looking for the best way to accomplish goals for a group.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-125",
+      "word": "opinion",
+      "meaning": "의견",
+      "example": "Through diligence and experience, they improved upon their ideas by sharing them with others, seeking their opinions and feedback and constantly looking for the best way to accomplish goals for a group.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-126",
+      "word": "feedback",
+      "meaning": "피드백",
+      "example": "Through diligence and experience, they improved upon their ideas by sharing them with others, seeking their opinions and feedback and constantly looking for the best way to accomplish goals for a group.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-127",
+      "word": "constantly",
+      "meaning": "끊임없이",
+      "example": "Through diligence and experience, they improved upon their ideas by sharing them with others, seeking their opinions and feedback and constantly looking for the best way to accomplish goals for a group.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-128",
+      "word": "look",
+      "meaning": "보다",
+      "example": "Through diligence and experience, they improved upon their ideas by sharing them with others, seeking their opinions and feedback and constantly looking for the best way to accomplish goals for a group.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-129",
+      "word": "accomplish",
+      "meaning": "달성하다",
+      "example": "Through diligence and experience, they improved upon their ideas by sharing them with others, seeking their opinions and feedback and constantly looking for the best way to accomplish goals for a group.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-130",
+      "word": "potential",
+      "meaning": "잠재적인",
+      "example": "Thus we all have the potential to be leaders at school, in our communities, and at work, regardless of age or experience.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-131",
+      "word": "community",
+      "meaning": "공동체",
+      "example": "②Focusing on singing, another group of psychologists reviewed articles on the efficacy of group singing as a mental health treatment for individuals living with a mental health condition in a community setting.",
+      "exampleMeaning": "",
+      "questionNumber": 35
+    },
+    {
+      "id": "2024-03-132",
+      "word": "work",
+      "meaning": "일하다, 작동하다",
+      "example": "But like all of us, these people started out as students, workers, and citizens who possessed ideas about how some aspect of daily life could be improved on a larger scale.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-133",
+      "word": "regardless",
+      "meaning": "간주하다",
+      "example": "Thus we all have the potential to be leaders at school, in our communities, and at work, regardless of age or experience.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2024-03-134",
+      "word": "crop",
+      "meaning": "작물",
+      "example": "Crop rotation is the process in which farmers change the crops they grow in their fields in a special order.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-135",
+      "word": "rotation",
+      "meaning": "회전",
+      "example": "Crop rotation is the process in which farmers change the crops they grow in their fields in a special order.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-136",
+      "word": "process",
+      "meaning": "과정",
+      "example": "Crop rotation is the process in which farmers change the crops they grow in their fields in a special order.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-137",
+      "word": "grow",
+      "meaning": "자라다, 성장하다",
+      "example": "Crop rotation is the process in which farmers change the crops they grow in their fields in a special order.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-138",
+      "word": "field",
+      "meaning": "분야, 들판",
+      "example": "Crop rotation is the process in which farmers change the crops they grow in their fields in a special order.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-139",
+      "word": "order",
+      "meaning": "주문하다, 명령하다, 순서",
+      "example": "Crop rotation is the process in which farmers change the crops they grow in their fields in a special order.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-140",
+      "word": "rotate",
+      "meaning": "회전하다",
+      "example": "In year three, the crops will rotate again.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-141",
+      "word": "original",
+      "meaning": "원래의, 독창적인",
+      "example": "By the fourth year, the crops will go back to their original order.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-142",
+      "word": "enrich",
+      "meaning": "풍요롭게 하다",
+      "example": "Each crop enriches the soil for the next crop.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-143",
+      "word": "type",
+      "meaning": "타자를 치다, 유형",
+      "example": "This type of farming is sustainable because the soil stays healthy.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-144",
+      "word": "sustainable",
+      "meaning": "지속 가능한",
+      "example": "This type of farming is sustainable because the soil stays healthy.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-145",
+      "word": "stay",
+      "meaning": "머무르다",
+      "example": "This type of farming is sustainable because the soil stays healthy.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-146",
+      "word": "healthy",
+      "meaning": "건강한",
+      "example": "This type of farming is sustainable because the soil stays healthy.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-147",
+      "word": "advantage",
+      "meaning": "이점",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-148",
+      "word": "maintain",
+      "meaning": "유지하다",
+      "example": "No respectable boss would say, “I make it a point to discourage my staff from speaking up, and I maintain a culture that prevents disagreeing viewpoints from ever getting aired.” If anything, most bosses even say that they are pro­dissent.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-149",
+      "word": "health",
+      "meaning": "건강",
+      "example": "This type of farming is sustainable because the soil stays healthy.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-150",
+      "word": "purchase",
+      "meaning": "구매",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-151",
+      "word": "organic",
+      "meaning": "유기적인",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-152",
+      "word": "choose",
+      "meaning": "선택하다",
+      "example": "You can choose whether to carry on a thought or to add emotion to it and this is the part of your mind that lets you down frequently because — fueled by emotions — you make the wrong decisions time and time again.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-153",
+      "word": "important",
+      "meaning": "중요한",
+      "example": "It is important to take a few steps back from the painting from time to time to assess your progress.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-154",
+      "word": "danger",
+      "meaning": "위험",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-155",
+      "word": "diverse",
+      "meaning": "다양한",
+      "example": "① Norms: For Social Life and Cultural Communication ② Don’t Forget to Say “Thank you” at Any Time ③ How to Be Responsible for Your Behaviors ④ Accept Criticism Without Hurting Yourself ⑤ How Did Diverse Languages Develop?",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-156",
+      "word": "negative",
+      "meaning": "부정적인",
+      "example": "④The negative effects of music were greater than the psychologists expected.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-157",
+      "word": "impact",
+      "meaning": "영향",
+      "example": "Putting too much into a painting can spoil its impact and leave it looking overworked.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2024-03-158",
+      "word": "whole",
+      "meaning": "전체의",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-159",
+      "word": "concentrate",
+      "meaning": "집중하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-160",
+      "word": "mean",
+      "meaning": "의미하다, 비열한",
+      "example": "[3점] It would be hard to overstate how important meaningful work is to human beings — work ①that provides a sense of fulfillment and empowerment.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-161",
+      "word": "stop",
+      "meaning": "멈추다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-162",
+      "word": "point",
+      "meaning": "가리키다, 요점",
+      "example": "No respectable boss would say, “I make it a point to discourage my staff from speaking up, and I maintain a culture that prevents disagreeing viewpoints from ever getting aired.” If anything, most bosses even say that they are pro­dissent.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-163",
+      "word": "finish",
+      "meaning": "끝내다",
+      "example": "If you find yourself struggling to decide whether you have finished, take a break and come back to it later with fresh eyes.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-164",
+      "word": "add",
+      "meaning": "더하다, 추가하다",
+      "example": "( ③) In addition, animals that experience healing for physical illness will react differently than those accepting healing for emotional confusion.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-165",
+      "word": "step",
+      "meaning": "걸음을 내딛다, 단계",
+      "example": "It is important to take a few steps back from the painting from time to time to assess your progress.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-166",
+      "word": "assess",
+      "meaning": "평가하다",
+      "example": "It is important to take a few steps back from the painting from time to time to assess your progress.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-167",
+      "word": "progress",
+      "meaning": "진행되다, 진보",
+      "example": "It is important to take a few steps back from the painting from time to time to assess your progress.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-168",
+      "word": "spoil",
+      "meaning": "망치다",
+      "example": "Putting too much into a painting can spoil its impact and leave it looking overworked.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-169",
+      "word": "leave",
+      "meaning": "떠나다, 남기다",
+      "example": "Putting too much into a painting can spoil its impact and leave it looking overworked.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-170",
+      "word": "decide",
+      "meaning": "결정하다",
+      "example": "If you find yourself struggling to decide whether you have finished, take a break and come back to it later with fresh eyes.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-171",
+      "word": "fresh",
+      "meaning": "신선한",
+      "example": "If you find yourself struggling to decide whether you have finished, take a break and come back to it later with fresh eyes.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-172",
+      "word": "benefit",
+      "meaning": "이익, 혜택",
+      "example": "Then you can decide whether any areas of your painting would benefit from further refinement.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-173",
+      "word": "draw",
+      "meaning": "그리다, 끌다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-174",
+      "word": "inspiration",
+      "meaning": "영감",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-175",
+      "word": "interpretation",
+      "meaning": "해석",
+      "example": "Norms are everywhere, defining what is “normal” and guiding our interpretations of social life at every turn.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-176",
+      "word": "discover",
+      "meaning": "발견하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-177",
+      "word": "meaning",
+      "meaning": "의미",
+      "example": "[3점] It would be hard to overstate how important meaningful work is to human beings — work ①that provides a sense of fulfillment and empowerment.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-178",
+      "word": "brush",
+      "meaning": "빗다, 붓",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-179",
+      "word": "avoid",
+      "meaning": "피하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2024-03-180",
+      "word": "graph",
+      "meaning": "그래프",
+      "example": "The above graph shows the extent to which young people aged 16-25 in six countries had fear about climate change in 2021.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-181",
+      "word": "show",
+      "meaning": "보여주다",
+      "example": "The above graph shows the extent to which young people aged 16-25 in six countries had fear about climate change in 2021.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-182",
+      "word": "extent",
+      "meaning": "정도, 범위",
+      "example": "The above graph shows the extent to which young people aged 16-25 in six countries had fear about climate change in 2021.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-183",
+      "word": "fear",
+      "meaning": "두려워하다, 두려움",
+      "example": "The above graph shows the extent to which young people aged 16-25 in six countries had fear about climate change in 2021.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-184",
+      "word": "climate",
+      "meaning": "기후",
+      "example": "The above graph shows the extent to which young people aged 16-25 in six countries had fear about climate change in 2021.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-185",
+      "word": "highest",
+      "meaning": "높은",
+      "example": "①The Philippines had the highest percentage of young people who said they were extremely or very worried, at 84 percent, followed by 67 percent in Brazil.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-186",
+      "word": "extremely",
+      "meaning": "극도로",
+      "example": "①The Philippines had the highest percentage of young people who said they were extremely or very worried, at 84 percent, followed by 67 percent in Brazil.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-187",
+      "word": "worry",
+      "meaning": "걱정하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-188",
+      "word": "follow",
+      "meaning": "따르다",
+      "example": "①The Philippines had the highest percentage of young people who said they were extremely or very worried, at 84 percent, followed by 67 percent in Brazil.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-189",
+      "word": "higher",
+      "meaning": "높은",
+      "example": "③In France, the percentage of young people who were extremely worried was higher than that of young people who were very worried.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-190",
+      "word": "unite",
+      "meaning": "통합하다",
+      "example": "④In the United Kingdom, the percentage of young generation who said that they were very worried was 29 percent.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-191",
+      "word": "kingdom",
+      "meaning": "왕국",
+      "example": "④In the United Kingdom, the percentage of young generation who said that they were very worried was 29 percent.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-192",
+      "word": "generation",
+      "meaning": "세대",
+      "example": "④In the United Kingdom, the percentage of young generation who said that they were very worried was 29 percent.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-193",
+      "word": "state",
+      "meaning": "진술하다, 상태",
+      "example": "Just change the challenge statement into positive statements.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-194",
+      "word": "bear",
+      "meaning": "참다, 곰",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-195",
+      "word": "secondary",
+      "meaning": "이차적인",
+      "example": "In 1901 Jaroslav went to a secondary school called the Akademicke Gymnasium.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-196",
+      "word": "strong",
+      "meaning": "강한",
+      "example": "Rather than Latin and Greek, he showed a strong interest in the natural sciences.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-197",
+      "word": "interest",
+      "meaning": "관심, 이자",
+      "example": "Rather than Latin and Greek, he showed a strong interest in the natural sciences.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-198",
+      "word": "natural",
+      "meaning": "자연의",
+      "example": "Rather than Latin and Greek, he showed a strong interest in the natural sciences.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-199",
+      "word": "university",
+      "meaning": "대학교",
+      "example": "At Czech University in Prague he studied chemistry, physics, and mathematics.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-200",
+      "word": "chemistry",
+      "meaning": "화학",
+      "example": "At Czech University in Prague he studied chemistry, physics, and mathematics.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-201",
+      "word": "continue",
+      "meaning": "계속하다",
+      "example": "From 1910 to 1914 he continued his studies at University College, London.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-202",
+      "word": "serve",
+      "meaning": "봉사하다, 제공하다",
+      "example": "Throughout the First World War, Jaroslav served in a military hospital.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-203",
+      "word": "military",
+      "meaning": "군사의",
+      "example": "Throughout the First World War, Jaroslav served in a military hospital.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-204",
+      "word": "become",
+      "meaning": "~이 되다",
+      "example": "Experts can become insensitive to how hard a task is for the beginner, an effect referred to as the ‘curse of knowledge’.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-205",
+      "word": "physical",
+      "meaning": "신체의, 물리적인",
+      "example": "In 1926, Jaroslav became the first Professor of Physical Chemistry at Charles University in Prague.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-206",
+      "word": "win",
+      "meaning": "이기다",
+      "example": "• Winning Prize - A $100 gift card to use at local shops -The winner will be announced on our website on May 30.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-207",
+      "word": "join",
+      "meaning": "합류하다, 합치다",
+      "example": "Spring Tea Class for Young People Join us for a delightful Spring Tea Class for young people, where you’ll experience the taste of tea from various cultures around the world.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-208",
+      "word": "culture",
+      "meaning": "문화",
+      "example": "Spring Tea Class for Young People Join us for a delightful Spring Tea Class for young people, where you’ll experience the taste of tea from various cultures around the world.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-209",
+      "word": "detail",
+      "meaning": "세부 사항",
+      "example": "- 11:00 a.m.) Details • We will give you tea and snacks.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-210",
+      "word": "offer",
+      "meaning": "제안하다",
+      "example": "• We offer special tips for hosting a tea party.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-211",
+      "word": "tip",
+      "meaning": "기울이다, 팁",
+      "example": "• We offer special tips for hosting a tea party.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-212",
+      "word": "host",
+      "meaning": "주인, 주최자",
+      "example": "• We offer special tips for hosting a tea party.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-213",
+      "word": "participation",
+      "meaning": "참여",
+      "example": "Participation Fee • Age 13 - 15: $25 per person • Age 16 - 18: $30 per person Note If you have any food allergy, you should email us in advance at youth@seasonteaclass.com.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-214",
+      "word": "note",
+      "meaning": "주목하다, 메모",
+      "example": "Participation Fee • Age 13 - 15: $25 per person • Age 16 - 18: $30 per person Note If you have any food allergy, you should email us in advance at youth@seasonteaclass.com.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-215",
+      "word": "advance",
+      "meaning": "발전하다, 전진",
+      "example": "Participation Fee • Age 13 - 15: $25 per person • Age 16 - 18: $30 per person Note If you have any food allergy, you should email us in advance at youth@seasonteaclass.com.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-216",
+      "word": "contest",
+      "meaning": "경쟁하다, 대회",
+      "example": "Clothes Upcycling Contest 2024 Are you passionate about fashion and the environment?",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-217",
+      "word": "fashion",
+      "meaning": "유행",
+      "example": "Clothes Upcycling Contest 2024 Are you passionate about fashion and the environment?",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-218",
+      "word": "live",
+      "meaning": "살다",
+      "example": "Those most satisfied with their work ④are also much more likely to be happier with their lives overall.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-219",
+      "word": "participate",
+      "meaning": "참여하다",
+      "example": "• Participants - Anyone living in Lakewood, aged 11 to 18 • How to participate - Take before and after photos of your upcycled clothes.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-220",
+      "word": "send",
+      "meaning": "보내다",
+      "example": "- Send in the photos from April 14 to May 12.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-221",
+      "word": "local",
+      "meaning": "지역의",
+      "example": "• Winning Prize - A $100 gift card to use at local shops -The winner will be announced on our website on May 30.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-222",
+      "word": "announce",
+      "meaning": "발표하다",
+      "example": "• Winning Prize - A $100 gift card to use at local shops -The winner will be announced on our website on May 30.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-223",
+      "word": "meaningful",
+      "meaning": "의미 있는",
+      "example": "[3점] It would be hard to overstate how important meaningful work is to human beings — work ①that provides a sense of fulfillment and empowerment.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-224",
+      "word": "provide",
+      "meaning": "제공하다",
+      "example": "[3점] It would be hard to overstate how important meaningful work is to human beings — work ①that provides a sense of fulfillment and empowerment.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-225",
+      "word": "fulfillment",
+      "meaning": "성취, 이행",
+      "example": "[3점] It would be hard to overstate how important meaningful work is to human beings — work ①that provides a sense of fulfillment and empowerment.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-226",
+      "word": "empowerment",
+      "meaning": "권한을 부여하다",
+      "example": "[3점] It would be hard to overstate how important meaningful work is to human beings — work ①that provides a sense of fulfillment and empowerment.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-227",
+      "word": "deeper",
+      "meaning": "깊은",
+      "example": "Those who have found deeper meaning in their careers find their days much more energizing and satisfying, and ②to count their employment as one of their greatest sources of joy and pride.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-228",
+      "word": "career",
+      "meaning": "경력",
+      "example": "Those who have found deeper meaning in their careers find their days much more energizing and satisfying, and ②to count their employment as one of their greatest sources of joy and pride.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-229",
+      "word": "satisfy",
+      "meaning": "만족시키다",
+      "example": "Those who have found deeper meaning in their careers find their days much more energizing and satisfying, and ②to count their employment as one of their greatest sources of joy and pride.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-230",
+      "word": "count",
+      "meaning": "세다",
+      "example": "The above graph shows the extent to which young people aged 16-25 in six countries had fear about climate change in 2021.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2024-03-231",
+      "word": "employment",
+      "meaning": "고용",
+      "example": "Those who have found deeper meaning in their careers find their days much more energizing and satisfying, and ②to count their employment as one of their greatest sources of joy and pride.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-232",
+      "word": "source",
+      "meaning": "원천",
+      "example": "Those who have found deeper meaning in their careers find their days much more energizing and satisfying, and ②to count their employment as one of their greatest sources of joy and pride.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-233",
+      "word": "pride",
+      "meaning": "자부심",
+      "example": "Those who have found deeper meaning in their careers find their days much more energizing and satisfying, and ②to count their employment as one of their greatest sources of joy and pride.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-234",
+      "word": "psychology",
+      "meaning": "심리학",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-235",
+      "word": "conduct",
+      "meaning": "행동, 수행",
+      "example": "( ①) As it turns out, the map was a misinterpretation and mistranslation of research conducted in Germany at the turn of the twentieth century.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-236",
+      "word": "numerous",
+      "meaning": "수많은",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-237",
+      "word": "produce",
+      "meaning": "생산하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-238",
+      "word": "quality",
+      "meaning": "품질",
+      "example": "①The results showed that the group music therapy improved the quality of participants’ life, with those participating in a greater number of sessions experiencing the greatest benefits.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-239",
+      "word": "output",
+      "meaning": "산출",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-240",
+      "word": "generally",
+      "meaning": "일반적으로",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-241",
+      "word": "earn",
+      "meaning": "벌다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-242",
+      "word": "income",
+      "meaning": "소득",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-243",
+      "word": "likely",
+      "meaning": "~할 것 같은",
+      "example": "Those most satisfied with their work ④are also much more likely to be happier with their lives overall.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-244",
+      "word": "overall",
+      "meaning": "전반적으로",
+      "example": "Those most satisfied with their work ④are also much more likely to be happier with their lives overall.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-245",
+      "word": "researcher",
+      "meaning": "연구",
+      "example": "( ②) Today, leading taste researchers believe that taste buds are not grouped according to specialty.",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-246",
+      "word": "satisfaction",
+      "meaning": "만족",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 29
+    },
+    {
+      "id": "2024-03-247",
+      "word": "rate",
+      "meaning": "평가하다, 비율",
+      "example": "[3점] The rate of speed at which one is traveling will greatly determine the ability to process detail in the environment.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-248",
+      "word": "speed",
+      "meaning": "속도를 내다, 속도",
+      "example": "[3점] The rate of speed at which one is traveling will greatly determine the ability to process detail in the environment.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-249",
+      "word": "travel",
+      "meaning": "여행하다",
+      "example": "[3점] The rate of speed at which one is traveling will greatly determine the ability to process detail in the environment.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-250",
+      "word": "greatly",
+      "meaning": "크게",
+      "example": "[3점] The rate of speed at which one is traveling will greatly determine the ability to process detail in the environment.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-251",
+      "word": "determine",
+      "meaning": "결정하다",
+      "example": "[3점] The rate of speed at which one is traveling will greatly determine the ability to process detail in the environment.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-252",
+      "word": "ability",
+      "meaning": "능력",
+      "example": "[3점] The rate of speed at which one is traveling will greatly determine the ability to process detail in the environment.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-253",
+      "word": "evolutionary",
+      "meaning": "진화의",
+      "example": "In evolutionary terms, human senses are adapted to the ①speed at which humans move through space under their own power while walking.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-254",
+      "word": "term",
+      "meaning": "용어, 기간",
+      "example": "In evolutionary terms, human senses are adapted to the ①speed at which humans move through space under their own power while walking.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-255",
+      "word": "adapt",
+      "meaning": "적응하다",
+      "example": "In evolutionary terms, human senses are adapted to the ①speed at which humans move through space under their own power while walking.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-256",
+      "word": "move",
+      "meaning": "움직이다",
+      "example": "In evolutionary terms, human senses are adapted to the ①speed at which humans move through space under their own power while walking.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-257",
+      "word": "power",
+      "meaning": "힘, 권력",
+      "example": "Suddenly you feel more powerful and positive.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2024-03-258",
+      "word": "walk",
+      "meaning": "걷다",
+      "example": "In evolutionary terms, human senses are adapted to the ①speed at which humans move through space under their own power while walking.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-259",
+      "word": "distinguish",
+      "meaning": "구별하다",
+      "example": "Our ability to distinguish detail in the environment is therefore ideally ②suited to movement at speeds of perhaps five miles per hour and under.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-260",
+      "word": "ideally",
+      "meaning": "이상적으로",
+      "example": "Our ability to distinguish detail in the environment is therefore ideally ②suited to movement at speeds of perhaps five miles per hour and under.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-261",
+      "word": "movement",
+      "meaning": "움직임, 운동",
+      "example": "Our ability to distinguish detail in the environment is therefore ideally ②suited to movement at speeds of perhaps five miles per hour and under.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-262",
+      "word": "simply",
+      "meaning": "단순히",
+      "example": "The fastest users of the street, motorists, therefore have a much more limited ability to process details along the street ― a motorist simply has ③enough time or ability to appreciate design details.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-263",
+      "word": "appreciate",
+      "meaning": "감사하다, 감상하다",
+      "example": "The fastest users of the street, motorists, therefore have a much more limited ability to process details along the street ― a motorist simply has ③enough time or ability to appreciate design details.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-264",
+      "word": "design",
+      "meaning": "설계하다, 디자인",
+      "example": "The fastest users of the street, motorists, therefore have a much more limited ability to process details along the street ― a motorist simply has ③enough time or ability to appreciate design details.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-265",
+      "word": "slower",
+      "meaning": "늦추다, 느린",
+      "example": "On the other hand, pedestrian travel, being much slower, allows for the ④appreciation of environmental detail.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-266",
+      "word": "allow",
+      "meaning": "허용하다",
+      "example": "On the other hand, pedestrian travel, being much slower, allows for the ④appreciation of environmental detail.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-267",
+      "word": "appreciation",
+      "meaning": "감사, 인식",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-268",
+      "word": "environmental",
+      "meaning": "환경의",
+      "example": "On the other hand, pedestrian travel, being much slower, allows for the ④appreciation of environmental detail.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-269",
+      "word": "fall",
+      "meaning": "떨어지다",
+      "example": "Joggers and bicyclists fall somewhere in between these polar opposites; while they travel faster than pedestrians, their rate of speed is ordinarily much ⑤slower than that of the typical motorist.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-270",
+      "word": "polar",
+      "meaning": "극지의",
+      "example": "Joggers and bicyclists fall somewhere in between these polar opposites; while they travel faster than pedestrians, their rate of speed is ordinarily much ⑤slower than that of the typical motorist.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-271",
+      "word": "opposite",
+      "meaning": "반대의",
+      "example": "Joggers and bicyclists fall somewhere in between these polar opposites; while they travel faster than pedestrians, their rate of speed is ordinarily much ⑤slower than that of the typical motorist.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-272",
+      "word": "typical",
+      "meaning": "전형적인",
+      "example": "Joggers and bicyclists fall somewhere in between these polar opposites; while they travel faster than pedestrians, their rate of speed is ordinarily much ⑤slower than that of the typical motorist.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-273",
+      "word": "requirement",
+      "meaning": "요건",
+      "example": "Every species has certain climatic requirements — what degree of heat or cold it can endure, for example.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-274",
+      "word": "degree",
+      "meaning": "정도, 학위",
+      "example": "Every species has certain climatic requirements — what degree of heat or cold it can endure, for example.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-275",
+      "word": "endure",
+      "meaning": "견디다",
+      "example": "Every species has certain climatic requirements — what degree of heat or cold it can endure, for example.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-276",
+      "word": "place",
+      "meaning": "놓다, 장소",
+      "example": "When the climate changes, the places that satisfy those requirements change, too.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-277",
+      "word": "force",
+      "meaning": "강요하다, 힘",
+      "example": "Species are forced to follow.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-278",
+      "word": "creature",
+      "meaning": "생물",
+      "example": "All creatures are capable of some degree of .",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-279",
+      "word": "capable",
+      "meaning": "유능한",
+      "example": "All creatures are capable of some degree of .",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-280",
+      "word": "appear",
+      "meaning": "나타나다, ~처럼 보이다",
+      "example": "Even creatures that appear immobile, like trees and barnacles, are capable of dispersal at some stage of their life — as a seed, in the case of the tree, or as a larva, in the case of the barnacle.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-281",
+      "word": "stage",
+      "meaning": "무대, 단계",
+      "example": "Even creatures that appear immobile, like trees and barnacles, are capable of dispersal at some stage of their life — as a seed, in the case of the tree, or as a larva, in the case of the barnacle.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-282",
+      "word": "seed",
+      "meaning": "씨를 뿌리다, 씨앗",
+      "example": "Even creatures that appear immobile, like trees and barnacles, are capable of dispersal at some stage of their life — as a seed, in the case of the tree, or as a larva, in the case of the barnacle.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-283",
+      "word": "occupy",
+      "meaning": "차지하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2024-03-284",
+      "word": "survive",
+      "meaning": "생존하다",
+      "example": "A creature must get from the place it is born — often occupied by its parent — to a place where it can survive, grow, and reproduce.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-285",
+      "word": "reproduce",
+      "meaning": "재생산하다",
+      "example": "A creature must get from the place it is born — often occupied by its parent — to a place where it can survive, grow, and reproduce.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-286",
+      "word": "fossil",
+      "meaning": "화석",
+      "example": "From fossils, scientists know that even creatures like trees moved with surprising speed during past periods of climate change.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-287",
+      "word": "period",
+      "meaning": "기간",
+      "example": "From fossils, scientists know that even creatures like trees moved with surprising speed during past periods of climate change.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-288",
+      "word": "endurance",
+      "meaning": "인내력",
+      "example": "* barnacle: 따개비 ** dispersal: 분산 *** fossil: 화석 ① endurance ② movement ③ development ④ transformation ⑤ communication 32.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-289",
+      "word": "development",
+      "meaning": "발전, 개발",
+      "example": "* barnacle: 따개비 ** dispersal: 분산 *** fossil: 화석 ① endurance ② movement ③ development ④ transformation ⑤ communication 32.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-290",
+      "word": "transformation",
+      "meaning": "변형",
+      "example": "* barnacle: 따개비 ** dispersal: 분산 *** fossil: 화석 ① endurance ② movement ③ development ④ transformation ⑤ communication 32.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-291",
+      "word": "communication",
+      "meaning": "의사소통",
+      "example": "* barnacle: 따개비 ** dispersal: 분산 *** fossil: 화석 ① endurance ② movement ③ development ④ transformation ⑤ communication 32.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-292",
+      "word": "discourage",
+      "meaning": "낙담시키다",
+      "example": "No respectable boss would say, “I make it a point to discourage my staff from speaking up, and I maintain a culture that prevents disagreeing viewpoints from ever getting aired.” If anything, most bosses even say that they are pro­dissent.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-293",
+      "word": "staff",
+      "meaning": "직원",
+      "example": "No respectable boss would say, “I make it a point to discourage my staff from speaking up, and I maintain a culture that prevents disagreeing viewpoints from ever getting aired.” If anything, most bosses even say that they are pro­dissent.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-294",
+      "word": "speak",
+      "meaning": "말하다",
+      "example": "No respectable boss would say, “I make it a point to discourage my staff from speaking up, and I maintain a culture that prevents disagreeing viewpoints from ever getting aired.” If anything, most bosses even say that they are pro­dissent.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-295",
+      "word": "prevent",
+      "meaning": "방지하다",
+      "example": "No respectable boss would say, “I make it a point to discourage my staff from speaking up, and I maintain a culture that prevents disagreeing viewpoints from ever getting aired.” If anything, most bosses even say that they are pro­dissent.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-296",
+      "word": "conversation",
+      "meaning": "대화",
+      "example": "This idea can be found throughout the series of conversations with corporate, university, and nonprofit leaders, published weekly in the business sections of newspapers.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-297",
+      "word": "corporate",
+      "meaning": "기업의",
+      "example": "This idea can be found throughout the series of conversations with corporate, university, and nonprofit leaders, published weekly in the business sections of newspapers.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-298",
+      "word": "publish",
+      "meaning": "출판하다",
+      "example": "This idea can be found throughout the series of conversations with corporate, university, and nonprofit leaders, published weekly in the business sections of newspapers.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-299",
+      "word": "feature",
+      "meaning": "특징",
+      "example": "In the interviews, the featured leaders are asked about their management techniques, and regularly claim to continually encourage from more junior staffers.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2024-03-300",
+      "word": "management",
+      "meaning": "관리",
+      "example": "In the interviews, the featured leaders are asked about their management techniques, and regularly claim to continually encourage from more junior staffers.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    }
+  ]
+}

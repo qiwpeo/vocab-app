@@ -1,0 +1,2410 @@
+{
+  "exam": {
+    "year": 2025,
+    "month": 10,
+    "grade": 1,
+    "label": "2025년 10월 고1 모의고사"
+  },
+  "words": [
+    {
+      "id": "2025-10-001",
+      "word": "name",
+      "meaning": "이름 짓다, 이름",
+      "example": "Kelly, My name is Mark Smith, and I am the manager of Lomos Tours.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-002",
+      "word": "mark",
+      "meaning": "표시하다, 표시",
+      "example": "Kelly, My name is Mark Smith, and I am the manager of Lomos Tours.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-003",
+      "word": "manager",
+      "meaning": "관리하다",
+      "example": "Kelly, My name is Mark Smith, and I am the manager of Lomos Tours.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-004",
+      "word": "express",
+      "meaning": "표현하다",
+      "example": "I express our sincere appreciation for your continued trust and loyalty.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-005",
+      "word": "sincere",
+      "meaning": "진실한",
+      "example": "I express our sincere appreciation for your continued trust and loyalty.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-006",
+      "word": "appreciation",
+      "meaning": "감사, 인식",
+      "example": "I express our sincere appreciation for your continued trust and loyalty.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-007",
+      "word": "continue",
+      "meaning": "계속하다",
+      "example": "I express our sincere appreciation for your continued trust and loyalty.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-008",
+      "word": "trust",
+      "meaning": "신뢰",
+      "example": "I express our sincere appreciation for your continued trust and loyalty.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-009",
+      "word": "promotional",
+      "meaning": "촉진, 승진",
+      "example": "Next year, as part of a new promotional campaign, Lomos Tours will be airing an advertisement.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-010",
+      "word": "campaign",
+      "meaning": "캠페인",
+      "example": "Next year, as part of a new promotional campaign, Lomos Tours will be airing an advertisement.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-011",
+      "word": "advertisement",
+      "meaning": "광고",
+      "example": "Next year, as part of a new promotional campaign, Lomos Tours will be airing an advertisement.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-012",
+      "word": "plan",
+      "meaning": "계획하다, 계획",
+      "example": "We plan to include the experiences of some of our most valued clients.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-013",
+      "word": "include",
+      "meaning": "포함하다",
+      "example": "We plan to include the experiences of some of our most valued clients.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-014",
+      "word": "experience",
+      "meaning": "경험하다, 경험",
+      "example": "We plan to include the experiences of some of our most valued clients.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-015",
+      "word": "value",
+      "meaning": "가치",
+      "example": "We plan to include the experiences of some of our most valued clients.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-016",
+      "word": "travel",
+      "meaning": "여행하다",
+      "example": "Since you traveled with us last summer, I would like to kindly ask if you would be willing to share a few words about your experience.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-017",
+      "word": "last",
+      "meaning": "지속하다, 마지막의",
+      "example": "Since you traveled with us last summer, I would like to kindly ask if you would be willing to share a few words about your experience.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-018",
+      "word": "kindly",
+      "meaning": "친절한, 종류",
+      "example": "Since you traveled with us last summer, I would like to kindly ask if you would be willing to share a few words about your experience.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-019",
+      "word": "ask",
+      "meaning": "묻다",
+      "example": "Since you traveled with us last summer, I would like to kindly ask if you would be willing to share a few words about your experience.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-020",
+      "word": "share",
+      "meaning": "공유하다",
+      "example": "Since you traveled with us last summer, I would like to kindly ask if you would be willing to share a few words about your experience.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-021",
+      "word": "feedback",
+      "meaning": "피드백",
+      "example": "Your feedback would be invaluable in helping us promote our services.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-022",
+      "word": "invaluable",
+      "meaning": "매우 귀중한",
+      "example": "Your feedback would be invaluable in helping us promote our services.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-023",
+      "word": "help",
+      "meaning": "돕다, 도움",
+      "example": "Your feedback would be invaluable in helping us promote our services.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-024",
+      "word": "promote",
+      "meaning": "촉진하다, 승진시키다",
+      "example": "Your feedback would be invaluable in helping us promote our services.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-025",
+      "word": "touch",
+      "meaning": "만지다",
+      "example": "A member of our team will be in touch with you shortly.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-026",
+      "word": "shortly",
+      "meaning": "짧은",
+      "example": "A member of our team will be in touch with you shortly.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-027",
+      "word": "thank",
+      "meaning": "감사하다",
+      "example": "Thank you in advance for your contributions.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-028",
+      "word": "advance",
+      "meaning": "발전하다, 전진",
+      "example": "Thank you in advance for your contributions.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-029",
+      "word": "contribution",
+      "meaning": "기여",
+      "example": "Thank you in advance for your contributions.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-030",
+      "word": "warm",
+      "meaning": "따뜻한",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-031",
+      "word": "regard",
+      "meaning": "간주하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-032",
+      "word": "finish",
+      "meaning": "끝내다",
+      "example": "After finishing my shopping, I walked out of the grocery store and headed to the spot where I’d parked my car.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-033",
+      "word": "walk",
+      "meaning": "걷다",
+      "example": "After finishing my shopping, I walked out of the grocery store and headed to the spot where I’d parked my car.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-034",
+      "word": "store",
+      "meaning": "저장하다, 가게",
+      "example": "After finishing my shopping, I walked out of the grocery store and headed to the spot where I’d parked my car.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-035",
+      "word": "spot",
+      "meaning": "발견하다, 지점",
+      "example": "After finishing my shopping, I walked out of the grocery store and headed to the spot where I’d parked my car.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-036",
+      "word": "kind",
+      "meaning": "친절한, 종류",
+      "example": "Since you traveled with us last summer, I would like to kindly ask if you would be willing to share a few words about your experience.",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-037",
+      "word": "forget",
+      "meaning": "잊다",
+      "example": "I wasn’t the kind of person to forget where I’d parked.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-038",
+      "word": "place",
+      "meaning": "놓다, 장소",
+      "example": "I knew I was in the right place ― so where was my car?",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-039",
+      "word": "look",
+      "meaning": "보다",
+      "example": "I looked around, but nothing made sense.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-040",
+      "word": "sense",
+      "meaning": "감지하다, 감각",
+      "example": "I looked around, but nothing made sense.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-041",
+      "word": "miss",
+      "meaning": "놓치다, 그리워하다",
+      "example": "Not knowing what to do, I called my husband at home and said, “My car is missing!",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-042",
+      "word": "find",
+      "meaning": "찾다, 발견하다",
+      "example": "I can’t find my car.” I heard him laughing on the other end of the line.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-043",
+      "word": "hear",
+      "meaning": "듣다",
+      "example": "I can’t find my car.” I heard him laughing on the other end of the line.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-044",
+      "word": "remember",
+      "meaning": "기억하다",
+      "example": "You took mine today, remember?” I turned around ― and there it was.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-045",
+      "word": "turn",
+      "meaning": "돌리다, 차례",
+      "example": "You took mine today, remember?” I turned around ― and there it was.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-046",
+      "word": "relief",
+      "meaning": "안도, 구호",
+      "example": "With a sigh of relief, I walked over to the car.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-047",
+      "word": "fine",
+      "meaning": "좋은, 미세한",
+      "example": "Everything was fine after all.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-048",
+      "word": "surprise",
+      "meaning": "놀라움",
+      "example": "①bored →surprised ②confused →relieved ③anxious →indifferent ④joyful →regretful ⑤hopeful →embarrassed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-049",
+      "word": "confuse",
+      "meaning": "혼란스럽게 하다",
+      "example": "When we were children and were told, for example, “No, don’t eat with your hands,” we were confused and didn’t know what our parents expected from us.",
+      "exampleMeaning": "",
+      "questionNumber": 35
+    },
+    {
+      "id": "2025-10-050",
+      "word": "anxious",
+      "meaning": "불안한",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-051",
+      "word": "joyful",
+      "meaning": "기쁨",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-052",
+      "word": "regretful",
+      "meaning": "후회하다",
+      "example": "①bored →surprised ②confused →relieved ③anxious →indifferent ④joyful →regretful ⑤hopeful →embarrassed 20.",
+      "exampleMeaning": "",
+      "questionNumber": 19
+    },
+    {
+      "id": "2025-10-053",
+      "word": "hopeful",
+      "meaning": "희망하다, 희망",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-054",
+      "word": "important",
+      "meaning": "중요한",
+      "example": "One of the most important aspects of sustaining long­term relationships is communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-055",
+      "word": "aspect",
+      "meaning": "측면",
+      "example": "One of the most important aspects of sustaining long­term relationships is communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-056",
+      "word": "sustain",
+      "meaning": "유지하다",
+      "example": "One of the most important aspects of sustaining long­term relationships is communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-057",
+      "word": "term",
+      "meaning": "용어, 기간",
+      "example": "One of the most important aspects of sustaining long­term relationships is communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-058",
+      "word": "relationship",
+      "meaning": "관계",
+      "example": "One of the most important aspects of sustaining long­term relationships is communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-059",
+      "word": "communication",
+      "meaning": "의사소통",
+      "example": "One of the most important aspects of sustaining long­term relationships is communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-060",
+      "word": "connect",
+      "meaning": "연결하다",
+      "example": "It’s easy to connect with someone and then let the relationship get stuck due to a lack of follow­up.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-061",
+      "word": "stick",
+      "meaning": "붙이다, 막대기",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-062",
+      "word": "due",
+      "meaning": "~때문에, 마땅한",
+      "example": "It’s easy to connect with someone and then let the relationship get stuck due to a lack of follow­up.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-063",
+      "word": "lack",
+      "meaning": "부족",
+      "example": "It’s easy to connect with someone and then let the relationship get stuck due to a lack of follow­up.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-064",
+      "word": "follow",
+      "meaning": "따르다",
+      "example": "It’s easy to connect with someone and then let the relationship get stuck due to a lack of follow­up.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-065",
+      "word": "keep",
+      "meaning": "유지하다, 보관하다",
+      "example": "To keep the connection alive, make a conscious effort to stay in touch.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-066",
+      "word": "connection",
+      "meaning": "연결",
+      "example": "To keep the connection alive, make a conscious effort to stay in touch.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-067",
+      "word": "conscious",
+      "meaning": "의식하는",
+      "example": "To keep the connection alive, make a conscious effort to stay in touch.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-068",
+      "word": "effort",
+      "meaning": "노력",
+      "example": "To keep the connection alive, make a conscious effort to stay in touch.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-069",
+      "word": "stay",
+      "meaning": "머무르다",
+      "example": "To keep the connection alive, make a conscious effort to stay in touch.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-070",
+      "word": "mean",
+      "meaning": "의미하다, 비열한",
+      "example": "This doesn’t mean constantly reaching out with requests or updates but rather maintaining a friendly and consistent line of communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-071",
+      "word": "constantly",
+      "meaning": "끊임없이",
+      "example": "This doesn’t mean constantly reaching out with requests or updates but rather maintaining a friendly and consistent line of communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-072",
+      "word": "reach",
+      "meaning": "도달하다",
+      "example": "This doesn’t mean constantly reaching out with requests or updates but rather maintaining a friendly and consistent line of communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-073",
+      "word": "request",
+      "meaning": "요청하다",
+      "example": "This doesn’t mean constantly reaching out with requests or updates but rather maintaining a friendly and consistent line of communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-074",
+      "word": "update",
+      "meaning": "갱신하다",
+      "example": "This doesn’t mean constantly reaching out with requests or updates but rather maintaining a friendly and consistent line of communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-075",
+      "word": "maintain",
+      "meaning": "유지하다",
+      "example": "This doesn’t mean constantly reaching out with requests or updates but rather maintaining a friendly and consistent line of communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-076",
+      "word": "friendly",
+      "meaning": "친근한",
+      "example": "This doesn’t mean constantly reaching out with requests or updates but rather maintaining a friendly and consistent line of communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-077",
+      "word": "consistent",
+      "meaning": "일관된",
+      "example": "This doesn’t mean constantly reaching out with requests or updates but rather maintaining a friendly and consistent line of communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-078",
+      "word": "simple",
+      "meaning": "간단한",
+      "example": "A simple message to check in or share something of value can go a long way in reinforcing your relationship.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-079",
+      "word": "message",
+      "meaning": "메시지",
+      "example": "A simple message to check in or share something of value can go a long way in reinforcing your relationship.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-080",
+      "word": "check",
+      "meaning": "확인하다",
+      "example": "A simple message to check in or share something of value can go a long way in reinforcing your relationship.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-081",
+      "word": "reinforce",
+      "meaning": "강화하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-082",
+      "word": "article",
+      "meaning": "기사, 조항",
+      "example": "For example, if you come across an article or resource that you think might interest a connection, share it with them, even if you haven’t spoken in a while.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-083",
+      "word": "resource",
+      "meaning": "자원",
+      "example": "For example, if you come across an article or resource that you think might interest a connection, share it with them, even if you haven’t spoken in a while.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-084",
+      "word": "think",
+      "meaning": "생각하다",
+      "example": "For example, if you come across an article or resource that you think might interest a connection, share it with them, even if you haven’t spoken in a while.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-085",
+      "word": "interest",
+      "meaning": "관심, 이자",
+      "example": "For example, if you come across an article or resource that you think might interest a connection, share it with them, even if you haven’t spoken in a while.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-086",
+      "word": "speak",
+      "meaning": "말하다",
+      "example": "Yet the twelve­slot card had two preexisting “bonus” stamps, so, strictly speaking, these were identical reward programs.",
+      "exampleMeaning": "",
+      "questionNumber": 40
+    },
+    {
+      "id": "2025-10-087",
+      "word": "show",
+      "meaning": "보여주다",
+      "example": "This shows that you’re thinking of them and are invested in maintaining the relationship.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-088",
+      "word": "invest",
+      "meaning": "투자하다",
+      "example": "This shows that you’re thinking of them and are invested in maintaining the relationship.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-089",
+      "word": "urban",
+      "meaning": "도시의",
+      "example": "[3점] Currently, urban regeneration projects in degraded areas have been promoted as improving the wellbeing of residents and solving environmental injustice problems.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-090",
+      "word": "paradox",
+      "meaning": "역설",
+      "example": "However, such environmental improvements in ethnic communities and/or low­income households can create an urban green space paradox.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-091",
+      "word": "currently",
+      "meaning": "현재",
+      "example": "[3점] Currently, urban regeneration projects in degraded areas have been promoted as improving the wellbeing of residents and solving environmental injustice problems.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-092",
+      "word": "project",
+      "meaning": "프로젝트",
+      "example": "[3점] Currently, urban regeneration projects in degraded areas have been promoted as improving the wellbeing of residents and solving environmental injustice problems.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-093",
+      "word": "improve",
+      "meaning": "향상시키다",
+      "example": "However, such environmental improvements in ethnic communities and/or low­income households can create an urban green space paradox.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-094",
+      "word": "resident",
+      "meaning": "거주하다",
+      "example": "[3점] Currently, urban regeneration projects in degraded areas have been promoted as improving the wellbeing of residents and solving environmental injustice problems.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-095",
+      "word": "solve",
+      "meaning": "해결하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-096",
+      "word": "environmental",
+      "meaning": "환경의",
+      "example": "[3점] Currently, urban regeneration projects in degraded areas have been promoted as improving the wellbeing of residents and solving environmental injustice problems.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-097",
+      "word": "however",
+      "meaning": "그러나",
+      "example": "However, such environmental improvements in ethnic communities and/or low­income households can create an urban green space paradox.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-098",
+      "word": "improvement",
+      "meaning": "개선",
+      "example": "However, such environmental improvements in ethnic communities and/or low­income households can create an urban green space paradox.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-099",
+      "word": "community",
+      "meaning": "공동체",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-100",
+      "word": "income",
+      "meaning": "소득",
+      "example": "However, such environmental improvements in ethnic communities and/or low­income households can create an urban green space paradox.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-101",
+      "word": "household",
+      "meaning": "가구",
+      "example": "However, such environmental improvements in ethnic communities and/or low­income households can create an urban green space paradox.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-102",
+      "word": "create",
+      "meaning": "창조하다",
+      "example": "However, such environmental improvements in ethnic communities and/or low­income households can create an urban green space paradox.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-103",
+      "word": "creation",
+      "meaning": "창조",
+      "example": "The creation of new, high­quality green spaces can increase attractiveness, making these neighbourhood more desirable.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-104",
+      "word": "high",
+      "meaning": "높은",
+      "example": "The creation of new, high­quality green spaces can increase attractiveness, making these neighbourhood more desirable.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-105",
+      "word": "quality",
+      "meaning": "품질",
+      "example": "The creation of new, high­quality green spaces can increase attractiveness, making these neighbourhood more desirable.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-106",
+      "word": "increase",
+      "meaning": "증가시키다, 증가",
+      "example": "The creation of new, high­quality green spaces can increase attractiveness, making these neighbourhood more desirable.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-107",
+      "word": "desirable",
+      "meaning": "욕망",
+      "example": "The creation of new, high­quality green spaces can increase attractiveness, making these neighbourhood more desirable.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-108",
+      "word": "contrast",
+      "meaning": "대조",
+      "example": "By contrast, the cost of housing can rise, and residents may not be able to afford the rent.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-109",
+      "word": "cost",
+      "meaning": "비용이 들다, 비용",
+      "example": "By contrast, the cost of housing can rise, and residents may not be able to afford the rent.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-110",
+      "word": "rise",
+      "meaning": "오르다, 상승",
+      "example": "By contrast, the cost of housing can rise, and residents may not be able to afford the rent.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-111",
+      "word": "afford",
+      "meaning": "여유가 되다",
+      "example": "By contrast, the cost of housing can rise, and residents may not be able to afford the rent.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-112",
+      "word": "rent",
+      "meaning": "임대료",
+      "example": "By contrast, the cost of housing can rise, and residents may not be able to afford the rent.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-113",
+      "word": "result",
+      "meaning": "결과",
+      "example": "This results in the exclusion or displacement of the poor neighbourhood’s residents, who were intended to benefit from the ecosystem services provided by the new green space.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-114",
+      "word": "exclusion",
+      "meaning": "배제",
+      "example": "This results in the exclusion or displacement of the poor neighbourhood’s residents, who were intended to benefit from the ecosystem services provided by the new green space.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-115",
+      "word": "intend",
+      "meaning": "의도하다",
+      "example": "This results in the exclusion or displacement of the poor neighbourhood’s residents, who were intended to benefit from the ecosystem services provided by the new green space.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-116",
+      "word": "benefit",
+      "meaning": "이익, 혜택",
+      "example": "This results in the exclusion or displacement of the poor neighbourhood’s residents, who were intended to benefit from the ecosystem services provided by the new green space.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-117",
+      "word": "ecosystem",
+      "meaning": "생태계",
+      "example": "This results in the exclusion or displacement of the poor neighbourhood’s residents, who were intended to benefit from the ecosystem services provided by the new green space.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-118",
+      "word": "provide",
+      "meaning": "제공하다",
+      "example": "This results in the exclusion or displacement of the poor neighbourhood’s residents, who were intended to benefit from the ecosystem services provided by the new green space.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-119",
+      "word": "live",
+      "meaning": "살다",
+      "example": "In turn, the residents may only be able to afford to live in a similar degraded neighbourhood to the one they left, with low access to green infrastructure.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-120",
+      "word": "similar",
+      "meaning": "비슷한",
+      "example": "In turn, the residents may only be able to afford to live in a similar degraded neighbourhood to the one they left, with low access to green infrastructure.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-121",
+      "word": "leave",
+      "meaning": "떠나다, 남기다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-122",
+      "word": "access",
+      "meaning": "접근",
+      "example": "In turn, the residents may only be able to afford to live in a similar degraded neighbourhood to the one they left, with low access to green infrastructure.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-123",
+      "word": "infrastructure",
+      "meaning": "기반시설",
+      "example": "In turn, the residents may only be able to afford to live in a similar degraded neighbourhood to the one they left, with low access to green infrastructure.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-124",
+      "word": "issue",
+      "meaning": "문제, 쟁점",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-125",
+      "word": "sustainable",
+      "meaning": "지속 가능한",
+      "example": "consumers who preferred purchasing clothes from sustainable brands by age and gender in 2020.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-126",
+      "word": "technology",
+      "meaning": "기술",
+      "example": "While convenience and technology are crucial, they are not the only factors driving Gen Z’s financial decisions.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2025-10-127",
+      "word": "situation",
+      "meaning": "상황",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-128",
+      "word": "force",
+      "meaning": "강요하다, 힘",
+      "example": "[3점] The laws and constants of physics and the fundamental forces in our universe have very precise forms and values.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-129",
+      "word": "renewal",
+      "meaning": "갱신",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-130",
+      "word": "aim",
+      "meaning": "목표",
+      "example": "This annual festival aims to celebrate Robin Hood, who has made Shearwood Forest famous around the world.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-131",
+      "word": "harm",
+      "meaning": "해",
+      "example": "④Upward social comparisons on social media are particularly harmful for low self­esteem individuals, who tend to make more frequent comparisons when browsing.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-132",
+      "word": "health",
+      "meaning": "건강",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-133",
+      "word": "pollution",
+      "meaning": "오염",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-134",
+      "word": "circumstance",
+      "meaning": "상황",
+      "example": "How we think about our circumstances shapes the emotions we experience; then those emotions echo back to influence how we think.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-135",
+      "word": "cause",
+      "meaning": "야기하다, 원인",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-136",
+      "word": "crime",
+      "meaning": "범죄",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-137",
+      "word": "develop",
+      "meaning": "발전시키다, 개발하다",
+      "example": "Dalip developed an interest in politics and he often spoke out on Indian and political topics.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-138",
+      "word": "awareness",
+      "meaning": "인식",
+      "example": "An increasing awareness of our effect on the ocean is slowly seeping into the public agenda, dragging behind it a conversation that is decades overdue.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-139",
+      "word": "slowly",
+      "meaning": "느리게",
+      "example": "An increasing awareness of our effect on the ocean is slowly seeping into the public agenda, dragging behind it a conversation that is decades overdue.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-140",
+      "word": "public",
+      "meaning": "공공의",
+      "example": "An increasing awareness of our effect on the ocean is slowly seeping into the public agenda, dragging behind it a conversation that is decades overdue.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-141",
+      "word": "agenda",
+      "meaning": "의제",
+      "example": "An increasing awareness of our effect on the ocean is slowly seeping into the public agenda, dragging behind it a conversation that is decades overdue.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-142",
+      "word": "drag",
+      "meaning": "끌다",
+      "example": "An increasing awareness of our effect on the ocean is slowly seeping into the public agenda, dragging behind it a conversation that is decades overdue.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-143",
+      "word": "conversation",
+      "meaning": "대화",
+      "example": "An increasing awareness of our effect on the ocean is slowly seeping into the public agenda, dragging behind it a conversation that is decades overdue.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-144",
+      "word": "decade",
+      "meaning": "10년",
+      "example": "An increasing awareness of our effect on the ocean is slowly seeping into the public agenda, dragging behind it a conversation that is decades overdue.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-145",
+      "word": "face",
+      "meaning": "직면하다, 얼굴",
+      "example": "But this conversation faces a massive obstacle.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-146",
+      "word": "massive",
+      "meaning": "거대한",
+      "example": "But this conversation faces a massive obstacle.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-147",
+      "word": "obstacle",
+      "meaning": "장애물",
+      "example": "But this conversation faces a massive obstacle.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-148",
+      "word": "impossible",
+      "meaning": "불가능한",
+      "example": "It’s almost impossible to discuss what to do about something changing if you don’t initially know how it works.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-149",
+      "word": "change",
+      "meaning": "바꾸다, 변화",
+      "example": "We need to understand at least some of the context before we can discuss the change and take appropriate action.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-150",
+      "word": "initially",
+      "meaning": "처음에",
+      "example": "It’s almost impossible to discuss what to do about something changing if you don’t initially know how it works.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-151",
+      "word": "work",
+      "meaning": "일하다, 작동하다",
+      "example": "It’s almost impossible to discuss what to do about something changing if you don’t initially know how it works.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-152",
+      "word": "patient",
+      "meaning": "인내심 있는",
+      "example": "If a doctor tells a patient that they have a problem with their kidneys, the patient probably already has at least a vague idea about where their kidneys are and what they’re up to.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-153",
+      "word": "probably",
+      "meaning": "아마도",
+      "example": "If a doctor tells a patient that they have a problem with their kidneys, the patient probably already has at least a vague idea about where their kidneys are and what they’re up to.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-154",
+      "word": "vague",
+      "meaning": "모호한",
+      "example": "If a doctor tells a patient that they have a problem with their kidneys, the patient probably already has at least a vague idea about where their kidneys are and what they’re up to.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-155",
+      "word": "learn",
+      "meaning": "배우다",
+      "example": "They learned about that part of their own personal life­support system at school.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-156",
+      "word": "personal",
+      "meaning": "개인적인",
+      "example": "They learned about that part of their own personal life­support system at school.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-157",
+      "word": "support",
+      "meaning": "지원",
+      "example": "They learned about that part of their own personal life­support system at school.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-158",
+      "word": "decline",
+      "meaning": "감소",
+      "example": "When we see a news story about the long­term decline in the numbers of krill in the Southern Ocean, it sounds generally like a bad thing.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-159",
+      "word": "sound",
+      "meaning": "건전한",
+      "example": "When we see a news story about the long­term decline in the numbers of krill in the Southern Ocean, it sounds generally like a bad thing.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-160",
+      "word": "generally",
+      "meaning": "일반적으로",
+      "example": "When we see a news story about the long­term decline in the numbers of krill in the Southern Ocean, it sounds generally like a bad thing.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-161",
+      "word": "risk",
+      "meaning": "위험",
+      "example": "But there’s far more to it than the risk of whales going hungry.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-162",
+      "word": "hungry",
+      "meaning": "배고픈",
+      "example": "But there’s far more to it than the risk of whales going hungry.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-163",
+      "word": "engine",
+      "meaning": "엔진",
+      "example": "Krill are a part of the ocean engine.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-164",
+      "word": "need",
+      "meaning": "필요하다",
+      "example": "We need to understand at least some of the context before we can discuss the change and take appropriate action.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-165",
+      "word": "understand",
+      "meaning": "이해하다",
+      "example": "We need to understand at least some of the context before we can discuss the change and take appropriate action.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-166",
+      "word": "context",
+      "meaning": "맥락",
+      "example": "We need to understand at least some of the context before we can discuss the change and take appropriate action.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-167",
+      "word": "appropriate",
+      "meaning": "적절한",
+      "example": "We need to understand at least some of the context before we can discuss the change and take appropriate action.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-168",
+      "word": "action",
+      "meaning": "행동",
+      "example": "We need to understand at least some of the context before we can discuss the change and take appropriate action.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-169",
+      "word": "melt",
+      "meaning": "녹다",
+      "example": "Rome was said to have been a melting pot from the very start.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-170",
+      "word": "start",
+      "meaning": "시작하다",
+      "example": "Rome was said to have been a melting pot from the very start.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-171",
+      "word": "historian",
+      "meaning": "역사가",
+      "example": "The historian Livy claimed the city’s original population was comprised of immigrants flooding in from all directions, attracted by Romulus’s deliberate policy of nondiscrimination.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-172",
+      "word": "claim",
+      "meaning": "주장",
+      "example": "The historian Livy claimed the city’s original population was comprised of immigrants flooding in from all directions, attracted by Romulus’s deliberate policy of nondiscrimination.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-173",
+      "word": "original",
+      "meaning": "원래의, 독창적인",
+      "example": "The historian Livy claimed the city’s original population was comprised of immigrants flooding in from all directions, attracted by Romulus’s deliberate policy of nondiscrimination.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-174",
+      "word": "population",
+      "meaning": "인구",
+      "example": "The historian Livy claimed the city’s original population was comprised of immigrants flooding in from all directions, attracted by Romulus’s deliberate policy of nondiscrimination.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-175",
+      "word": "immigrant",
+      "meaning": "이민자",
+      "example": "The historian Livy claimed the city’s original population was comprised of immigrants flooding in from all directions, attracted by Romulus’s deliberate policy of nondiscrimination.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-176",
+      "word": "flood",
+      "meaning": "홍수",
+      "example": "The historian Livy claimed the city’s original population was comprised of immigrants flooding in from all directions, attracted by Romulus’s deliberate policy of nondiscrimination.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-177",
+      "word": "direction",
+      "meaning": "방향",
+      "example": "The historian Livy claimed the city’s original population was comprised of immigrants flooding in from all directions, attracted by Romulus’s deliberate policy of nondiscrimination.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-178",
+      "word": "attract",
+      "meaning": "끌다, 매력을 끌다",
+      "example": "The creation of new, high­quality green spaces can increase attractiveness, making these neighbourhood more desirable.",
+      "exampleMeaning": "",
+      "questionNumber": 21
+    },
+    {
+      "id": "2025-10-179",
+      "word": "deliberate",
+      "meaning": "의도적인",
+      "example": "The historian Livy claimed the city’s original population was comprised of immigrants flooding in from all directions, attracted by Romulus’s deliberate policy of nondiscrimination.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-180",
+      "word": "policy",
+      "meaning": "정책",
+      "example": "The historian Livy claimed the city’s original population was comprised of immigrants flooding in from all directions, attracted by Romulus’s deliberate policy of nondiscrimination.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-181",
+      "word": "initial",
+      "meaning": "초기의",
+      "example": "It’s almost impossible to discuss what to do about something changing if you don’t initially know how it works.",
+      "exampleMeaning": "",
+      "questionNumber": 22
+    },
+    {
+      "id": "2025-10-182",
+      "word": "openness",
+      "meaning": "열다",
+      "example": "It was this initial openness, Livy asserts, that laid the foundations for the later strength and success of the city.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-183",
+      "word": "assert",
+      "meaning": "주장하다",
+      "example": "It was this initial openness, Livy asserts, that laid the foundations for the later strength and success of the city.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-184",
+      "word": "lay",
+      "meaning": "놓다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-185",
+      "word": "foundation",
+      "meaning": "기초, 재단",
+      "example": "It was this initial openness, Livy asserts, that laid the foundations for the later strength and success of the city.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-186",
+      "word": "later",
+      "meaning": "늦은",
+      "example": "It was this initial openness, Livy asserts, that laid the foundations for the later strength and success of the city.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-187",
+      "word": "strength",
+      "meaning": "힘, 강점",
+      "example": "It was this initial openness, Livy asserts, that laid the foundations for the later strength and success of the city.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-188",
+      "word": "success",
+      "meaning": "성공",
+      "example": "It was this initial openness, Livy asserts, that laid the foundations for the later strength and success of the city.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-189",
+      "word": "describe",
+      "meaning": "묘사하다",
+      "example": "Romans described their city as multicultural in the generations after its foundation.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-190",
+      "word": "generation",
+      "meaning": "세대",
+      "example": "Romans described their city as multicultural in the generations after its foundation.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-191",
+      "word": "tradition",
+      "meaning": "전통",
+      "example": "Tradition held that only a minority of the city’s legendary kings were Roman­born, with the others all arriving as immigrants before being chosen for the throne for their virtues and merits.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-192",
+      "word": "hold",
+      "meaning": "잡다, 유지하다",
+      "example": "2025 Britt High School Character Design Contest Britt High School holds our first Character Design Contest.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-193",
+      "word": "minority",
+      "meaning": "소수",
+      "example": "Tradition held that only a minority of the city’s legendary kings were Roman­born, with the others all arriving as immigrants before being chosen for the throne for their virtues and merits.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-194",
+      "word": "legendary",
+      "meaning": "전설",
+      "example": "Tradition held that only a minority of the city’s legendary kings were Roman­born, with the others all arriving as immigrants before being chosen for the throne for their virtues and merits.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-195",
+      "word": "bear",
+      "meaning": "참다, 곰",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-196",
+      "word": "arrive",
+      "meaning": "도착하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-197",
+      "word": "choose",
+      "meaning": "선택하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-198",
+      "word": "virtue",
+      "meaning": "미덕",
+      "example": "Tradition held that only a minority of the city’s legendary kings were Roman­born, with the others all arriving as immigrants before being chosen for the throne for their virtues and merits.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-199",
+      "word": "merit",
+      "meaning": "장점",
+      "example": "Tradition held that only a minority of the city’s legendary kings were Roman­born, with the others all arriving as immigrants before being chosen for the throne for their virtues and merits.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-200",
+      "word": "empire",
+      "meaning": "제국",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-201",
+      "word": "expand",
+      "meaning": "확장하다",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-202",
+      "word": "continent",
+      "meaning": "대륙",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-203",
+      "word": "eagerly",
+      "meaning": "열심히",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-204",
+      "word": "adopt",
+      "meaning": "채택하다, 입양하다",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-205",
+      "word": "cultural",
+      "meaning": "문화적인",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-206",
+      "word": "influence",
+      "meaning": "영향",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-207",
+      "word": "absorb",
+      "meaning": "흡수하다",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-208",
+      "word": "incoming",
+      "meaning": "소득",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-209",
+      "word": "complain",
+      "meaning": "불평하다",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-210",
+      "word": "rapid",
+      "meaning": "빠른",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-211",
+      "word": "rate",
+      "meaning": "평가하다, 비율",
+      "example": "As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-212",
+      "word": "growth",
+      "meaning": "성장",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-213",
+      "word": "conflict",
+      "meaning": "갈등",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-214",
+      "word": "native",
+      "meaning": "원주민의, 토착의",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-215",
+      "word": "foreign",
+      "meaning": "외국의",
+      "example": "As children, the principle of opposites is foreign.",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-216",
+      "word": "culture",
+      "meaning": "문화",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-217",
+      "word": "replacement",
+      "meaning": "교체",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-218",
+      "word": "difficulty",
+      "meaning": "어려움",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-219",
+      "word": "preserve",
+      "meaning": "보존하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-220",
+      "word": "identity",
+      "meaning": "정체성",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-221",
+      "word": "political",
+      "meaning": "정치적인",
+      "example": "Dalip developed an interest in politics and he often spoke out on Indian and political topics.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-222",
+      "word": "expansion",
+      "meaning": "확장",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 23
+    },
+    {
+      "id": "2025-10-223",
+      "word": "law",
+      "meaning": "법",
+      "example": "[3점] The laws and constants of physics and the fundamental forces in our universe have very precise forms and values.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-224",
+      "word": "constant",
+      "meaning": "끊임없는",
+      "example": "This doesn’t mean constantly reaching out with requests or updates but rather maintaining a friendly and consistent line of communication.",
+      "exampleMeaning": "",
+      "questionNumber": 20
+    },
+    {
+      "id": "2025-10-225",
+      "word": "fundamental",
+      "meaning": "근본적인",
+      "example": "[3점] The laws and constants of physics and the fundamental forces in our universe have very precise forms and values.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-226",
+      "word": "universe",
+      "meaning": "우주",
+      "example": "[3점] The laws and constants of physics and the fundamental forces in our universe have very precise forms and values.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-227",
+      "word": "precise",
+      "meaning": "정밀한",
+      "example": "[3점] The laws and constants of physics and the fundamental forces in our universe have very precise forms and values.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-228",
+      "word": "form",
+      "meaning": "형성하다, 형태",
+      "example": "[3점] The laws and constants of physics and the fundamental forces in our universe have very precise forms and values.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-229",
+      "word": "slightly",
+      "meaning": "약간",
+      "example": "This means that, if they were only very slightly different, life would not have been possible.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-230",
+      "word": "different",
+      "meaning": "다른",
+      "example": "This means that, if they were only very slightly different, life would not have been possible.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-231",
+      "word": "possible",
+      "meaning": "가능한",
+      "example": "This means that, if they were only very slightly different, life would not have been possible.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-232",
+      "word": "instance",
+      "meaning": "경우, 사례",
+      "example": "For instance, the precise value of gravity has enabled our universe to arise by permitting the aggregation of dust and gas particles to proto­stars around which planets later came to orbit, including the Earth around the Sun.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-233",
+      "word": "gravity",
+      "meaning": "중력",
+      "example": "For instance, the precise value of gravity has enabled our universe to arise by permitting the aggregation of dust and gas particles to proto­stars around which planets later came to orbit, including the Earth around the Sun.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-234",
+      "word": "enable",
+      "meaning": "가능하게 하다",
+      "example": "For instance, the precise value of gravity has enabled our universe to arise by permitting the aggregation of dust and gas particles to proto­stars around which planets later came to orbit, including the Earth around the Sun.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-235",
+      "word": "arise",
+      "meaning": "발생하다",
+      "example": "For instance, the precise value of gravity has enabled our universe to arise by permitting the aggregation of dust and gas particles to proto­stars around which planets later came to orbit, including the Earth around the Sun.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-236",
+      "word": "permit",
+      "meaning": "허락하다",
+      "example": "For instance, the precise value of gravity has enabled our universe to arise by permitting the aggregation of dust and gas particles to proto­stars around which planets later came to orbit, including the Earth around the Sun.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-237",
+      "word": "dust",
+      "meaning": "먼지",
+      "example": "For instance, the precise value of gravity has enabled our universe to arise by permitting the aggregation of dust and gas particles to proto­stars around which planets later came to orbit, including the Earth around the Sun.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-238",
+      "word": "particle",
+      "meaning": "입자",
+      "example": "For instance, the precise value of gravity has enabled our universe to arise by permitting the aggregation of dust and gas particles to proto­stars around which planets later came to orbit, including the Earth around the Sun.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-239",
+      "word": "orbit",
+      "meaning": "궤도",
+      "example": "For instance, the precise value of gravity has enabled our universe to arise by permitting the aggregation of dust and gas particles to proto­stars around which planets later came to orbit, including the Earth around the Sun.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-240",
+      "word": "larger",
+      "meaning": "큰",
+      "example": "If the value of the electron had been ever so slightly larger or smaller, chemistry, as we know it, would not have been possible and life, which is based on organic chemistry, could not have started.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-241",
+      "word": "chemistry",
+      "meaning": "화학",
+      "example": "If the value of the electron had been ever so slightly larger or smaller, chemistry, as we know it, would not have been possible and life, which is based on organic chemistry, could not have started.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-242",
+      "word": "base",
+      "meaning": "기반을 두다, 기초",
+      "example": "If the value of the electron had been ever so slightly larger or smaller, chemistry, as we know it, would not have been possible and life, which is based on organic chemistry, could not have started.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-243",
+      "word": "organic",
+      "meaning": "유기적인",
+      "example": "If the value of the electron had been ever so slightly larger or smaller, chemistry, as we know it, would not have been possible and life, which is based on organic chemistry, could not have started.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-244",
+      "word": "design",
+      "meaning": "설계하다, 디자인",
+      "example": "The universe was not designed for us to evolve, we have no privileged position in the universe; however, the laws and constants of physics allowed advanced life to evolve.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-245",
+      "word": "evolve",
+      "meaning": "진화하다",
+      "example": "The universe was not designed for us to evolve, we have no privileged position in the universe; however, the laws and constants of physics allowed advanced life to evolve.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-246",
+      "word": "privilege",
+      "meaning": "특권",
+      "example": "The universe was not designed for us to evolve, we have no privileged position in the universe; however, the laws and constants of physics allowed advanced life to evolve.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-247",
+      "word": "position",
+      "meaning": "위치, 직위",
+      "example": "The universe was not designed for us to evolve, we have no privileged position in the universe; however, the laws and constants of physics allowed advanced life to evolve.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-248",
+      "word": "allow",
+      "meaning": "허용하다",
+      "example": "The universe was not designed for us to evolve, we have no privileged position in the universe; however, the laws and constants of physics allowed advanced life to evolve.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-249",
+      "word": "accidental",
+      "meaning": "사고",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-250",
+      "word": "ongoing",
+      "meaning": "진행 중인",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-251",
+      "word": "challenge",
+      "meaning": "도전",
+      "example": "* constant: 상수 ** aggregation: 응집 ①Accidental Precision of the Universe for Life ②Ongoing Challenges for Exploring the Universe ③How Did the Universe Begin and How Will It End?",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-252",
+      "word": "explore",
+      "meaning": "탐험하다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-253",
+      "word": "begin",
+      "meaning": "시작하다",
+      "example": "* constant: 상수 ** aggregation: 응집 ①Accidental Precision of the Universe for Life ②Ongoing Challenges for Exploring the Universe ③How Did the Universe Begin and How Will It End?",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-254",
+      "word": "drive",
+      "meaning": "운전하다, 추진하다",
+      "example": "Chemistry: Which Drives Science Forward?",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-255",
+      "word": "mystery",
+      "meaning": "신비",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-256",
+      "word": "human",
+      "meaning": "인간의",
+      "example": "⑤Mystery of the Human Body: Absolute Precision in Function --- PAGE 4 --- 4 영어 영역 4 8 25.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-257",
+      "word": "absolute",
+      "meaning": "절대적인",
+      "example": "⑤Mystery of the Human Body: Absolute Precision in Function --- PAGE 4 --- 4 영어 영역 4 8 25.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-258",
+      "word": "function",
+      "meaning": "기능",
+      "example": "⑤Mystery of the Human Body: Absolute Precision in Function --- PAGE 4 --- 4 영어 영역 4 8 25.",
+      "exampleMeaning": "",
+      "questionNumber": 24
+    },
+    {
+      "id": "2025-10-259",
+      "word": "graph",
+      "meaning": "그래프",
+      "example": "The above graph shows the percentages of U.K.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-260",
+      "word": "consumer",
+      "meaning": "소비하다",
+      "example": "consumers who preferred purchasing clothes from sustainable brands by age and gender in 2020.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-261",
+      "word": "prefer",
+      "meaning": "선호하다",
+      "example": "consumers who preferred purchasing clothes from sustainable brands by age and gender in 2020.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-262",
+      "word": "purchase",
+      "meaning": "구매",
+      "example": "Those who purchase the goods of a company are called customers.",
+      "exampleMeaning": "",
+      "questionNumber": 35
+    },
+    {
+      "id": "2025-10-263",
+      "word": "brand",
+      "meaning": "브랜드",
+      "example": "consumers who preferred purchasing clothes from sustainable brands by age and gender in 2020.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-264",
+      "word": "highest",
+      "meaning": "높은",
+      "example": "②The 25-34 and 35-44 age groups had the highest percentage of men who preferred purchasing clothes from sustainable brands.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-265",
+      "word": "point",
+      "meaning": "가리키다, 요점",
+      "example": "③The percentage point gap between men and women who preferred purchasing clothes from sustainable brands in the 25-34 age group was larger than that in the 18-24 age group.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-266",
+      "word": "gap",
+      "meaning": "간격, 격차",
+      "example": "③The percentage point gap between men and women who preferred purchasing clothes from sustainable brands in the 25-34 age group was larger than that in the 18-24 age group.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-267",
+      "word": "university",
+      "meaning": "대학교",
+      "example": "After graduating from the University of Punjab in India, he moved to the U.S.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-268",
+      "word": "move",
+      "meaning": "움직이다",
+      "example": "After graduating from the University of Punjab in India, he moved to the U.S.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-269",
+      "word": "attend",
+      "meaning": "참석하다",
+      "example": "to attend graduate school.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-270",
+      "word": "earn",
+      "meaning": "벌다",
+      "example": "He earned his doctoral degree at the University of California in 1924 but could not get a job because of his nationality.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-271",
+      "word": "degree",
+      "meaning": "정도, 학위",
+      "example": "He earned his doctoral degree at the University of California in 1924 but could not get a job because of his nationality.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-272",
+      "word": "valley",
+      "meaning": "계곡",
+      "example": "The next year, he began farming in Imperial Valley, but he was not able to buy land without U.S.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-273",
+      "word": "buy",
+      "meaning": "사다",
+      "example": "The next year, he began farming in Imperial Valley, but he was not able to buy land without U.S.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-274",
+      "word": "land",
+      "meaning": "착륙하다, 땅",
+      "example": "The next year, he began farming in Imperial Valley, but he was not able to buy land without U.S.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-275",
+      "word": "topic",
+      "meaning": "주제",
+      "example": "Dalip developed an interest in politics and he often spoke out on Indian and political topics.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-276",
+      "word": "bill",
+      "meaning": "법안, 청구서",
+      "example": "and promoted a bill that would allow Indians to become U.S.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-277",
+      "word": "become",
+      "meaning": "~이 되다",
+      "example": "and promoted a bill that would allow Indians to become U.S.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-278",
+      "word": "receive",
+      "meaning": "받다",
+      "example": "The bill was passed in 1946, and three years later Dalip received U.S.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-279",
+      "word": "contest",
+      "meaning": "경쟁하다, 대회",
+      "example": "2025 Britt High School Character Design Contest Britt High School holds our first Character Design Contest.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-280",
+      "word": "join",
+      "meaning": "합류하다, 합치다",
+      "example": "Join the contest and create a character that symbolizes our school.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-281",
+      "word": "symbolize",
+      "meaning": "상징하다",
+      "example": "Join the contest and create a character that symbolizes our school.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-282",
+      "word": "deadline",
+      "meaning": "마감",
+      "example": "Submission • Deadline: October 24, 5 p.m.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-283",
+      "word": "send",
+      "meaning": "보내다",
+      "example": "",
+      "exampleMeaning": "",
+      "questionNumber": 18
+    },
+    {
+      "id": "2025-10-284",
+      "word": "judge",
+      "meaning": "판단하다, 판사",
+      "example": "The technical term often used to describe animals’ judgement of numbers is the approximate number system.",
+      "exampleMeaning": "",
+      "questionNumber": 30
+    },
+    {
+      "id": "2025-10-285",
+      "word": "concept",
+      "meaning": "개념",
+      "example": "Judging Criteria • Concept • Creativity • Illustration Prizes Number of winners Prize (per winner) 1st prize 1 $50 gift card 2nd prize 2 $30 gift card 3rd prize 3 $10 gift card ※ Winners will be announced on our school’s website on October 31.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-286",
+      "word": "creativity",
+      "meaning": "창의성",
+      "example": "Judging Criteria • Concept • Creativity • Illustration Prizes Number of winners Prize (per winner) 1st prize 1 $50 gift card 2nd prize 2 $30 gift card 3rd prize 3 $10 gift card ※ Winners will be announced on our school’s website on October 31.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-287",
+      "word": "illustration",
+      "meaning": "삽화, 예시",
+      "example": "Judging Criteria • Concept • Creativity • Illustration Prizes Number of winners Prize (per winner) 1st prize 1 $50 gift card 2nd prize 2 $30 gift card 3rd prize 3 $10 gift card ※ Winners will be announced on our school’s website on October 31.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-288",
+      "word": "gift",
+      "meaning": "선물, 재능",
+      "example": "Judging Criteria • Concept • Creativity • Illustration Prizes Number of winners Prize (per winner) 1st prize 1 $50 gift card 2nd prize 2 $30 gift card 3rd prize 3 $10 gift card ※ Winners will be announced on our school’s website on October 31.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-289",
+      "word": "announce",
+      "meaning": "발표하다",
+      "example": "Judging Criteria • Concept • Creativity • Illustration Prizes Number of winners Prize (per winner) 1st prize 1 $50 gift card 2nd prize 2 $30 gift card 3rd prize 3 $10 gift card ※ Winners will be announced on our school’s website on October 31.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-290",
+      "word": "contact",
+      "meaning": "접촉",
+      "example": "No personal contact will be made.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-291",
+      "word": "annual",
+      "meaning": "연간의",
+      "example": "This annual festival aims to celebrate Robin Hood, who has made Shearwood Forest famous around the world.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-292",
+      "word": "celebrate",
+      "meaning": "축하하다",
+      "example": "This annual festival aims to celebrate Robin Hood, who has made Shearwood Forest famous around the world.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-293",
+      "word": "famous",
+      "meaning": "유명한",
+      "example": "This annual festival aims to celebrate Robin Hood, who has made Shearwood Forest famous around the world.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-294",
+      "word": "event",
+      "meaning": "사건, 행사",
+      "example": "• Shearwood Forest Park Events • Shoot a bow like Robin Hood.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-295",
+      "word": "shoot",
+      "meaning": "쏘다",
+      "example": "• Shearwood Forest Park Events • Shoot a bow like Robin Hood.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-296",
+      "word": "note",
+      "meaning": "주목하다, 메모",
+      "example": "Notes • Free shuttle bus will be provided.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-297",
+      "word": "free",
+      "meaning": "자유로운, 무료의",
+      "example": "Notes • Free shuttle bus will be provided.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-298",
+      "word": "reservation",
+      "meaning": "예약",
+      "example": "• A reservation is not required for any event.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-299",
+      "word": "require",
+      "meaning": "필요로 하다",
+      "example": "• A reservation is not required for any event.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    },
+    {
+      "id": "2025-10-300",
+      "word": "information",
+      "meaning": "정보",
+      "example": "※ For more information, visit www.rbfestival.org.",
+      "exampleMeaning": "",
+      "questionNumber": 25
+    }
+  ]
+}
