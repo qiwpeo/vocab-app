@@ -39,7 +39,9 @@ export default function WrongNotesPage() {
     const shuffled = shuffle(allWords);
     return shuffled.map((w) => {
       const others = allWords.filter((o) => o.id !== w.id);
-      const distractors = shuffle(others).slice(0, 3);
+      const samePOS = shuffle(others.filter((o) => o.pos === w.pos));
+      const diffPOS = shuffle(others.filter((o) => o.pos !== w.pos));
+      const distractors = [...samePOS, ...diffPOS].slice(0, 3);
       const options = shuffle([w, ...distractors].map((x) => x.meaning));
       return {
         word: w,

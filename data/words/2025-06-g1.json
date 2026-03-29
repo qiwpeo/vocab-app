@@ -10,6 +10,7 @@
       "id": "2025-06-001",
       "word": "name",
       "meaning": "이름 짓다, 이름",
+      "pos": "verb",
       "example": "Dear Dog Owners, My name is Lily Paxton, and I’m the town’s Pet Program Coordinator.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -18,6 +19,7 @@
       "id": "2025-06-002",
       "word": "program",
       "meaning": "프로그램을 짜다",
+      "pos": "verb",
       "example": "Dear Dog Owners, My name is Lily Paxton, and I’m the town’s Pet Program Coordinator.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -26,6 +28,7 @@
       "id": "2025-06-003",
       "word": "goal",
       "meaning": "목표",
+      "pos": "noun",
       "example": "As part of our goal to make the community more dog‐friendly, we recently opened a new dog park.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -34,6 +37,7 @@
       "id": "2025-06-004",
       "word": "community",
       "meaning": "공동체",
+      "pos": "noun",
       "example": "As part of our goal to make the community more dog‐friendly, we recently opened a new dog park.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -42,6 +46,7 @@
       "id": "2025-06-005",
       "word": "friendly",
       "meaning": "친근한",
+      "pos": "adj",
       "example": "As part of our goal to make the community more dog‐friendly, we recently opened a new dog park.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -50,6 +55,7 @@
       "id": "2025-06-006",
       "word": "recently",
       "meaning": "최근에",
+      "pos": "adv",
       "example": "As part of our goal to make the community more dog‐friendly, we recently opened a new dog park.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -58,6 +64,7 @@
       "id": "2025-06-007",
       "word": "open",
       "meaning": "열다",
+      "pos": "verb",
       "example": "As part of our goal to make the community more dog‐friendly, we recently opened a new dog park.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -66,6 +73,7 @@
       "id": "2025-06-008",
       "word": "design",
       "meaning": "설계하다, 디자인",
+      "pos": "verb",
       "example": "The park was designed to provide an enjoyable experience for both dogs and owners.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -74,6 +82,7 @@
       "id": "2025-06-009",
       "word": "provide",
       "meaning": "제공하다",
+      "pos": "verb",
       "example": "The park was designed to provide an enjoyable experience for both dogs and owners.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -82,6 +91,7 @@
       "id": "2025-06-010",
       "word": "enjoyable",
       "meaning": "즐기다",
+      "pos": "adj",
       "example": "The park was designed to provide an enjoyable experience for both dogs and owners.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -90,6 +100,7 @@
       "id": "2025-06-011",
       "word": "experience",
       "meaning": "경험하다, 경험",
+      "pos": "verb",
       "example": "The park was designed to provide an enjoyable experience for both dogs and owners.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -98,6 +109,7 @@
       "id": "2025-06-012",
       "word": "owner",
       "meaning": "소유하다",
+      "pos": "noun",
       "example": "Dear Dog Owners, My name is Lily Paxton, and I’m the town’s Pet Program Coordinator.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -106,6 +118,7 @@
       "id": "2025-06-013",
       "word": "run",
       "meaning": "달리다, 운영하다",
+      "pos": "verb",
       "example": "There are big grassy areas where your dogs can run, jump, and play.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -114,6 +127,7 @@
       "id": "2025-06-014",
       "word": "jump",
       "meaning": "뛰다",
+      "pos": "verb",
       "example": "There are big grassy areas where your dogs can run, jump, and play.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -122,6 +136,7 @@
       "id": "2025-06-015",
       "word": "play",
       "meaning": "놀다, 연주하다",
+      "pos": "verb",
       "example": "There are big grassy areas where your dogs can run, jump, and play.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -130,6 +145,7 @@
       "id": "2025-06-016",
       "word": "separate",
       "meaning": "별개의",
+      "pos": "verb",
       "example": "We have separate spaces for small dogs and big dogs, to ensure safety.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -138,6 +154,7 @@
       "id": "2025-06-017",
       "word": "ensure",
       "meaning": "보장하다",
+      "pos": "verb",
       "example": "We have separate spaces for small dogs and big dogs, to ensure safety.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -146,6 +163,7 @@
       "id": "2025-06-018",
       "word": "safety",
       "meaning": "안전",
+      "pos": "noun",
       "example": "We have separate spaces for small dogs and big dogs, to ensure safety.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -154,6 +172,7 @@
       "id": "2025-06-019",
       "word": "find",
       "meaning": "찾다, 발견하다",
+      "pos": "verb",
       "example": "You’ll also find lots of benches and areas for resting and staying cool.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -162,6 +181,7 @@
       "id": "2025-06-020",
       "word": "rest",
       "meaning": "쉬다, 나머지",
+      "pos": "verb",
       "example": "You’ll also find lots of benches and areas for resting and staying cool.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -170,6 +190,7 @@
       "id": "2025-06-021",
       "word": "stay",
       "meaning": "머무르다",
+      "pos": "verb",
       "example": "You’ll also find lots of benches and areas for resting and staying cool.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -178,6 +199,7 @@
       "id": "2025-06-022",
       "word": "hope",
       "meaning": "희망하다, 희망",
+      "pos": "verb",
       "example": "We hope you will have a wonderful time with your dogs in this newly opened park.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -186,6 +208,7 @@
       "id": "2025-06-023",
       "word": "wonderful",
       "meaning": "궁금해하다, 경이",
+      "pos": "adj",
       "example": "We hope you will have a wonderful time with your dogs in this newly opened park.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -194,6 +217,7 @@
       "id": "2025-06-024",
       "word": "regard",
       "meaning": "간주하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -202,6 +226,7 @@
       "id": "2025-06-025",
       "word": "wait",
       "meaning": "기다리다",
+      "pos": "verb",
       "example": "Maya waited in line to check in for her flight.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -210,6 +235,7 @@
       "id": "2025-06-026",
       "word": "check",
       "meaning": "확인하다",
+      "pos": "verb",
       "example": "Maya waited in line to check in for her flight.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -218,6 +244,7 @@
       "id": "2025-06-027",
       "word": "flight",
       "meaning": "비행, 도주",
+      "pos": "noun",
       "example": "Maya waited in line to check in for her flight.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -226,6 +253,7 @@
       "id": "2025-06-028",
       "word": "expectation",
       "meaning": "기대",
+      "pos": "noun",
       "example": "Her expectations about her European backpacking trip were really high.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -234,6 +262,7 @@
       "id": "2025-06-029",
       "word": "really",
       "meaning": "진짜의",
+      "pos": "adv",
       "example": "Her expectations about her European backpacking trip were really high.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -242,6 +271,7 @@
       "id": "2025-06-030",
       "word": "high",
       "meaning": "높은",
+      "pos": "adj",
       "example": "Her expectations about her European backpacking trip were really high.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -250,6 +280,7 @@
       "id": "2025-06-031",
       "word": "look",
       "meaning": "보다",
+      "pos": "verb",
       "example": "She had been looking forward to the trip for a year.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -258,6 +289,7 @@
       "id": "2025-06-032",
       "word": "visit",
       "meaning": "방문하다",
+      "pos": "verb",
       "example": "She couldn’t wait to visit museums in Madrid and see the Eiffel Tower at night in Paris.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -266,6 +298,7 @@
       "id": "2025-06-033",
       "word": "stand",
       "meaning": "서다",
+      "pos": "verb",
       "example": "( ②) Researchers trying to understand why people sit where they sit or stand where they stand in subway and metro trains examined the factors that shape the way riders used and navigated that space in different situations.",
       "exampleMeaning": "",
       "questionNumber": 35
@@ -274,6 +307,7 @@
       "id": "2025-06-034",
       "word": "feel",
       "meaning": "느끼다",
+      "pos": "verb",
       "example": "As she stood in line, she could feel those experiences were finally so close.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -282,6 +316,7 @@
       "id": "2025-06-035",
       "word": "close",
       "meaning": "닫다, 가까운",
+      "pos": "verb",
       "example": "As she stood in line, she could feel those experiences were finally so close.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -290,6 +325,7 @@
       "id": "2025-06-036",
       "word": "approach",
       "meaning": "접근하다, 접근법",
+      "pos": "verb",
       "example": "When she approached the counter, the airline employee asked to see her passport.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -298,6 +334,7 @@
       "id": "2025-06-037",
       "word": "counter",
       "meaning": "반격",
+      "pos": "noun",
       "example": "When she approached the counter, the airline employee asked to see her passport.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -306,6 +343,7 @@
       "id": "2025-06-038",
       "word": "ask",
       "meaning": "묻다",
+      "pos": "verb",
       "example": "When she approached the counter, the airline employee asked to see her passport.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -314,6 +352,7 @@
       "id": "2025-06-039",
       "word": "reach",
       "meaning": "도달하다",
+      "pos": "verb",
       "example": "Maya reached into her pocket but felt nothing.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -322,6 +361,7 @@
       "id": "2025-06-040",
       "word": "pocket",
       "meaning": "주머니",
+      "pos": "noun",
       "example": "Maya reached into her pocket but felt nothing.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -330,6 +370,7 @@
       "id": "2025-06-041",
       "word": "realize",
       "meaning": "깨닫다",
+      "pos": "verb",
       "example": "She realized she had left her passport at home.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -338,6 +379,7 @@
       "id": "2025-06-042",
       "word": "leave",
       "meaning": "떠나다, 남기다",
+      "pos": "verb",
       "example": "They know which insects to leave alone, know where food exists, can build and tear down shelters with ease.",
       "exampleMeaning": "",
       "questionNumber": 30
@@ -346,6 +388,7 @@
       "id": "2025-06-043",
       "word": "plan",
       "meaning": "계획하다, 계획",
+      "pos": "verb",
       "example": "Her plans were ruined.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -354,6 +397,7 @@
       "id": "2025-06-044",
       "word": "ruin",
       "meaning": "폐허",
+      "pos": "verb",
       "example": "Her plans were ruined.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -362,6 +406,7 @@
       "id": "2025-06-045",
       "word": "board",
       "meaning": "판, 위원회",
+      "pos": "noun",
       "example": "She was heartbroken, knowing she could not board the flight and had to delay her dream trip.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -370,6 +415,7 @@
       "id": "2025-06-046",
       "word": "delay",
       "meaning": "지연",
+      "pos": "verb",
       "example": "She was heartbroken, knowing she could not board the flight and had to delay her dream trip.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -378,6 +424,7 @@
       "id": "2025-06-047",
       "word": "dream",
       "meaning": "꿈꾸다, 꿈",
+      "pos": "verb",
       "example": "She was heartbroken, knowing she could not board the flight and had to delay her dream trip.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -386,6 +433,7 @@
       "id": "2025-06-048",
       "word": "excite",
       "meaning": "흥분시키다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -394,6 +442,7 @@
       "id": "2025-06-049",
       "word": "frustrate",
       "meaning": "좌절시키다",
+      "pos": "verb",
       "example": "①excited → frustrated ②joyful →indifferent ③terrified → relaxed ④worried →satisfied ⑤bored → curious 20.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -402,6 +451,7 @@
       "id": "2025-06-050",
       "word": "joyful",
       "meaning": "기쁨",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -410,6 +460,7 @@
       "id": "2025-06-051",
       "word": "relax",
       "meaning": "긴장을 풀다",
+      "pos": "verb",
       "example": "①excited → frustrated ②joyful →indifferent ③terrified → relaxed ④worried →satisfied ⑤bored → curious 20.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -418,6 +469,7 @@
       "id": "2025-06-052",
       "word": "worry",
       "meaning": "걱정하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -426,6 +478,7 @@
       "id": "2025-06-053",
       "word": "satisfy",
       "meaning": "만족시키다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -434,6 +487,7 @@
       "id": "2025-06-054",
       "word": "curious",
       "meaning": "호기심 있는",
+      "pos": "adj",
       "example": "①excited → frustrated ②joyful →indifferent ③terrified → relaxed ④worried →satisfied ⑤bored → curious 20.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -442,6 +496,7 @@
       "id": "2025-06-055",
       "word": "surprise",
       "meaning": "놀라움",
+      "pos": "verb",
       "example": "People often ask me, “What surprises you most about habits?” One thing that continually astonishes me is the degree to which we’re influenced by sheer convenience.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -450,6 +505,7 @@
       "id": "2025-06-056",
       "word": "habit",
       "meaning": "습관",
+      "pos": "noun",
       "example": "People often ask me, “What surprises you most about habits?” One thing that continually astonishes me is the degree to which we’re influenced by sheer convenience.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -458,6 +514,7 @@
       "id": "2025-06-057",
       "word": "degree",
       "meaning": "정도, 학위",
+      "pos": "noun",
       "example": "People often ask me, “What surprises you most about habits?” One thing that continually astonishes me is the degree to which we’re influenced by sheer convenience.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -466,6 +523,7 @@
       "id": "2025-06-058",
       "word": "influence",
       "meaning": "영향",
+      "pos": "verb",
       "example": "People often ask me, “What surprises you most about habits?” One thing that continually astonishes me is the degree to which we’re influenced by sheer convenience.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -474,6 +532,7 @@
       "id": "2025-06-059",
       "word": "sheer",
       "meaning": "순전한",
+      "pos": "adj",
       "example": "People often ask me, “What surprises you most about habits?” One thing that continually astonishes me is the degree to which we’re influenced by sheer convenience.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -482,6 +541,7 @@
       "id": "2025-06-060",
       "word": "amount",
       "meaning": "양",
+      "pos": "noun",
       "example": "The amount of effort, time, or decision making required by an action has a huge influence on habit formation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -490,6 +550,7 @@
       "id": "2025-06-061",
       "word": "effort",
       "meaning": "노력",
+      "pos": "noun",
       "example": "The amount of effort, time, or decision making required by an action has a huge influence on habit formation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -498,6 +559,7 @@
       "id": "2025-06-062",
       "word": "decision",
       "meaning": "결정",
+      "pos": "noun",
       "example": "The amount of effort, time, or decision making required by an action has a huge influence on habit formation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -506,6 +568,7 @@
       "id": "2025-06-063",
       "word": "require",
       "meaning": "필요로 하다",
+      "pos": "verb",
       "example": "The amount of effort, time, or decision making required by an action has a huge influence on habit formation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -514,6 +577,7 @@
       "id": "2025-06-064",
       "word": "action",
       "meaning": "행동",
+      "pos": "noun",
       "example": "The amount of effort, time, or decision making required by an action has a huge influence on habit formation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -522,6 +586,7 @@
       "id": "2025-06-065",
       "word": "huge",
       "meaning": "거대한",
+      "pos": "adj",
       "example": "The amount of effort, time, or decision making required by an action has a huge influence on habit formation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -530,6 +595,7 @@
       "id": "2025-06-066",
       "word": "truly",
       "meaning": "진정으로",
+      "pos": "adv",
       "example": "To a truly remarkable extent, we’re more likely to do something if it’s convenient, and less likely if it’s not.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -538,6 +604,7 @@
       "id": "2025-06-067",
       "word": "remarkable",
       "meaning": "놀라운",
+      "pos": "adj",
       "example": "To a truly remarkable extent, we’re more likely to do something if it’s convenient, and less likely if it’s not.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -546,6 +613,7 @@
       "id": "2025-06-068",
       "word": "extent",
       "meaning": "정도, 범위",
+      "pos": "noun",
       "example": "To a truly remarkable extent, we’re more likely to do something if it’s convenient, and less likely if it’s not.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -554,6 +622,7 @@
       "id": "2025-06-069",
       "word": "likely",
       "meaning": "~할 것 같은",
+      "pos": "adj",
       "example": "To a truly remarkable extent, we’re more likely to do something if it’s convenient, and less likely if it’s not.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -562,6 +631,7 @@
       "id": "2025-06-070",
       "word": "pay",
       "meaning": "지불하다",
+      "pos": "verb",
       "example": "For this reason, we should pay close attention to the convenience of any activity we want to make into a habit.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -570,6 +640,7 @@
       "id": "2025-06-071",
       "word": "attention",
       "meaning": "주의, 관심",
+      "pos": "noun",
       "example": "For this reason, we should pay close attention to the convenience of any activity we want to make into a habit.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -578,6 +649,7 @@
       "id": "2025-06-072",
       "word": "activity",
       "meaning": "활동",
+      "pos": "noun",
       "example": "For this reason, we should pay close attention to the convenience of any activity we want to make into a habit.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -586,6 +658,7 @@
       "id": "2025-06-073",
       "word": "want",
       "meaning": "원하다",
+      "pos": "verb",
       "example": "For this reason, we should pay close attention to the convenience of any activity we want to make into a habit.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -594,6 +667,7 @@
       "id": "2025-06-074",
       "word": "sort",
       "meaning": "분류하다, 종류",
+      "pos": "verb",
       "example": "Putting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this chore.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -602,6 +676,7 @@
       "id": "2025-06-075",
       "word": "slightly",
       "meaning": "약간",
+      "pos": "adv",
       "example": "Putting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this chore.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -610,6 +685,7 @@
       "id": "2025-06-076",
       "word": "stop",
       "meaning": "멈추다",
+      "pos": "verb",
       "example": "Putting a wastebasket next to our front door made mail sorting slightly more convenient, and I stopped procrastinating with this chore.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -618,6 +694,7 @@
       "id": "2025-06-077",
       "word": "report",
       "meaning": "보고하다",
+      "pos": "verb",
       "example": "Many people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -626,6 +703,7 @@
       "id": "2025-06-078",
       "word": "distant",
       "meaning": "먼",
+      "pos": "adj",
       "example": "Many people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -634,6 +712,7 @@
       "id": "2025-06-079",
       "word": "tool",
       "meaning": "도구",
+      "pos": "noun",
       "example": "Many people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -642,6 +721,7 @@
       "id": "2025-06-080",
       "word": "touch",
       "meaning": "만지다",
+      "pos": "verb",
       "example": "Many people report that they do a much better job of staying close to distant family members now that tools like group chats make it easy to stay in touch.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -650,6 +730,7 @@
       "id": "2025-06-081",
       "word": "point",
       "meaning": "가리키다, 요점",
+      "pos": "verb",
       "example": "밑줄 친 the arrow is as likely to point in the reverse direction이 다음 글에서 의미하는 바로 가장 적절한 것은?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -658,6 +739,7 @@
       "id": "2025-06-082",
       "word": "reverse",
       "meaning": "뒤바꾸다",
+      "pos": "verb",
       "example": "밑줄 친 the arrow is as likely to point in the reverse direction이 다음 글에서 의미하는 바로 가장 적절한 것은?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -666,6 +748,7 @@
       "id": "2025-06-083",
       "word": "direction",
       "meaning": "방향",
+      "pos": "noun",
       "example": "밑줄 친 the arrow is as likely to point in the reverse direction이 다음 글에서 의미하는 바로 가장 적절한 것은?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -674,6 +757,7 @@
       "id": "2025-06-084",
       "word": "common",
       "meaning": "흔한",
+      "pos": "adj",
       "example": "[3점] It is common sense that people’s inner beliefs may drive their external behavior.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -682,6 +766,7 @@
       "id": "2025-06-085",
       "word": "sense",
       "meaning": "감지하다, 감각",
+      "pos": "verb",
       "example": "[3점] It is common sense that people’s inner beliefs may drive their external behavior.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -690,6 +775,7 @@
       "id": "2025-06-086",
       "word": "inner",
       "meaning": "내부의",
+      "pos": "adj",
       "example": "[3점] It is common sense that people’s inner beliefs may drive their external behavior.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -698,6 +784,7 @@
       "id": "2025-06-087",
       "word": "belief",
       "meaning": "믿음",
+      "pos": "noun",
       "example": "[3점] It is common sense that people’s inner beliefs may drive their external behavior.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -706,6 +793,7 @@
       "id": "2025-06-088",
       "word": "drive",
       "meaning": "운전하다, 추진하다",
+      "pos": "verb",
       "example": "[3점] It is common sense that people’s inner beliefs may drive their external behavior.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -714,6 +802,7 @@
       "id": "2025-06-089",
       "word": "external",
       "meaning": "외부의",
+      "pos": "adj",
       "example": "[3점] It is common sense that people’s inner beliefs may drive their external behavior.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -722,6 +811,7 @@
       "id": "2025-06-090",
       "word": "behavior",
       "meaning": "행동",
+      "pos": "noun",
       "example": "[3점] It is common sense that people’s inner beliefs may drive their external behavior.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -730,6 +820,7 @@
       "id": "2025-06-091",
       "word": "attract",
       "meaning": "끌다, 매력을 끌다",
+      "pos": "verb",
       "example": "If you’re attracted to a certain person, you should be more likely to socialize with that person.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -738,6 +829,7 @@
       "id": "2025-06-092",
       "word": "socialize",
       "meaning": "사회적인",
+      "pos": "verb",
       "example": "If you’re attracted to a certain person, you should be more likely to socialize with that person.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -746,6 +838,7 @@
       "id": "2025-06-093",
       "word": "favor",
       "meaning": "호의",
+      "pos": "verb",
       "example": "If you favor a brand of toothpaste, you’re more likely to buy it.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -754,6 +847,7 @@
       "id": "2025-06-094",
       "word": "brand",
       "meaning": "브랜드",
+      "pos": "noun",
       "example": "If you favor a brand of toothpaste, you’re more likely to buy it.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -762,6 +856,7 @@
       "id": "2025-06-095",
       "word": "buy",
       "meaning": "사다",
+      "pos": "verb",
       "example": "If you favor a brand of toothpaste, you’re more likely to buy it.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -770,6 +865,7 @@
       "id": "2025-06-096",
       "word": "internal",
       "meaning": "내부의",
+      "pos": "adj",
       "example": "Of course, our internal thoughts don’t always predict our public behavior, but, overall, what we do obviously reflects what we think.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -778,6 +874,7 @@
       "id": "2025-06-097",
       "word": "predict",
       "meaning": "예측하다",
+      "pos": "verb",
       "example": "Of course, our internal thoughts don’t always predict our public behavior, but, overall, what we do obviously reflects what we think.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -786,6 +883,7 @@
       "id": "2025-06-098",
       "word": "public",
       "meaning": "공공의",
+      "pos": "adj",
       "example": "Of course, our internal thoughts don’t always predict our public behavior, but, overall, what we do obviously reflects what we think.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -794,6 +892,7 @@
       "id": "2025-06-099",
       "word": "overall",
       "meaning": "전반적으로",
+      "pos": "noun",
       "example": "Of course, our internal thoughts don’t always predict our public behavior, but, overall, what we do obviously reflects what we think.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -802,6 +901,7 @@
       "id": "2025-06-100",
       "word": "obviously",
       "meaning": "명백히",
+      "pos": "adv",
       "example": "Of course, our internal thoughts don’t always predict our public behavior, but, overall, what we do obviously reflects what we think.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -810,6 +910,7 @@
       "id": "2025-06-101",
       "word": "reflect",
       "meaning": "반영하다, 반사하다",
+      "pos": "verb",
       "example": "Of course, our internal thoughts don’t always predict our public behavior, but, overall, what we do obviously reflects what we think.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -818,6 +919,7 @@
       "id": "2025-06-102",
       "word": "think",
       "meaning": "생각하다",
+      "pos": "verb",
       "example": "Of course, our internal thoughts don’t always predict our public behavior, but, overall, what we do obviously reflects what we think.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -826,6 +928,7 @@
       "id": "2025-06-103",
       "word": "relate",
       "meaning": "관련시키다",
+      "pos": "verb",
       "example": "But beliefs and behaviors are also related in a more remarkable way.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -834,6 +937,7 @@
       "id": "2025-06-104",
       "word": "turn",
       "meaning": "돌리다, 차례",
+      "pos": "verb",
       "example": "It turns out that the arrow is as likely to point in the reverse direction.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -842,6 +946,7 @@
       "id": "2025-06-105",
       "word": "social",
       "meaning": "사회적인",
+      "pos": "adj",
       "example": "If you’re attracted to a certain person, you should be more likely to socialize with that person.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -850,6 +955,7 @@
       "id": "2025-06-106",
       "word": "observe",
       "meaning": "관찰하다",
+      "pos": "verb",
       "example": "It’s been widely observed by behavioral psychology experts — and anyone who’s ever been on a first date — that we too often tend to treat “conversation” as a game of waiting for our own turn to speak.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -858,6 +964,7 @@
       "id": "2025-06-107",
       "word": "psychology",
       "meaning": "심리학",
+      "pos": "noun",
       "example": "It’s been widely observed by behavioral psychology experts — and anyone who’s ever been on a first date — that we too often tend to treat “conversation” as a game of waiting for our own turn to speak.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -866,6 +973,7 @@
       "id": "2025-06-108",
       "word": "teach",
       "meaning": "가르치다",
+      "pos": "verb",
       "example": "(A) The sun shone in the cloudless sky as Becky, a retired teacher, walked to the fruit market.",
       "exampleMeaning": "",
       "questionNumber": 42
@@ -874,6 +982,7 @@
       "id": "2025-06-109",
       "word": "last",
       "meaning": "지속하다, 마지막의",
+      "pos": "verb",
       "example": "The festival drew a lot of visitors last year.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -882,6 +991,7 @@
       "id": "2025-06-110",
       "word": "act",
       "meaning": "행동하다, 행동",
+      "pos": "verb",
       "example": "The amount of effort, time, or decision making required by an action has a huge influence on habit formation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -890,6 +1000,7 @@
       "id": "2025-06-111",
       "word": "entirely",
       "meaning": "완전히",
+      "pos": "adv",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -898,6 +1009,7 @@
       "id": "2025-06-112",
       "word": "shape",
       "meaning": "형성하다, 모양",
+      "pos": "verb",
       "example": "( ②) Researchers trying to understand why people sit where they sit or stand where they stand in subway and metro trains examined the factors that shape the way riders used and navigated that space in different situations.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -906,6 +1018,7 @@
       "id": "2025-06-113",
       "word": "believe",
       "meaning": "믿다",
+      "pos": "verb",
       "example": "Without fail, each fan base believes that the referees are biased against their team.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -914,6 +1027,7 @@
       "id": "2025-06-114",
       "word": "opinion",
       "meaning": "의견",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -922,6 +1036,7 @@
       "id": "2025-06-115",
       "word": "dependent",
       "meaning": "의존적인",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -930,6 +1045,7 @@
       "id": "2025-06-116",
       "word": "emotion",
       "meaning": "감정",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -938,6 +1054,7 @@
       "id": "2025-06-117",
       "word": "clearly",
       "meaning": "분명히",
+      "pos": "adv",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -946,6 +1063,7 @@
       "id": "2025-06-118",
       "word": "matter",
       "meaning": "문제, 물질",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -954,6 +1072,7 @@
       "id": "2025-06-119",
       "word": "imagine",
       "meaning": "상상하다",
+      "pos": "verb",
       "example": "Imagine following the spirit of a silence vow into daily life.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -962,6 +1081,7 @@
       "id": "2025-06-120",
       "word": "follow",
       "meaning": "따르다",
+      "pos": "verb",
       "example": "Imagine following the spirit of a silence vow into daily life.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -970,6 +1090,7 @@
       "id": "2025-06-121",
       "word": "spirit",
       "meaning": "정신",
+      "pos": "noun",
       "example": "Imagine following the spirit of a silence vow into daily life.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -978,6 +1099,7 @@
       "id": "2025-06-122",
       "word": "daily",
       "meaning": "매일의",
+      "pos": "adj",
       "example": "Imagine following the spirit of a silence vow into daily life.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -986,6 +1108,7 @@
       "id": "2025-06-123",
       "word": "challenge",
       "meaning": "도전",
+      "pos": "verb",
       "example": "Challenge yourself to spend an entire day saying only what you absolutely must say.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -994,6 +1117,7 @@
       "id": "2025-06-124",
       "word": "spend",
       "meaning": "쓰다 (시간/돈)",
+      "pos": "verb",
       "example": "Challenge yourself to spend an entire day saying only what you absolutely must say.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1002,6 +1126,7 @@
       "id": "2025-06-125",
       "word": "entire",
       "meaning": "전체의",
+      "pos": "adj",
       "example": "Challenge yourself to spend an entire day saying only what you absolutely must say.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1010,6 +1135,7 @@
       "id": "2025-06-126",
       "word": "absolutely",
       "meaning": "절대적으로",
+      "pos": "adv",
       "example": "Challenge yourself to spend an entire day saying only what you absolutely must say.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1018,6 +1144,7 @@
       "id": "2025-06-127",
       "word": "widely",
       "meaning": "널리",
+      "pos": "adv",
       "example": "It’s been widely observed by behavioral psychology experts — and anyone who’s ever been on a first date — that we too often tend to treat “conversation” as a game of waiting for our own turn to speak.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1026,6 +1153,7 @@
       "id": "2025-06-128",
       "word": "behavioral",
       "meaning": "행동",
+      "pos": "adj",
       "example": "It’s been widely observed by behavioral psychology experts — and anyone who’s ever been on a first date — that we too often tend to treat “conversation” as a game of waiting for our own turn to speak.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1034,6 +1162,7 @@
       "id": "2025-06-129",
       "word": "tend",
       "meaning": "~하는 경향이 있다",
+      "pos": "verb",
       "example": "It’s been widely observed by behavioral psychology experts — and anyone who’s ever been on a first date — that we too often tend to treat “conversation” as a game of waiting for our own turn to speak.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1042,6 +1171,7 @@
       "id": "2025-06-130",
       "word": "treat",
       "meaning": "대우하다, 치료하다",
+      "pos": "verb",
       "example": "It’s been widely observed by behavioral psychology experts — and anyone who’s ever been on a first date — that we too often tend to treat “conversation” as a game of waiting for our own turn to speak.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1050,6 +1180,7 @@
       "id": "2025-06-131",
       "word": "conversation",
       "meaning": "대화",
+      "pos": "noun",
       "example": "It’s been widely observed by behavioral psychology experts — and anyone who’s ever been on a first date — that we too often tend to treat “conversation” as a game of waiting for our own turn to speak.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1058,6 +1189,7 @@
       "id": "2025-06-132",
       "word": "speak",
       "meaning": "말하다",
+      "pos": "verb",
       "example": "It’s been widely observed by behavioral psychology experts — and anyone who’s ever been on a first date — that we too often tend to treat “conversation” as a game of waiting for our own turn to speak.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1066,6 +1198,7 @@
       "id": "2025-06-133",
       "word": "miss",
       "meaning": "놓치다, 그리워하다",
+      "pos": "verb",
       "example": "We miss what’s being said because we’re mentally rehearsing our next utterance.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1074,6 +1207,7 @@
       "id": "2025-06-134",
       "word": "mentally",
       "meaning": "정신적인",
+      "pos": "adv",
       "example": "We miss what’s being said because we’re mentally rehearsing our next utterance.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1082,6 +1216,7 @@
       "id": "2025-06-135",
       "word": "eliminate",
       "meaning": "제거하다",
+      "pos": "verb",
       "example": "What if you could eliminate the idea that the next available mini­silence is your next opening to express whatever is in your head?",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1090,6 +1225,7 @@
       "id": "2025-06-136",
       "word": "express",
       "meaning": "표현하다",
+      "pos": "verb",
       "example": "What if you could eliminate the idea that the next available mini­silence is your next opening to express whatever is in your head?",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1098,6 +1234,7 @@
       "id": "2025-06-137",
       "word": "limit",
       "meaning": "제한하다, 한계",
+      "pos": "verb",
       "example": "What if you were limited to, say, fifty spoken words tomorrow?",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1106,6 +1243,7 @@
       "id": "2025-06-138",
       "word": "listen",
       "meaning": "듣다",
+      "pos": "verb",
       "example": "I think you’d listen quite differently.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1114,6 +1252,7 @@
       "id": "2025-06-139",
       "word": "differently",
       "meaning": "다른",
+      "pos": "adv",
       "example": "I think you’d listen quite differently.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1122,6 +1261,7 @@
       "id": "2025-06-140",
       "word": "attend",
       "meaning": "참석하다",
+      "pos": "verb",
       "example": "You’d attend quite carefully to every word you heard.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1130,6 +1270,7 @@
       "id": "2025-06-141",
       "word": "carefully",
       "meaning": "조심스럽게",
+      "pos": "adv",
       "example": "You’d attend quite carefully to every word you heard.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1138,6 +1279,7 @@
       "id": "2025-06-142",
       "word": "hear",
       "meaning": "듣다",
+      "pos": "verb",
       "example": "She was heartbroken, knowing she could not board the flight and had to delay her dream trip.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -1146,6 +1288,7 @@
       "id": "2025-06-143",
       "word": "respond",
       "meaning": "응답하다",
+      "pos": "verb",
       "example": "You’d be attuned to what you must respond to.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1154,6 +1297,7 @@
       "id": "2025-06-144",
       "word": "discover",
       "meaning": "발견하다",
+      "pos": "verb",
       "example": "You might discover that the less you say, the more you hear.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1162,6 +1306,7 @@
       "id": "2025-06-145",
       "word": "concern",
       "meaning": "걱정, 관심사",
+      "pos": "verb",
       "example": "Science is concerned with accumulating and understanding observations of the physical world.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1170,6 +1315,7 @@
       "id": "2025-06-146",
       "word": "accumulate",
       "meaning": "축적하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1178,6 +1324,7 @@
       "id": "2025-06-147",
       "word": "understand",
       "meaning": "이해하다",
+      "pos": "verb",
       "example": "Science is concerned with accumulating and understanding observations of the physical world.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1186,6 +1333,7 @@
       "id": "2025-06-148",
       "word": "observation",
       "meaning": "관찰",
+      "pos": "noun",
       "example": "Science is concerned with accumulating and understanding observations of the physical world.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1194,6 +1342,7 @@
       "id": "2025-06-149",
       "word": "physical",
       "meaning": "신체의, 물리적인",
+      "pos": "adj",
       "example": "Science is concerned with accumulating and understanding observations of the physical world.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1202,6 +1351,7 @@
       "id": "2025-06-150",
       "word": "solve",
       "meaning": "해결하다",
+      "pos": "verb",
       "example": "That understanding alone solves no problems.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1210,6 +1360,7 @@
       "id": "2025-06-151",
       "word": "individual",
       "meaning": "개인의",
+      "pos": "noun",
       "example": "Individual people have to act on that understanding for it to help solve problems.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1218,6 +1369,7 @@
       "id": "2025-06-152",
       "word": "help",
       "meaning": "돕다, 도움",
+      "pos": "verb",
       "example": "Individual people have to act on that understanding for it to help solve problems.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1226,6 +1378,7 @@
       "id": "2025-06-153",
       "word": "instance",
       "meaning": "경우, 사례",
+      "pos": "noun",
       "example": "For instance, science has found that regular exercise can lower your risk of heart disease.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1234,6 +1387,7 @@
       "id": "2025-06-154",
       "word": "regular",
       "meaning": "규칙적인",
+      "pos": "adj",
       "example": "For instance, science has found that regular exercise can lower your risk of heart disease.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1242,6 +1396,7 @@
       "id": "2025-06-155",
       "word": "exercise",
       "meaning": "운동하다, 운동",
+      "pos": "verb",
       "example": "For instance, science has found that regular exercise can lower your risk of heart disease.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1250,6 +1405,7 @@
       "id": "2025-06-156",
       "word": "lower",
       "meaning": "낮추다",
+      "pos": "verb",
       "example": "For instance, science has found that regular exercise can lower your risk of heart disease.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1258,6 +1414,7 @@
       "id": "2025-06-157",
       "word": "risk",
       "meaning": "위험",
+      "pos": "verb",
       "example": "For instance, science has found that regular exercise can lower your risk of heart disease.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1266,6 +1423,7 @@
       "id": "2025-06-158",
       "word": "disease",
       "meaning": "질병",
+      "pos": "noun",
       "example": "For instance, science has found that regular exercise can lower your risk of heart disease.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1274,6 +1432,7 @@
       "id": "2025-06-159",
       "word": "interest",
       "meaning": "관심, 이자",
+      "pos": "noun",
       "example": "Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1282,6 +1441,7 @@
       "id": "2025-06-160",
       "word": "personal",
       "meaning": "개인적인",
+      "pos": "adj",
       "example": "Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1290,6 +1450,7 @@
       "id": "2025-06-161",
       "word": "health",
       "meaning": "건강",
+      "pos": "noun",
       "example": "Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1298,6 +1459,7 @@
       "id": "2025-06-162",
       "word": "actually",
       "meaning": "사실은",
+      "pos": "adv",
       "example": "Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1306,6 +1468,7 @@
       "id": "2025-06-163",
       "word": "read",
       "meaning": "읽다",
+      "pos": "verb",
       "example": "Reading an article about exercise is easy.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1314,6 +1477,7 @@
       "id": "2025-06-164",
       "word": "article",
       "meaning": "기사, 조항",
+      "pos": "noun",
       "example": "Reading an article about exercise is easy.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1322,6 +1486,7 @@
       "id": "2025-06-165",
       "word": "actual",
       "meaning": "실제의",
+      "pos": "adj",
       "example": "Knowing this fact is interesting, but it will do nothing for your personal health unless you act on it and actually exercise.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1330,6 +1495,7 @@
       "id": "2025-06-166",
       "word": "routine",
       "meaning": "일상적인",
+      "pos": "noun",
       "example": "Getting into an actual routine of regular exercise is harder.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1338,6 +1504,7 @@
       "id": "2025-06-167",
       "word": "knowledge",
       "meaning": "지식",
+      "pos": "noun",
       "example": "Problems are only solved when people take the knowledge provided by science and use it.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1346,6 +1513,7 @@
       "id": "2025-06-168",
       "word": "humanity",
       "meaning": "인류",
+      "pos": "noun",
       "example": "In fact, many of humanity’s biggest problems are caused by lack of action, and not lack of knowledge.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1354,6 +1522,7 @@
       "id": "2025-06-169",
       "word": "cause",
       "meaning": "야기하다, 원인",
+      "pos": "verb",
       "example": "In fact, many of humanity’s biggest problems are caused by lack of action, and not lack of knowledge.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1362,6 +1531,7 @@
       "id": "2025-06-170",
       "word": "lack",
       "meaning": "부족",
+      "pos": "verb",
       "example": "In fact, many of humanity’s biggest problems are caused by lack of action, and not lack of knowledge.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1370,6 +1540,7 @@
       "id": "2025-06-171",
       "word": "advantage",
       "meaning": "이점",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1378,6 +1549,7 @@
       "id": "2025-06-172",
       "word": "strategic",
       "meaning": "전략적인",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1386,6 +1558,7 @@
       "id": "2025-06-173",
       "word": "danger",
       "meaning": "위험",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1394,6 +1567,7 @@
       "id": "2025-06-174",
       "word": "wisdom",
       "meaning": "지혜",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1402,6 +1576,7 @@
       "id": "2025-06-175",
       "word": "crowd",
       "meaning": "군중",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1410,6 +1585,7 @@
       "id": "2025-06-176",
       "word": "difficulty",
       "meaning": "어려움",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1418,6 +1594,7 @@
       "id": "2025-06-177",
       "word": "share",
       "meaning": "공유하다",
+      "pos": "verb",
       "example": "①In 2019, the United Kingdom recorded the highest online share of retail trade, reaching 19.2 percent.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1426,6 +1603,7 @@
       "id": "2025-06-178",
       "word": "scientific",
       "meaning": "과학적인",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1434,6 +1612,7 @@
       "id": "2025-06-179",
       "word": "specific",
       "meaning": "구체적인",
+      "pos": "adj",
       "example": "Rather, experts ③having knowledge in a specific domain — such as chess, chemistry, or tennis — and are not generalists.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1442,6 +1621,7 @@
       "id": "2025-06-180",
       "word": "need",
       "meaning": "필요하다",
+      "pos": "verb",
       "example": "They no longer felt the need to limit their expenses.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1450,6 +1630,7 @@
       "id": "2025-06-181",
       "word": "logical",
       "meaning": "논리적인",
+      "pos": "adj",
       "example": "We think we’re being logical, objective, and rational — and therefore accurate in our analysis, judgment, and decisions.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1458,6 +1639,7 @@
       "id": "2025-06-182",
       "word": "objective",
       "meaning": "객관적인",
+      "pos": "noun",
       "example": "We think we’re being logical, objective, and rational — and therefore accurate in our analysis, judgment, and decisions.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1466,6 +1648,7 @@
       "id": "2025-06-183",
       "word": "rational",
       "meaning": "합리적인",
+      "pos": "adj",
       "example": "We think we’re being logical, objective, and rational — and therefore accurate in our analysis, judgment, and decisions.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1474,6 +1657,7 @@
       "id": "2025-06-184",
       "word": "accurate",
       "meaning": "정확한",
+      "pos": "adj",
       "example": "We think we’re being logical, objective, and rational — and therefore accurate in our analysis, judgment, and decisions.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1482,6 +1666,7 @@
       "id": "2025-06-185",
       "word": "analysis",
       "meaning": "분석",
+      "pos": "noun",
       "example": "We think we’re being logical, objective, and rational — and therefore accurate in our analysis, judgment, and decisions.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1490,6 +1675,7 @@
       "id": "2025-06-186",
       "word": "judgment",
       "meaning": "판단",
+      "pos": "noun",
       "example": "We think we’re being logical, objective, and rational — and therefore accurate in our analysis, judgment, and decisions.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1498,6 +1684,7 @@
       "id": "2025-06-187",
       "word": "agree",
       "meaning": "동의하다",
+      "pos": "verb",
       "example": "So we think that if other people are logical, objective, and rational, they will agree with us and see what we see.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1506,6 +1693,7 @@
       "id": "2025-06-188",
       "word": "opposite",
       "meaning": "반대의",
+      "pos": "adj",
       "example": "But the opposite is the case.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1514,6 +1702,7 @@
       "id": "2025-06-189",
       "word": "human",
       "meaning": "인간의",
+      "pos": "adj",
       "example": "In fact, many of humanity’s biggest problems are caused by lack of action, and not lack of knowledge.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1522,6 +1711,7 @@
       "id": "2025-06-190",
       "word": "brain",
       "meaning": "뇌",
+      "pos": "noun",
       "example": "Every human brain is different.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1530,6 +1720,7 @@
       "id": "2025-06-191",
       "word": "different",
       "meaning": "다른",
+      "pos": "adj",
       "example": "I think you’d listen quite differently.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1538,6 +1729,7 @@
       "id": "2025-06-192",
       "word": "desire",
       "meaning": "욕망",
+      "pos": "verb",
       "example": "Everyone’s desires and knowledge are different.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1546,6 +1738,7 @@
       "id": "2025-06-193",
       "word": "realistic",
       "meaning": "현실적인",
+      "pos": "adj",
       "example": "You might think you’re being realistic — that is, that your ideas match reality, but that’s impossible.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1554,6 +1747,7 @@
       "id": "2025-06-194",
       "word": "match",
       "meaning": "일치하다, 경기",
+      "pos": "verb",
       "example": "You might think you’re being realistic — that is, that your ideas match reality, but that’s impossible.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1562,6 +1756,7 @@
       "id": "2025-06-195",
       "word": "reality",
       "meaning": "현실",
+      "pos": "noun",
       "example": "You might think you’re being realistic — that is, that your ideas match reality, but that’s impossible.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1570,6 +1765,7 @@
       "id": "2025-06-196",
       "word": "impossible",
       "meaning": "불가능한",
+      "pos": "adj",
       "example": "You might think you’re being realistic — that is, that your ideas match reality, but that’s impossible.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1578,6 +1774,7 @@
       "id": "2025-06-197",
       "word": "interpretation",
       "meaning": "해석",
+      "pos": "noun",
       "example": "It’s only your interpretation of reality, which will always be different from someone else’s.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1586,6 +1783,7 @@
       "id": "2025-06-198",
       "word": "nation",
       "meaning": "국가",
+      "pos": "noun",
       "example": "When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team commits.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1594,6 +1792,7 @@
       "id": "2025-06-199",
       "word": "criticize",
       "meaning": "비판하다",
+      "pos": "verb",
       "example": "When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team commits.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1602,6 +1801,7 @@
       "id": "2025-06-200",
       "word": "commit",
       "meaning": "저지르다, 헌신하다",
+      "pos": "verb",
       "example": "When two nations play each other in the World Cup, the fans of each country criticize the referees for missing all the infractions that the other team commits.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1610,6 +1810,7 @@
       "id": "2025-06-201",
       "word": "fail",
       "meaning": "실패하다",
+      "pos": "verb",
       "example": "Without fail, each fan base believes that the referees are biased against their team.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1618,6 +1819,7 @@
       "id": "2025-06-202",
       "word": "base",
       "meaning": "기반을 두다, 기초",
+      "pos": "verb",
       "example": "Without fail, each fan base believes that the referees are biased against their team.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1626,6 +1828,7 @@
       "id": "2025-06-203",
       "word": "bias",
       "meaning": "편견",
+      "pos": "noun",
       "example": "Without fail, each fan base believes that the referees are biased against their team.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1634,6 +1837,7 @@
       "id": "2025-06-204",
       "word": "fill",
       "meaning": "채우다",
+      "pos": "verb",
       "example": "Activities ∙Take pictures in a photo zone filled with unique plants.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1642,6 +1846,7 @@
       "id": "2025-06-205",
       "word": "gap",
       "meaning": "간격, 격차",
+      "pos": "noun",
       "example": "④Bartlett concluded that when facing problems, humans draw upon mental schemata, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1650,6 +1855,7 @@
       "id": "2025-06-206",
       "word": "real",
       "meaning": "진짜의",
+      "pos": "adj",
       "example": "Her expectations about her European backpacking trip were really high.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -1658,6 +1864,7 @@
       "id": "2025-06-207",
       "word": "ideal",
       "meaning": "이상적인",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1666,6 +1873,7 @@
       "id": "2025-06-208",
       "word": "single",
       "meaning": "하나의",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1674,6 +1882,7 @@
       "id": "2025-06-209",
       "word": "judge",
       "meaning": "판단하다, 판사",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1682,6 +1891,7 @@
       "id": "2025-06-210",
       "word": "objectively",
       "meaning": "객관적인",
+      "pos": "adv",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1690,6 +1900,7 @@
       "id": "2025-06-211",
       "word": "key",
       "meaning": "핵심적인",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1698,6 +1909,7 @@
       "id": "2025-06-212",
       "word": "interpret",
       "meaning": "해석하다",
+      "pos": "verb",
       "example": "It’s only your interpretation of reality, which will always be different from someone else’s.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1706,6 +1918,7 @@
       "id": "2025-06-213",
       "word": "accurately",
       "meaning": "정확하게",
+      "pos": "adv",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1714,6 +1927,7 @@
       "id": "2025-06-214",
       "word": "trade",
       "meaning": "무역",
+      "pos": "verb",
       "example": "①In 2019, the United Kingdom recorded the highest online share of retail trade, reaching 19.2 percent.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1722,6 +1936,7 @@
       "id": "2025-06-215",
       "word": "select",
       "meaning": "선택하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1730,6 +1945,7 @@
       "id": "2025-06-216",
       "word": "unite",
       "meaning": "통합하다",
+      "pos": "verb",
       "example": "①In 2019, the United Kingdom recorded the highest online share of retail trade, reaching 19.2 percent.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1738,6 +1954,7 @@
       "id": "2025-06-217",
       "word": "kingdom",
       "meaning": "왕국",
+      "pos": "noun",
       "example": "①In 2019, the United Kingdom recorded the highest online share of retail trade, reaching 19.2 percent.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1746,6 +1963,7 @@
       "id": "2025-06-218",
       "word": "graph",
       "meaning": "그래프",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1754,6 +1972,7 @@
       "id": "2025-06-219",
       "word": "show",
       "meaning": "보여주다",
+      "pos": "verb",
       "example": "②The Netherlands showed the largest increase in its online share of retail trade among the countries from 2018 to 2019, with a jump of over 6 percentage points.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1762,6 +1981,7 @@
       "id": "2025-06-220",
       "word": "record",
       "meaning": "기록하다, 기록",
+      "pos": "verb",
       "example": "①In 2019, the United Kingdom recorded the highest online share of retail trade, reaching 19.2 percent.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1770,6 +1990,7 @@
       "id": "2025-06-221",
       "word": "highest",
       "meaning": "높은",
+      "pos": "adj",
       "example": "①In 2019, the United Kingdom recorded the highest online share of retail trade, reaching 19.2 percent.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1778,6 +1999,7 @@
       "id": "2025-06-222",
       "word": "largest",
       "meaning": "큰",
+      "pos": "adj",
       "example": "②The Netherlands showed the largest increase in its online share of retail trade among the countries from 2018 to 2019, with a jump of over 6 percentage points.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1786,6 +2008,7 @@
       "id": "2025-06-223",
       "word": "increase",
       "meaning": "증가시키다, 증가",
+      "pos": "verb",
       "example": "②The Netherlands showed the largest increase in its online share of retail trade among the countries from 2018 to 2019, with a jump of over 6 percentage points.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1794,6 +2017,7 @@
       "id": "2025-06-224",
       "word": "higher",
       "meaning": "높은",
+      "pos": "noun",
       "example": "③In 2018, Germany had a higher online share of retail trade than the Netherlands, whereas, in 2019, Germany fell behind the Netherlands.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1802,6 +2026,7 @@
       "id": "2025-06-225",
       "word": "bear",
       "meaning": "참다, 곰",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -1810,6 +2035,7 @@
       "id": "2025-06-226",
       "word": "childhood",
       "meaning": "어린 시절",
+      "pos": "noun",
       "example": "In his early childhood, he became interested in nature and spent much time in the outdoors.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1818,6 +2044,7 @@
       "id": "2025-06-227",
       "word": "become",
       "meaning": "~이 되다",
+      "pos": "verb",
       "example": "A house mouse can become a mother when she is just five weeks old, has four to ten pups per litter, and can have a new litter every two months over the course of her approximately twelve­month life.",
       "exampleMeaning": "",
       "questionNumber": 30
@@ -1826,6 +2053,7 @@
       "id": "2025-06-228",
       "word": "nature",
       "meaning": "자연, 본성",
+      "pos": "noun",
       "example": "In his early childhood, he became interested in nature and spent much time in the outdoors.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1834,6 +2062,7 @@
       "id": "2025-06-229",
       "word": "partially",
       "meaning": "부분적인",
+      "pos": "adv",
       "example": "At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1842,6 +2071,7 @@
       "id": "2025-06-230",
       "word": "blind",
       "meaning": "눈먼",
+      "pos": "adj",
       "example": "At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1850,6 +2080,7 @@
       "id": "2025-06-231",
       "word": "accident",
       "meaning": "사고",
+      "pos": "noun",
       "example": "At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1858,6 +2089,7 @@
       "id": "2025-06-232",
       "word": "reduce",
       "meaning": "줄이다",
+      "pos": "verb",
       "example": "At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1866,6 +2098,7 @@
       "id": "2025-06-233",
       "word": "lead",
       "meaning": "이끌다, 납",
+      "pos": "verb",
       "example": "And this can be a very costly mistake that may lead to the failure of their new business.",
       "exampleMeaning": "",
       "questionNumber": 30
@@ -1874,6 +2107,7 @@
       "id": "2025-06-234",
       "word": "study",
       "meaning": "공부하다, 연구",
+      "pos": "verb",
       "example": "At age seven, he was partially blinded in a fishing accident; his reduced sight led Wilson to the study of ants.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1882,6 +2116,7 @@
       "id": "2025-06-235",
       "word": "larger",
       "meaning": "큰",
+      "pos": "noun",
       "example": "He could not observe larger animals from a distance.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1890,6 +2125,7 @@
       "id": "2025-06-236",
       "word": "distance",
       "meaning": "거리",
+      "pos": "noun",
       "example": "He could not observe larger animals from a distance.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1898,6 +2134,7 @@
       "id": "2025-06-237",
       "word": "instead",
       "meaning": "대신에",
+      "pos": "adv",
       "example": "Instead, he concentrated on smaller creatures he could study up close.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1906,6 +2143,7 @@
       "id": "2025-06-238",
       "word": "concentrate",
       "meaning": "집중하다",
+      "pos": "verb",
       "example": "Instead, he concentrated on smaller creatures he could study up close.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1914,6 +2152,7 @@
       "id": "2025-06-239",
       "word": "creature",
       "meaning": "생물",
+      "pos": "noun",
       "example": "Instead, he concentrated on smaller creatures he could study up close.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1922,6 +2161,7 @@
       "id": "2025-06-240",
       "word": "evolutionary",
       "meaning": "진화의",
+      "pos": "adj",
       "example": "After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1930,6 +2170,7 @@
       "id": "2025-06-241",
       "word": "biology",
       "meaning": "생물학",
+      "pos": "noun",
       "example": "After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1938,6 +2179,7 @@
       "id": "2025-06-242",
       "word": "university",
       "meaning": "대학교",
+      "pos": "noun",
       "example": "After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1946,6 +2188,7 @@
       "id": "2025-06-243",
       "word": "transfer",
       "meaning": "이전하다",
+      "pos": "verb",
       "example": "After studying evolutionary biology at the University of Alabama, Wilson transferred to Harvard University, where he became a professor in 1956.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1954,6 +2197,7 @@
       "id": "2025-06-244",
       "word": "receive",
       "meaning": "받다",
+      "pos": "verb",
       "example": "He never received a Nobel Prize — the prize didn’t recognize research in the field of evolutionary biology.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1962,6 +2206,7 @@
       "id": "2025-06-245",
       "word": "recognize",
       "meaning": "인식하다",
+      "pos": "verb",
       "example": "He never received a Nobel Prize — the prize didn’t recognize research in the field of evolutionary biology.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1970,6 +2215,7 @@
       "id": "2025-06-246",
       "word": "research",
       "meaning": "연구",
+      "pos": "verb",
       "example": "He never received a Nobel Prize — the prize didn’t recognize research in the field of evolutionary biology.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1978,6 +2224,7 @@
       "id": "2025-06-247",
       "word": "field",
       "meaning": "분야, 들판",
+      "pos": "noun",
       "example": "He never received a Nobel Prize — the prize didn’t recognize research in the field of evolutionary biology.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1986,6 +2233,7 @@
       "id": "2025-06-248",
       "word": "however",
       "meaning": "그러나",
+      "pos": "adv",
       "example": "However, he was awarded the Crafoord Prize in 1990.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1994,6 +2242,7 @@
       "id": "2025-06-249",
       "word": "modern",
       "meaning": "현대의",
+      "pos": "adj",
       "example": "Wilson, known to some as the “modern‐day Darwin”, died at the age of 92 in Massachusetts.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2002,6 +2251,7 @@
       "id": "2025-06-250",
       "word": "pop",
       "meaning": "터지다, 불쑥 나타나다",
+      "pos": "verb",
       "example": "Houseplant Heaven Pop­up Shop Enjoy a special plant shopping experience!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2010,6 +2260,7 @@
       "id": "2025-06-251",
       "word": "enjoy",
       "meaning": "즐기다",
+      "pos": "verb",
       "example": "The park was designed to provide an enjoyable experience for both dogs and owners.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -2018,6 +2269,7 @@
       "id": "2025-06-252",
       "word": "special",
       "meaning": "특별한",
+      "pos": "adj",
       "example": "Houseplant Heaven Pop­up Shop Enjoy a special plant shopping experience!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2026,6 +2278,7 @@
       "id": "2025-06-253",
       "word": "plant",
       "meaning": "심다, 식물",
+      "pos": "verb",
       "example": "Houseplant Heaven Pop­up Shop Enjoy a special plant shopping experience!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2034,6 +2287,7 @@
       "id": "2025-06-254",
       "word": "explore",
       "meaning": "탐험하다",
+      "pos": "verb",
       "example": "Explore beautiful houseplants, and bring some green into your home.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2042,6 +2296,7 @@
       "id": "2025-06-255",
       "word": "bring",
       "meaning": "가져오다",
+      "pos": "verb",
       "example": "Explore beautiful houseplants, and bring some green into your home.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2050,6 +2305,7 @@
       "id": "2025-06-256",
       "word": "detail",
       "meaning": "세부 사항",
+      "pos": "noun",
       "example": "Where: Tasty Cup Cafe Details ∙Indoor plants are available for purchase.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2058,6 +2314,7 @@
       "id": "2025-06-257",
       "word": "purchase",
       "meaning": "구매",
+      "pos": "verb",
       "example": "Where: Tasty Cup Cafe Details ∙Indoor plants are available for purchase.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2066,6 +2323,7 @@
       "id": "2025-06-258",
       "word": "discount",
       "meaning": "할인",
+      "pos": "noun",
       "example": "∙If you buy 2 plants, you will get a 50% discount on coffee.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2074,6 +2332,7 @@
       "id": "2025-06-259",
       "word": "zone",
       "meaning": "구역",
+      "pos": "noun",
       "example": "Activities ∙Take pictures in a photo zone filled with unique plants.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2082,6 +2341,7 @@
       "id": "2025-06-260",
       "word": "unique",
       "meaning": "독특한",
+      "pos": "adj",
       "example": "Activities ∙Take pictures in a photo zone filled with unique plants.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2090,6 +2350,7 @@
       "id": "2025-06-261",
       "word": "decorate",
       "meaning": "장식하다",
+      "pos": "verb",
       "example": "∙Decorate eco‐friendly pots made from recycled glass.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2098,6 +2359,7 @@
       "id": "2025-06-262",
       "word": "recycle",
       "meaning": "재활용하다",
+      "pos": "verb",
       "example": "∙Decorate eco‐friendly pots made from recycled glass.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2106,6 +2368,7 @@
       "id": "2025-06-263",
       "word": "drink",
       "meaning": "마시다",
+      "pos": "verb",
       "example": "※ Outside food and drinks are not allowed.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2114,6 +2377,7 @@
       "id": "2025-06-264",
       "word": "allow",
       "meaning": "허용하다",
+      "pos": "verb",
       "example": "※ Outside food and drinks are not allowed.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2122,6 +2386,7 @@
       "id": "2025-06-265",
       "word": "annual",
       "meaning": "연간의",
+      "pos": "noun",
       "example": "2025 Summer Cartoon Festival It’s the 8th annual Summer Cartoon Festival!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2130,6 +2395,7 @@
       "id": "2025-06-266",
       "word": "draw",
       "meaning": "그리다, 끌다",
+      "pos": "verb",
       "example": "Place: Merryville Park Featured Events ∙Cartoon drawing classes for beginners only ∙Face painting by cartoonists ∙Parade of costumed characters Notes ∙All visitors will receive character stickers.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2138,6 +2404,7 @@
       "id": "2025-06-267",
       "word": "place",
       "meaning": "놓다, 장소",
+      "pos": "verb",
       "example": "Place: Merryville Park Featured Events ∙Cartoon drawing classes for beginners only ∙Face painting by cartoonists ∙Parade of costumed characters Notes ∙All visitors will receive character stickers.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2146,6 +2413,7 @@
       "id": "2025-06-268",
       "word": "feature",
       "meaning": "특징",
+      "pos": "verb",
       "example": "Place: Merryville Park Featured Events ∙Cartoon drawing classes for beginners only ∙Face painting by cartoonists ∙Parade of costumed characters Notes ∙All visitors will receive character stickers.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2154,6 +2422,7 @@
       "id": "2025-06-269",
       "word": "event",
       "meaning": "사건, 행사",
+      "pos": "noun",
       "example": "Place: Merryville Park Featured Events ∙Cartoon drawing classes for beginners only ∙Face painting by cartoonists ∙Parade of costumed characters Notes ∙All visitors will receive character stickers.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2162,6 +2431,7 @@
       "id": "2025-06-270",
       "word": "face",
       "meaning": "직면하다, 얼굴",
+      "pos": "verb",
       "example": "Place: Merryville Park Featured Events ∙Cartoon drawing classes for beginners only ∙Face painting by cartoonists ∙Parade of costumed characters Notes ∙All visitors will receive character stickers.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2170,6 +2440,7 @@
       "id": "2025-06-271",
       "word": "note",
       "meaning": "주목하다, 메모",
+      "pos": "verb",
       "example": "Place: Merryville Park Featured Events ∙Cartoon drawing classes for beginners only ∙Face painting by cartoonists ∙Parade of costumed characters Notes ∙All visitors will receive character stickers.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2178,6 +2449,7 @@
       "id": "2025-06-272",
       "word": "sticker",
       "meaning": "붙이다, 막대기",
+      "pos": "noun",
       "example": "Place: Merryville Park Featured Events ∙Cartoon drawing classes for beginners only ∙Face painting by cartoonists ∙Parade of costumed characters Notes ∙All visitors will receive character stickers.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2186,6 +2458,7 @@
       "id": "2025-06-273",
       "word": "information",
       "meaning": "정보",
+      "pos": "noun",
       "example": "∙For a more detailed timetable and other information, check out www.SummerCartoonFest.com.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2194,6 +2467,7 @@
       "id": "2025-06-274",
       "word": "insight",
       "meaning": "통찰",
+      "pos": "noun",
       "example": "[3점] Studies of experts provide insight into ①what it means to have deep and flexible understanding.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2202,6 +2476,7 @@
       "id": "2025-06-275",
       "word": "mean",
       "meaning": "의미하다, 비열한",
+      "pos": "verb",
       "example": "[3점] Studies of experts provide insight into ①what it means to have deep and flexible understanding.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2210,6 +2485,7 @@
       "id": "2025-06-276",
       "word": "deep",
       "meaning": "깊은",
+      "pos": "adj",
       "example": "[3점] Studies of experts provide insight into ①what it means to have deep and flexible understanding.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2218,6 +2494,7 @@
       "id": "2025-06-277",
       "word": "flexible",
       "meaning": "유연한",
+      "pos": "adj",
       "example": "[3점] Studies of experts provide insight into ①what it means to have deep and flexible understanding.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2226,6 +2503,7 @@
       "id": "2025-06-278",
       "word": "particular",
       "meaning": "특정한",
+      "pos": "adj",
       "example": "Experts in a particular domain are people who have deep, richly interconnected ideas about the world.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2234,6 +2512,7 @@
       "id": "2025-06-279",
       "word": "domain",
       "meaning": "영역",
+      "pos": "noun",
       "example": "Experts in a particular domain are people who have deep, richly interconnected ideas about the world.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2242,6 +2521,7 @@
       "id": "2025-06-280",
       "word": "thinker",
       "meaning": "생각하다",
+      "pos": "noun",
       "example": "They are not just good thinkers or people who are ②exceptionally smart.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2250,6 +2530,7 @@
       "id": "2025-06-281",
       "word": "exceptionally",
       "meaning": "예외적으로",
+      "pos": "adv",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -2258,6 +2539,7 @@
       "id": "2025-06-282",
       "word": "smart",
       "meaning": "똑똑한",
+      "pos": "adj",
       "example": "They are not just good thinkers or people who are ②exceptionally smart.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2266,6 +2548,7 @@
       "id": "2025-06-283",
       "word": "chemistry",
       "meaning": "화학",
+      "pos": "noun",
       "example": "Rather, experts ③having knowledge in a specific domain — such as chess, chemistry, or tennis — and are not generalists.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2274,6 +2557,7 @@
       "id": "2025-06-284",
       "word": "expertise",
       "meaning": "전문 지식",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2282,6 +2566,7 @@
       "id": "2025-06-285",
       "word": "topic",
       "meaning": "주제",
+      "pos": "noun",
       "example": "③To attract a wide audience, stories should focus on topics that interest many people.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2290,6 +2575,7 @@
       "id": "2025-06-286",
       "word": "organize",
       "meaning": "조직하다",
+      "pos": "verb",
       "example": "This kind of deep but organized understanding allows for greater flexibility in learning and ⑤facilitates application across multiple contexts.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2298,6 +2584,7 @@
       "id": "2025-06-287",
       "word": "coherent",
       "meaning": "일관성 있는",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2306,6 +2593,7 @@
       "id": "2025-06-288",
       "word": "framework",
       "meaning": "틀, 체계",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2314,6 +2602,7 @@
       "id": "2025-06-289",
       "word": "relationship",
       "meaning": "관계",
+      "pos": "noun",
       "example": "One of these is the ecological fallacy, where an argument claims that there is a causal relationship between two things merely because they occur ②together.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2322,6 +2611,7 @@
       "id": "2025-06-290",
       "word": "distinguish",
       "meaning": "구별하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2330,6 +2620,7 @@
       "id": "2025-06-291",
       "word": "central",
       "meaning": "중앙의",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2338,6 +2629,7 @@
       "id": "2025-06-292",
       "word": "kind",
       "meaning": "친절한, 종류",
+      "pos": "adj",
       "example": "This kind of deep but organized understanding allows for greater flexibility in learning and ⑤facilitates application across multiple contexts.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2346,6 +2638,7 @@
       "id": "2025-06-293",
       "word": "flexibility",
       "meaning": "유연성",
+      "pos": "noun",
       "example": "This kind of deep but organized understanding allows for greater flexibility in learning and ⑤facilitates application across multiple contexts.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2354,6 +2647,7 @@
       "id": "2025-06-294",
       "word": "learn",
       "meaning": "배우다",
+      "pos": "verb",
       "example": "This kind of deep but organized understanding allows for greater flexibility in learning and ⑤facilitates application across multiple contexts.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2362,6 +2656,7 @@
       "id": "2025-06-295",
       "word": "facilitate",
       "meaning": "촉진하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -2370,6 +2665,7 @@
       "id": "2025-06-296",
       "word": "application",
       "meaning": "지원, 적용",
+      "pos": "noun",
       "example": "This kind of deep but organized understanding allows for greater flexibility in learning and ⑤facilitates application across multiple contexts.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2378,6 +2674,7 @@
       "id": "2025-06-297",
       "word": "multiple",
       "meaning": "다수의",
+      "pos": "noun",
       "example": "This kind of deep but organized understanding allows for greater flexibility in learning and ⑤facilitates application across multiple contexts.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2386,6 +2683,7 @@
       "id": "2025-06-298",
       "word": "context",
       "meaning": "맥락",
+      "pos": "noun",
       "example": "This kind of deep but organized understanding allows for greater flexibility in learning and ⑤facilitates application across multiple contexts.",
       "exampleMeaning": "",
       "questionNumber": 29
@@ -2394,6 +2692,7 @@
       "id": "2025-06-299",
       "word": "natural",
       "meaning": "자연의",
+      "pos": "adj",
       "example": "It is natural for people to observe happenings and then seek explanations for why those happenings occurred.",
       "exampleMeaning": "",
       "questionNumber": 30
@@ -2402,6 +2701,7 @@
       "id": "2025-06-300",
       "word": "happening",
       "meaning": "일어나다",
+      "pos": "adj",
       "example": "It is natural for people to observe happenings and then seek explanations for why those happenings occurred.",
       "exampleMeaning": "",
       "questionNumber": 30

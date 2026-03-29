@@ -10,6 +10,7 @@
       "id": "2025-03-001",
       "word": "thank",
       "meaning": "감사하다",
+      "pos": "verb",
       "example": "Dear Miranda, Thank you for participating in our Crafts Art Fair.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -18,6 +19,7 @@
       "id": "2025-03-002",
       "word": "participate",
       "meaning": "참여하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -26,6 +28,7 @@
       "id": "2025-03-003",
       "word": "craft",
       "meaning": "공예",
+      "pos": "noun",
       "example": "Dear Miranda, Thank you for participating in our Crafts Art Fair.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -34,6 +37,7 @@
       "id": "2025-03-004",
       "word": "fair",
       "meaning": "공정한",
+      "pos": "adj",
       "example": "Dear Miranda, Thank you for participating in our Crafts Art Fair.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -42,6 +46,7 @@
       "id": "2025-03-005",
       "word": "choose",
       "meaning": "선택하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -50,6 +55,7 @@
       "id": "2025-03-006",
       "word": "look",
       "meaning": "보다",
+      "pos": "verb",
       "example": "Since we’ve chosen you as one of the ‘Artists of This Year’, we are looking forward to introducing your unique handmade baskets to our community.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -58,6 +64,7 @@
       "id": "2025-03-007",
       "word": "introduce",
       "meaning": "소개하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -66,6 +73,7 @@
       "id": "2025-03-008",
       "word": "unique",
       "meaning": "독특한",
+      "pos": "adj",
       "example": "Since we’ve chosen you as one of the ‘Artists of This Year’, we are looking forward to introducing your unique handmade baskets to our community.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -74,6 +82,7 @@
       "id": "2025-03-009",
       "word": "community",
       "meaning": "공동체",
+      "pos": "noun",
       "example": "Since we’ve chosen you as one of the ‘Artists of This Year’, we are looking forward to introducing your unique handmade baskets to our community.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -82,6 +91,7 @@
       "id": "2025-03-010",
       "word": "organize",
       "meaning": "조직하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -90,6 +100,7 @@
       "id": "2025-03-011",
       "word": "exhibition",
       "meaning": "전시회",
+      "pos": "noun",
       "example": "As part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -98,6 +109,7 @@
       "id": "2025-03-012",
       "word": "plan",
       "meaning": "계획하다, 계획",
+      "pos": "verb",
       "example": "As part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -106,6 +118,7 @@
       "id": "2025-03-013",
       "word": "inform",
       "meaning": "알리다",
+      "pos": "verb",
       "example": "As part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -114,6 +127,7 @@
       "id": "2025-03-014",
       "word": "exhibit",
       "meaning": "전시하다",
+      "pos": "verb",
       "example": "As part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -122,6 +136,7 @@
       "id": "2025-03-015",
       "word": "assign",
       "meaning": "배정하다",
+      "pos": "verb",
       "example": "As part of organizing the exhibition plan, we are happy to inform you that your artworks will be exhibited at the assigned table, number seven.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -130,6 +145,7 @@
       "id": "2025-03-016",
       "word": "easily",
       "meaning": "쉽게",
+      "pos": "adv",
       "example": "Visitors can easily find your artworks located near the entrance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -138,6 +154,7 @@
       "id": "2025-03-017",
       "word": "find",
       "meaning": "찾다, 발견하다",
+      "pos": "verb",
       "example": "Visitors can easily find your artworks located near the entrance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -146,6 +163,7 @@
       "id": "2025-03-018",
       "word": "locate",
       "meaning": "위치를 찾다",
+      "pos": "verb",
       "example": "Visitors can easily find your artworks located near the entrance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -154,6 +172,7 @@
       "id": "2025-03-019",
       "word": "entrance",
       "meaning": "입구",
+      "pos": "noun",
       "example": "Visitors can easily find your artworks located near the entrance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -162,6 +181,7 @@
       "id": "2025-03-020",
       "word": "special",
       "meaning": "특별한",
+      "pos": "adj",
       "example": "If you have any special requirements or need further assistance, feel free to contact us in advance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -170,6 +190,7 @@
       "id": "2025-03-021",
       "word": "requirement",
       "meaning": "요건",
+      "pos": "noun",
       "example": "If you have any special requirements or need further assistance, feel free to contact us in advance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -178,6 +199,7 @@
       "id": "2025-03-022",
       "word": "need",
       "meaning": "필요하다",
+      "pos": "verb",
       "example": "If you have any special requirements or need further assistance, feel free to contact us in advance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -186,6 +208,7 @@
       "id": "2025-03-023",
       "word": "assistance",
       "meaning": "도움",
+      "pos": "noun",
       "example": "If you have any special requirements or need further assistance, feel free to contact us in advance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -194,6 +217,7 @@
       "id": "2025-03-024",
       "word": "feel",
       "meaning": "느끼다",
+      "pos": "verb",
       "example": "If you have any special requirements or need further assistance, feel free to contact us in advance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -202,6 +226,7 @@
       "id": "2025-03-025",
       "word": "free",
       "meaning": "자유로운, 무료의",
+      "pos": "adj",
       "example": "If you have any special requirements or need further assistance, feel free to contact us in advance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -210,6 +235,7 @@
       "id": "2025-03-026",
       "word": "contact",
       "meaning": "접촉",
+      "pos": "verb",
       "example": "If you have any special requirements or need further assistance, feel free to contact us in advance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -218,6 +244,7 @@
       "id": "2025-03-027",
       "word": "advance",
       "meaning": "발전하다, 전진",
+      "pos": "verb",
       "example": "If you have any special requirements or need further assistance, feel free to contact us in advance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -226,6 +253,7 @@
       "id": "2025-03-028",
       "word": "sincerely",
       "meaning": "진심으로",
+      "pos": "adv",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -234,6 +262,7 @@
       "id": "2025-03-029",
       "word": "thick",
       "meaning": "두꺼운",
+      "pos": "adj",
       "example": "The shed is cold and damp, the air thick with the smell of old wood and earth.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -242,6 +271,7 @@
       "id": "2025-03-030",
       "word": "smell",
       "meaning": "냄새 맡다",
+      "pos": "verb",
       "example": "The shed is cold and damp, the air thick with the smell of old wood and earth.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -250,6 +280,7 @@
       "id": "2025-03-031",
       "word": "move",
       "meaning": "움직이다",
+      "pos": "verb",
       "example": "The shadow moves closer, and my heart is beating fast — until the figure steps into a faint beam of light breaking through a crack in the wall.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -258,6 +289,7 @@
       "id": "2025-03-032",
       "word": "shadow",
       "meaning": "그림자",
+      "pos": "noun",
       "example": "It’s dark, and I can’t make out what’s moving in the shadows.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -266,6 +298,7 @@
       "id": "2025-03-033",
       "word": "ask",
       "meaning": "묻다",
+      "pos": "verb",
       "example": "“Who’s there?” I ask, my voice shaking with fear.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -274,6 +307,7 @@
       "id": "2025-03-034",
       "word": "voice",
       "meaning": "표현하다, 목소리",
+      "pos": "verb",
       "example": "“Who’s there?” I ask, my voice shaking with fear.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -282,6 +316,7 @@
       "id": "2025-03-035",
       "word": "shake",
       "meaning": "흔들다",
+      "pos": "verb",
       "example": "Improving your gestural communication involves more than just knowing when to nod or shake hands.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -290,6 +325,7 @@
       "id": "2025-03-036",
       "word": "fear",
       "meaning": "두려워하다, 두려움",
+      "pos": "verb",
       "example": "“Who’s there?” I ask, my voice shaking with fear.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -298,6 +334,7 @@
       "id": "2025-03-037",
       "word": "closer",
       "meaning": "닫다, 가까운",
+      "pos": "noun",
       "example": "The shadow moves closer, and my heart is beating fast — until the figure steps into a faint beam of light breaking through a crack in the wall.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -306,6 +343,7 @@
       "id": "2025-03-038",
       "word": "beat",
       "meaning": "이기다, 때리다",
+      "pos": "verb",
       "example": "The shadow moves closer, and my heart is beating fast — until the figure steps into a faint beam of light breaking through a crack in the wall.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -314,6 +352,7 @@
       "id": "2025-03-039",
       "word": "figure",
       "meaning": "인물, 수치",
+      "pos": "verb",
       "example": "The shadow moves closer, and my heart is beating fast — until the figure steps into a faint beam of light breaking through a crack in the wall.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -322,6 +361,7 @@
       "id": "2025-03-040",
       "word": "step",
       "meaning": "걸음을 내딛다, 단계",
+      "pos": "verb",
       "example": "The shadow moves closer, and my heart is beating fast — until the figure steps into a faint beam of light breaking through a crack in the wall.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -330,6 +370,7 @@
       "id": "2025-03-041",
       "word": "beam",
       "meaning": "빔, 광선",
+      "pos": "noun",
       "example": "The shadow moves closer, and my heart is beating fast — until the figure steps into a faint beam of light breaking through a crack in the wall.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -338,6 +379,7 @@
       "id": "2025-03-042",
       "word": "light",
       "meaning": "밝히다, 빛, 가벼운",
+      "pos": "verb",
       "example": "The shadow moves closer, and my heart is beating fast — until the figure steps into a faint beam of light breaking through a crack in the wall.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -346,6 +388,7 @@
       "id": "2025-03-043",
       "word": "break",
       "meaning": "깨다, 부수다",
+      "pos": "verb",
       "example": "The shadow moves closer, and my heart is beating fast — until the figure steps into a faint beam of light breaking through a crack in the wall.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -354,6 +397,7 @@
       "id": "2025-03-044",
       "word": "crack",
       "meaning": "금이 가다",
+      "pos": "verb",
       "example": "The shadow moves closer, and my heart is beating fast — until the figure steps into a faint beam of light breaking through a crack in the wall.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -362,6 +406,7 @@
       "id": "2025-03-045",
       "word": "escape",
       "meaning": "탈출",
+      "pos": "verb",
       "example": "A laugh escapes my lips as it stares at me with wide, curious eyes.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -370,6 +415,7 @@
       "id": "2025-03-046",
       "word": "wide",
       "meaning": "넓은",
+      "pos": "adj",
       "example": "A laugh escapes my lips as it stares at me with wide, curious eyes.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -378,6 +424,7 @@
       "id": "2025-03-047",
       "word": "curious",
       "meaning": "호기심 있는",
+      "pos": "adj",
       "example": "A laugh escapes my lips as it stares at me with wide, curious eyes.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -386,6 +433,7 @@
       "id": "2025-03-048",
       "word": "pause",
       "meaning": "멈추다",
+      "pos": "verb",
       "example": "The rabbit pauses for a moment, then hops away, disappearing back into the shadows.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -394,6 +442,7 @@
       "id": "2025-03-049",
       "word": "disappear",
       "meaning": "사라지다",
+      "pos": "verb",
       "example": "The rabbit pauses for a moment, then hops away, disappearing back into the shadows.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -402,6 +451,7 @@
       "id": "2025-03-050",
       "word": "leave",
       "meaning": "떠나다, 남기다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -410,6 +460,7 @@
       "id": "2025-03-051",
       "word": "smile",
       "meaning": "미소 짓다",
+      "pos": "verb",
       "example": "How did you get so rich?” Victor smiled and said, “I owe it all to (b) you.",
       "exampleMeaning": "",
       "questionNumber": 42
@@ -418,6 +469,7 @@
       "id": "2025-03-052",
       "word": "start",
       "meaning": "시작하다",
+      "pos": "verb",
       "example": "I start to feel at ease.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -426,6 +478,7 @@
       "id": "2025-03-053",
       "word": "ease",
       "meaning": "완화하다, 용이함",
+      "pos": "verb",
       "example": "I start to feel at ease.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -434,6 +487,7 @@
       "id": "2025-03-054",
       "word": "hopeful",
       "meaning": "희망하다, 희망",
+      "pos": "adj",
       "example": "* shed: 헛간 ① envious → hopeful ② anxious → angry ③ frightened → relieved ④ curious → regretful ⑤ excited → disappointed 20.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -442,6 +496,7 @@
       "id": "2025-03-055",
       "word": "anxious",
       "meaning": "불안한",
+      "pos": "adj",
       "example": "* shed: 헛간 ① envious → hopeful ② anxious → angry ③ frightened → relieved ④ curious → regretful ⑤ excited → disappointed 20.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -450,6 +505,7 @@
       "id": "2025-03-056",
       "word": "frighten",
       "meaning": "겁먹게 하다",
+      "pos": "verb",
       "example": "* shed: 헛간 ① envious → hopeful ② anxious → angry ③ frightened → relieved ④ curious → regretful ⑤ excited → disappointed 20.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -458,6 +514,7 @@
       "id": "2025-03-057",
       "word": "regretful",
       "meaning": "후회하다",
+      "pos": "adj",
       "example": "* shed: 헛간 ① envious → hopeful ② anxious → angry ③ frightened → relieved ④ curious → regretful ⑤ excited → disappointed 20.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -466,6 +523,7 @@
       "id": "2025-03-058",
       "word": "excite",
       "meaning": "흥분시키다",
+      "pos": "verb",
       "example": "* shed: 헛간 ① envious → hopeful ② anxious → angry ③ frightened → relieved ④ curious → regretful ⑤ excited → disappointed 20.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -474,6 +532,7 @@
       "id": "2025-03-059",
       "word": "disappoint",
       "meaning": "실망시키다",
+      "pos": "verb",
       "example": "* shed: 헛간 ① envious → hopeful ② anxious → angry ③ frightened → relieved ④ curious → regretful ⑤ excited → disappointed 20.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -482,6 +541,7 @@
       "id": "2025-03-060",
       "word": "improve",
       "meaning": "향상시키다",
+      "pos": "verb",
       "example": "This leads to an overall improvement in concentration.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -490,6 +550,7 @@
       "id": "2025-03-061",
       "word": "gestural",
       "meaning": "몸짓",
+      "pos": "adj",
       "example": "Improving your gestural communication involves more than just knowing when to nod or shake hands.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -498,6 +559,7 @@
       "id": "2025-03-062",
       "word": "communication",
       "meaning": "의사소통",
+      "pos": "noun",
       "example": "Improving your gestural communication involves more than just knowing when to nod or shake hands.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -506,6 +568,7 @@
       "id": "2025-03-063",
       "word": "involve",
       "meaning": "관련시키다, 수반하다",
+      "pos": "verb",
       "example": "Improving your gestural communication involves more than just knowing when to nod or shake hands.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -514,6 +577,7 @@
       "id": "2025-03-064",
       "word": "gesture",
       "meaning": "몸짓",
+      "pos": "noun",
       "example": "It’s about using gestures to complement your spoken messages, adding layers of meaning to your words.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -522,6 +586,7 @@
       "id": "2025-03-065",
       "word": "speak",
       "meaning": "말하다",
+      "pos": "verb",
       "example": "You invite openness and collaboration when you speak with your palms facing up.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -530,6 +595,7 @@
       "id": "2025-03-066",
       "word": "message",
       "meaning": "메시지",
+      "pos": "noun",
       "example": "It’s about using gestures to complement your spoken messages, adding layers of meaning to your words.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -538,6 +604,7 @@
       "id": "2025-03-067",
       "word": "add",
       "meaning": "더하다, 추가하다",
+      "pos": "verb",
       "example": "It’s about using gestures to complement your spoken messages, adding layers of meaning to your words.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -546,6 +613,7 @@
       "id": "2025-03-068",
       "word": "layer",
       "meaning": "층",
+      "pos": "noun",
       "example": "It’s about using gestures to complement your spoken messages, adding layers of meaning to your words.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -554,6 +622,7 @@
       "id": "2025-03-069",
       "word": "mean",
       "meaning": "의미하다, 비열한",
+      "pos": "verb",
       "example": "It’s about using gestures to complement your spoken messages, adding layers of meaning to your words.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -562,6 +631,7 @@
       "id": "2025-03-070",
       "word": "open",
       "meaning": "열다",
+      "pos": "verb",
       "example": "Open­handed gestures, for example, can indicate honesty, creating an atmosphere of trust.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -570,6 +640,7 @@
       "id": "2025-03-071",
       "word": "indicate",
       "meaning": "나타내다",
+      "pos": "verb",
       "example": "Open­handed gestures, for example, can indicate honesty, creating an atmosphere of trust.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -578,6 +649,7 @@
       "id": "2025-03-072",
       "word": "create",
       "meaning": "창조하다",
+      "pos": "verb",
       "example": "Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -586,6 +658,7 @@
       "id": "2025-03-073",
       "word": "atmosphere",
       "meaning": "분위기, 대기",
+      "pos": "noun",
       "example": "Open­handed gestures, for example, can indicate honesty, creating an atmosphere of trust.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -594,6 +667,7 @@
       "id": "2025-03-074",
       "word": "trust",
       "meaning": "신뢰",
+      "pos": "verb",
       "example": "Open­handed gestures, for example, can indicate honesty, creating an atmosphere of trust.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -602,6 +676,7 @@
       "id": "2025-03-075",
       "word": "invite",
       "meaning": "초대하다",
+      "pos": "verb",
       "example": "You invite openness and collaboration when you speak with your palms facing up.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -610,6 +685,7 @@
       "id": "2025-03-076",
       "word": "openness",
       "meaning": "열다",
+      "pos": "noun",
       "example": "You invite openness and collaboration when you speak with your palms facing up.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -618,6 +694,7 @@
       "id": "2025-03-077",
       "word": "collaboration",
       "meaning": "협력",
+      "pos": "noun",
       "example": "You invite openness and collaboration when you speak with your palms facing up.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -626,6 +703,7 @@
       "id": "2025-03-078",
       "word": "face",
       "meaning": "직면하다, 얼굴",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -634,6 +712,7 @@
       "id": "2025-03-079",
       "word": "simple",
       "meaning": "간단한",
+      "pos": "adj",
       "example": "This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -642,6 +721,7 @@
       "id": "2025-03-080",
       "word": "powerful",
       "meaning": "강력한",
+      "pos": "adj",
       "example": "This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -650,6 +730,7 @@
       "id": "2025-03-081",
       "word": "comfortable",
       "meaning": "편안한",
+      "pos": "adj",
       "example": "This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -658,6 +739,7 @@
       "id": "2025-03-082",
       "word": "engage",
       "meaning": "참여하다, 몰두시키다",
+      "pos": "verb",
       "example": "This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -666,6 +748,7 @@
       "id": "2025-03-083",
       "word": "conversation",
       "meaning": "대화",
+      "pos": "noun",
       "example": "This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -674,6 +757,7 @@
       "id": "2025-03-084",
       "word": "careful",
       "meaning": "돌보다, 신경 쓰다",
+      "pos": "adj",
       "example": "But be careful of the trap of over­gesturing.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -682,6 +766,7 @@
       "id": "2025-03-085",
       "word": "trap",
       "meaning": "가두다, 함정",
+      "pos": "verb",
       "example": "But be careful of the trap of over­gesturing.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -690,6 +775,7 @@
       "id": "2025-03-086",
       "word": "movement",
       "meaning": "움직임, 운동",
+      "pos": "noun",
       "example": "Too many hand movements can distract from your message, drawing attention away from your words.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -698,6 +784,7 @@
       "id": "2025-03-087",
       "word": "draw",
       "meaning": "그리다, 끌다",
+      "pos": "verb",
       "example": "Too many hand movements can distract from your message, drawing attention away from your words.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -706,6 +793,7 @@
       "id": "2025-03-088",
       "word": "attention",
       "meaning": "주의, 관심",
+      "pos": "noun",
       "example": "Too many hand movements can distract from your message, drawing attention away from your words.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -714,6 +802,7 @@
       "id": "2025-03-089",
       "word": "imagine",
       "meaning": "상상하다",
+      "pos": "verb",
       "example": "Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -722,6 +811,7 @@
       "id": "2025-03-090",
       "word": "speaker",
       "meaning": "말하다",
+      "pos": "noun",
       "example": "Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -730,6 +820,7 @@
       "id": "2025-03-091",
       "word": "quickly",
       "meaning": "빠르게",
+      "pos": "adv",
       "example": "Imagine a speaker whose hands move quickly like birds, their message lost in the chaos of their gestures.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -738,6 +829,7 @@
       "id": "2025-03-092",
       "word": "lose",
       "meaning": "잃다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -746,6 +838,7 @@
       "id": "2025-03-093",
       "word": "balance",
       "meaning": "균형",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -754,6 +847,7 @@
       "id": "2025-03-094",
       "word": "key",
       "meaning": "핵심적인",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -762,6 +856,7 @@
       "id": "2025-03-095",
       "word": "highlight",
       "meaning": "하이라이트",
+      "pos": "verb",
       "example": "Your gestures should highlight your words, not overshadow them.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -770,6 +865,7 @@
       "id": "2025-03-096",
       "word": "overshadow",
       "meaning": "가리다",
+      "pos": "verb",
       "example": "Your gestures should highlight your words, not overshadow them.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -778,6 +874,7 @@
       "id": "2025-03-097",
       "word": "slope",
       "meaning": "경사",
+      "pos": "noun",
       "example": "The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -786,6 +883,7 @@
       "id": "2025-03-098",
       "word": "assume",
       "meaning": "가정하다",
+      "pos": "verb",
       "example": "Let’s assume that at least some animals are capable of thinking despite lacking a language.",
       "exampleMeaning": "",
       "questionNumber": 35
@@ -794,6 +892,7 @@
       "id": "2025-03-099",
       "word": "gene",
       "meaning": "유전자",
+      "pos": "noun",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -802,6 +901,7 @@
       "id": "2025-03-100",
       "word": "edit",
       "meaning": "편집하다",
+      "pos": "verb",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -810,6 +910,7 @@
       "id": "2025-03-101",
       "word": "human",
       "meaning": "인간의",
+      "pos": "adj",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -818,6 +919,7 @@
       "id": "2025-03-102",
       "word": "prove",
       "meaning": "증명하다",
+      "pos": "verb",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -826,6 +928,7 @@
       "id": "2025-03-103",
       "word": "safe",
       "meaning": "안전한",
+      "pos": "adj",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -834,6 +937,7 @@
       "id": "2025-03-104",
       "word": "effective",
       "meaning": "효과적인",
+      "pos": "adj",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -842,6 +946,7 @@
       "id": "2025-03-105",
       "word": "logical",
       "meaning": "논리적인",
+      "pos": "adj",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -850,6 +955,7 @@
       "id": "2025-03-106",
       "word": "preferable",
       "meaning": "선호하다",
+      "pos": "adj",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -858,6 +964,7 @@
       "id": "2025-03-107",
       "word": "correct",
       "meaning": "올바른",
+      "pos": "verb",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -866,6 +973,7 @@
       "id": "2025-03-108",
       "word": "disease",
       "meaning": "질병",
+      "pos": "noun",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -874,6 +982,7 @@
       "id": "2025-03-109",
       "word": "cause",
       "meaning": "야기하다, 원인",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -882,6 +991,7 @@
       "id": "2025-03-110",
       "word": "possible",
       "meaning": "가능한",
+      "pos": "adj",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -890,6 +1000,7 @@
       "id": "2025-03-111",
       "word": "stage",
       "meaning": "무대, 단계",
+      "pos": "noun",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -898,6 +1009,7 @@
       "id": "2025-03-112",
       "word": "harmful",
       "meaning": "해로운",
+      "pos": "adj",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -906,6 +1018,7 @@
       "id": "2025-03-113",
       "word": "begin",
       "meaning": "시작하다",
+      "pos": "verb",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -914,6 +1027,7 @@
       "id": "2025-03-114",
       "word": "serious",
       "meaning": "심각한",
+      "pos": "adj",
       "example": "[3점] Assuming gene editing in humans proves to be safe and effective, it might seem logical, even preferable, to correct disease­causing mutations at the earliest possible stage of life, before harmful genes begin causing serious problems.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -922,6 +1036,7 @@
       "id": "2025-03-115",
       "word": "become",
       "meaning": "~이 되다",
+      "pos": "verb",
       "example": "Yet once it becomes possible to transform an embryo’s mutated genes into “normal” ones, there will certainly be temptations to upgrade normal genes to superior versions.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -930,6 +1045,7 @@
       "id": "2025-03-116",
       "word": "transform",
       "meaning": "변형시키다",
+      "pos": "verb",
       "example": "Yet once it becomes possible to transform an embryo’s mutated genes into “normal” ones, there will certainly be temptations to upgrade normal genes to superior versions.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -938,6 +1054,7 @@
       "id": "2025-03-117",
       "word": "normal",
       "meaning": "정상적인",
+      "pos": "adj",
       "example": "Yet once it becomes possible to transform an embryo’s mutated genes into “normal” ones, there will certainly be temptations to upgrade normal genes to superior versions.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -946,6 +1063,7 @@
       "id": "2025-03-118",
       "word": "certainly",
       "meaning": "확실히",
+      "pos": "adv",
       "example": "Yet once it becomes possible to transform an embryo’s mutated genes into “normal” ones, there will certainly be temptations to upgrade normal genes to superior versions.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -954,6 +1072,7 @@
       "id": "2025-03-119",
       "word": "upgrade",
       "meaning": "업그레이드",
+      "pos": "verb",
       "example": "Yet once it becomes possible to transform an embryo’s mutated genes into “normal” ones, there will certainly be temptations to upgrade normal genes to superior versions.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -962,6 +1081,7 @@
       "id": "2025-03-120",
       "word": "superior",
       "meaning": "우월한",
+      "pos": "adj",
       "example": "Yet once it becomes possible to transform an embryo’s mutated genes into “normal” ones, there will certainly be temptations to upgrade normal genes to superior versions.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -970,6 +1090,7 @@
       "id": "2025-03-121",
       "word": "version",
       "meaning": "버전",
+      "pos": "noun",
       "example": "Yet once it becomes possible to transform an embryo’s mutated genes into “normal” ones, there will certainly be temptations to upgrade normal genes to superior versions.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -978,6 +1099,7 @@
       "id": "2025-03-122",
       "word": "lower",
       "meaning": "낮추다",
+      "pos": "verb",
       "example": "Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -986,6 +1108,7 @@
       "id": "2025-03-123",
       "word": "risk",
       "meaning": "위험",
+      "pos": "verb",
       "example": "Should we begin editing genes in unborn children to lower their lifetime risk of heart disease or cancer?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -994,6 +1117,7 @@
       "id": "2025-03-124",
       "word": "beneficial",
       "meaning": "유익한",
+      "pos": "adj",
       "example": "What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1002,6 +1126,7 @@
       "id": "2025-03-125",
       "word": "feature",
       "meaning": "특징",
+      "pos": "verb",
       "example": "What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1010,6 +1135,7 @@
       "id": "2025-03-126",
       "word": "strength",
       "meaning": "힘, 강점",
+      "pos": "noun",
       "example": "What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1018,6 +1144,7 @@
       "id": "2025-03-127",
       "word": "increase",
       "meaning": "증가시키다, 증가",
+      "pos": "verb",
       "example": "What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1026,6 +1153,7 @@
       "id": "2025-03-128",
       "word": "mental",
       "meaning": "정신적인",
+      "pos": "noun",
       "example": "What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1034,6 +1162,7 @@
       "id": "2025-03-129",
       "word": "ability",
       "meaning": "능력",
+      "pos": "noun",
       "example": "It might be enough for her to have, for example, the ability to think in images; to make a mental map of the tree where she can imagine and try out different routes.",
       "exampleMeaning": "",
       "questionNumber": 35
@@ -1042,6 +1171,7 @@
       "id": "2025-03-130",
       "word": "change",
       "meaning": "바꾸다, 변화",
+      "pos": "verb",
       "example": "① abstract ② practical ③ imperfect ④ visualized ⑤ changeable 32.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1050,6 +1180,7 @@
       "id": "2025-03-131",
       "word": "physical",
       "meaning": "신체의, 물리적인",
+      "pos": "adj",
       "example": "What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1058,6 +1189,7 @@
       "id": "2025-03-132",
       "word": "characteristic",
       "meaning": "특성",
+      "pos": "noun",
       "example": "What about giving unborn children beneficial features, like greater strength and increased mental abilities, or changing physical characteristics, like eye and hair color?",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1066,6 +1198,7 @@
       "id": "2025-03-133",
       "word": "pursuit",
       "meaning": "추구",
+      "pos": "noun",
       "example": "The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1074,6 +1207,7 @@
       "id": "2025-03-134",
       "word": "natural",
       "meaning": "자연의",
+      "pos": "adj",
       "example": "The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1082,6 +1216,7 @@
       "id": "2025-03-135",
       "word": "nature",
       "meaning": "자연, 본성",
+      "pos": "noun",
       "example": "The pursuit for perfection seems almost natural to human nature, but if we start down this slippery slope, we may not like where we end up.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1090,6 +1225,7 @@
       "id": "2025-03-136",
       "word": "allow",
       "meaning": "허용하다",
+      "pos": "verb",
       "example": "This is particularly useful from a scientific viewpoint, because it allows us to put an objective value on a subjective state of mind.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1098,6 +1234,7 @@
       "id": "2025-03-137",
       "word": "genetic",
       "meaning": "유전적인",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1106,6 +1243,7 @@
       "id": "2025-03-138",
       "word": "stick",
       "meaning": "붙이다, 막대기",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1114,6 +1252,7 @@
       "id": "2025-03-139",
       "word": "traditional",
       "meaning": "전통적인",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1122,6 +1261,7 @@
       "id": "2025-03-140",
       "word": "belief",
       "meaning": "믿음",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1130,6 +1270,7 @@
       "id": "2025-03-141",
       "word": "resist",
       "meaning": "저항하다",
+      "pos": "verb",
       "example": "In the course of trying to solve a problem with an invention, you may encounter a brick wall of resistance when you try to think your way logically through the problem.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1138,6 +1279,7 @@
       "id": "2025-03-142",
       "word": "fail",
       "meaning": "실패하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1146,6 +1288,7 @@
       "id": "2025-03-143",
       "word": "reduce",
       "meaning": "줄이다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1154,6 +1297,7 @@
       "id": "2025-03-144",
       "word": "suffer",
       "meaning": "고통받다",
+      "pos": "verb",
       "example": "Statistics on crime, homelessness, or the spread of a disease say nothing of people’s suffering.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1162,6 +1306,7 @@
       "id": "2025-03-145",
       "word": "consider",
       "meaning": "고려하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1170,6 +1315,7 @@
       "id": "2025-03-146",
       "word": "moral",
       "meaning": "도덕적인",
+      "pos": "noun",
       "example": "Piaget argued that children’s understanding of morality is like their understanding of those water glasses: we can’t say that it is innate or kids learn it directly from adults.",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1178,6 +1324,7 @@
       "id": "2025-03-147",
       "word": "issue",
       "meaning": "문제, 쟁점",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 21
@@ -1186,6 +1333,7 @@
       "id": "2025-03-148",
       "word": "learn",
       "meaning": "배우다",
+      "pos": "verb",
       "example": "The science we learn in grade school is a collection of certainties about the natural world — the earth goes around the sun, DNA carries the information of an organism, and so on.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1194,6 +1342,7 @@
       "id": "2025-03-149",
       "word": "grade",
       "meaning": "등급",
+      "pos": "noun",
       "example": "The science we learn in grade school is a collection of certainties about the natural world — the earth goes around the sun, DNA carries the information of an organism, and so on.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1202,6 +1351,7 @@
       "id": "2025-03-150",
       "word": "collection",
       "meaning": "수집",
+      "pos": "noun",
       "example": "The science we learn in grade school is a collection of certainties about the natural world — the earth goes around the sun, DNA carries the information of an organism, and so on.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1210,6 +1360,7 @@
       "id": "2025-03-151",
       "word": "carry",
       "meaning": "나르다, 운반하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -1218,6 +1369,7 @@
       "id": "2025-03-152",
       "word": "information",
       "meaning": "정보",
+      "pos": "noun",
       "example": "The science we learn in grade school is a collection of certainties about the natural world — the earth goes around the sun, DNA carries the information of an organism, and so on.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1226,6 +1378,7 @@
       "id": "2025-03-153",
       "word": "organism",
       "meaning": "유기체",
+      "pos": "noun",
       "example": "The science we learn in grade school is a collection of certainties about the natural world — the earth goes around the sun, DNA carries the information of an organism, and so on.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1234,6 +1387,7 @@
       "id": "2025-03-154",
       "word": "practice",
       "meaning": "연습, 실행",
+      "pos": "verb",
       "example": "Only when you start to learn the practice of science do you realize that each of these “facts” was hard won through a succession of logical inferences based upon many observations or experiments.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1242,6 +1396,7 @@
       "id": "2025-03-155",
       "word": "realize",
       "meaning": "깨닫다",
+      "pos": "verb",
       "example": "Only when you start to learn the practice of science do you realize that each of these “facts” was hard won through a succession of logical inferences based upon many observations or experiments.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1250,6 +1405,7 @@
       "id": "2025-03-156",
       "word": "win",
       "meaning": "이기다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -1258,6 +1414,7 @@
       "id": "2025-03-157",
       "word": "base",
       "meaning": "기반을 두다, 기초",
+      "pos": "verb",
       "example": "Only when you start to learn the practice of science do you realize that each of these “facts” was hard won through a succession of logical inferences based upon many observations or experiments.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1266,6 +1423,7 @@
       "id": "2025-03-158",
       "word": "observation",
       "meaning": "관찰",
+      "pos": "noun",
       "example": "Only when you start to learn the practice of science do you realize that each of these “facts” was hard won through a succession of logical inferences based upon many observations or experiments.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1274,6 +1432,7 @@
       "id": "2025-03-159",
       "word": "experiment",
       "meaning": "실험",
+      "pos": "verb",
       "example": "Only when you start to learn the practice of science do you realize that each of these “facts” was hard won through a succession of logical inferences based upon many observations or experiments.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1282,6 +1441,7 @@
       "id": "2025-03-160",
       "word": "process",
       "meaning": "과정",
+      "pos": "verb",
       "example": "The process of science is less about collecting pieces of knowledge than it is about reducing the uncertainties in what we know.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1290,6 +1450,7 @@
       "id": "2025-03-161",
       "word": "collect",
       "meaning": "수집하다",
+      "pos": "verb",
       "example": "The science we learn in grade school is a collection of certainties about the natural world — the earth goes around the sun, DNA carries the information of an organism, and so on.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1298,6 +1459,7 @@
       "id": "2025-03-162",
       "word": "knowledge",
       "meaning": "지식",
+      "pos": "noun",
       "example": "The process of science is less about collecting pieces of knowledge than it is about reducing the uncertainties in what we know.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1306,6 +1468,7 @@
       "id": "2025-03-163",
       "word": "uncertainty",
       "meaning": "불확실성",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -1314,6 +1477,7 @@
       "id": "2025-03-164",
       "word": "depend",
       "meaning": "의존하다",
+      "pos": "verb",
       "example": "Our skin conducts electricity more or less efficiently, depending on our emotions.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1322,6 +1486,7 @@
       "id": "2025-03-165",
       "word": "fall",
       "meaning": "떨어지다",
+      "pos": "verb",
       "example": "* linear: 선형의 ** conservative: 보수적인  (A) thinking works well with familiar problems but falls short in dealing with new ideas, for which creative thinking is needed to come up with (B) solutions.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1330,6 +1495,7 @@
       "id": "2025-03-166",
       "word": "understand",
       "meaning": "이해하다",
+      "pos": "verb",
       "example": "Piaget argued that children’s understanding of morality is like their understanding of those water glasses: we can’t say that it is innate or kids learn it directly from adults.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1338,6 +1504,7 @@
       "id": "2025-03-167",
       "word": "fluid",
       "meaning": "유체, 유동적인",
+      "pos": "noun",
       "example": "(A) This squeezing of joint fluid into and out of the cartilage helps it respond to the off­and­on pressure of walking without breaking under the pressure.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1346,6 +1513,7 @@
       "id": "2025-03-168",
       "word": "flow",
       "meaning": "흐름",
+      "pos": "verb",
       "example": "Flowerpot Covers Transform socks into decorative covers for small flowerpots ① 4월 19일 토요일 오후 1시부터 4시까지 열린다.",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1354,6 +1522,7 @@
       "id": "2025-03-169",
       "word": "remain",
       "meaning": "남다, 유지되다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1362,6 +1531,7 @@
       "id": "2025-03-170",
       "word": "work",
       "meaning": "일하다, 작동하다",
+      "pos": "verb",
       "example": "Sock DIY Workshop Join us for a fun and creative Sock DIY (Do It Yourself) Workshop for all ages!",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1370,6 +1540,7 @@
       "id": "2025-03-171",
       "word": "progress",
       "meaning": "진행되다, 진보",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1378,6 +1549,7 @@
       "id": "2025-03-172",
       "word": "effort",
       "meaning": "노력",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 22
@@ -1386,6 +1558,7 @@
       "id": "2025-03-173",
       "word": "wealth",
       "meaning": "부",
+      "pos": "noun",
       "example": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1394,6 +1567,7 @@
       "id": "2025-03-174",
       "word": "evidence",
       "meaning": "증거",
+      "pos": "noun",
       "example": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1402,6 +1576,7 @@
       "id": "2025-03-175",
       "word": "teacher",
       "meaning": "가르치다",
+      "pos": "noun",
       "example": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1410,6 +1585,7 @@
       "id": "2025-03-176",
       "word": "coach",
       "meaning": "코치하다, 코치",
+      "pos": "verb",
       "example": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1418,6 +1594,7 @@
       "id": "2025-03-177",
       "word": "perceive",
       "meaning": "인식하다",
+      "pos": "verb",
       "example": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1426,6 +1603,7 @@
       "id": "2025-03-178",
       "word": "care",
       "meaning": "돌보다, 신경 쓰다",
+      "pos": "verb",
       "example": "But be careful of the trap of over­gesturing.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -1434,6 +1612,7 @@
       "id": "2025-03-179",
       "word": "motivate",
       "meaning": "동기를 부여하다",
+      "pos": "verb",
       "example": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1442,6 +1621,7 @@
       "id": "2025-03-180",
       "word": "power",
       "meaning": "힘, 권력",
+      "pos": "noun",
       "example": "This simple yet powerful gesture can make others feel more comfortable and willing to engage in conversation.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -1450,6 +1630,7 @@
       "id": "2025-03-181",
       "word": "value",
       "meaning": "가치",
+      "pos": "verb",
       "example": "And it is not just those people with power — we need to feel valued and respected by peers and coworkers.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1458,6 +1639,7 @@
       "id": "2025-03-182",
       "word": "meet",
       "meaning": "만나다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -1466,6 +1648,7 @@
       "id": "2025-03-183",
       "word": "motivation",
       "meaning": "동기",
+      "pos": "noun",
       "example": "Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1474,6 +1657,7 @@
       "id": "2025-03-184",
       "word": "fuel",
       "meaning": "연료",
+      "pos": "verb",
       "example": "Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1482,6 +1666,7 @@
       "id": "2025-03-185",
       "word": "provide",
       "meaning": "제공하다",
+      "pos": "verb",
       "example": "Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1490,6 +1675,7 @@
       "id": "2025-03-186",
       "word": "support",
       "meaning": "지원",
+      "pos": "verb",
       "example": "Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1498,6 +1684,7 @@
       "id": "2025-03-187",
       "word": "autonomy",
       "meaning": "자율성",
+      "pos": "noun",
       "example": "Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1506,6 +1693,7 @@
       "id": "2025-03-188",
       "word": "competence",
       "meaning": "경쟁하다",
+      "pos": "noun",
       "example": "Thus, when the need for relatedness is met, motivation and internalization are fueled, provided that support for autonomy and competence are also there.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1514,6 +1702,7 @@
       "id": "2025-03-189",
       "word": "try",
       "meaning": "시도하다",
+      "pos": "verb",
       "example": "If we are trying to motivate others, a caring relationship is a crucial basis from which to begin.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1522,6 +1711,7 @@
       "id": "2025-03-190",
       "word": "relationship",
       "meaning": "관계",
+      "pos": "noun",
       "example": "If we are trying to motivate others, a caring relationship is a crucial basis from which to begin.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1530,6 +1720,7 @@
       "id": "2025-03-191",
       "word": "crucial",
       "meaning": "결정적인",
+      "pos": "adj",
       "example": "If we are trying to motivate others, a caring relationship is a crucial basis from which to begin.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1538,6 +1729,7 @@
       "id": "2025-03-192",
       "word": "basis",
       "meaning": "기초",
+      "pos": "noun",
       "example": "If we are trying to motivate others, a caring relationship is a crucial basis from which to begin.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1546,6 +1738,7 @@
       "id": "2025-03-193",
       "word": "enhance",
       "meaning": "향상시키다",
+      "pos": "verb",
       "example": "And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long­term persistence.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1554,6 +1747,7 @@
       "id": "2025-03-194",
       "word": "sense",
       "meaning": "감지하다, 감각",
+      "pos": "verb",
       "example": "And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long­term persistence.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1562,6 +1756,7 @@
       "id": "2025-03-195",
       "word": "term",
       "meaning": "용어, 기간",
+      "pos": "verb",
       "example": "And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long­term persistence.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1570,6 +1765,7 @@
       "id": "2025-03-196",
       "word": "persistence",
       "meaning": "끈기",
+      "pos": "noun",
       "example": "And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long­term persistence.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1578,6 +1774,7 @@
       "id": "2025-03-197",
       "word": "exercise",
       "meaning": "운동하다, 운동",
+      "pos": "verb",
       "example": "So exercise with a friend, call someone when you have a difficult decision to make, and be there as a support for others as they take on challenges.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1586,6 +1783,7 @@
       "id": "2025-03-198",
       "word": "decision",
       "meaning": "결정",
+      "pos": "noun",
       "example": "So exercise with a friend, call someone when you have a difficult decision to make, and be there as a support for others as they take on challenges.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1594,6 +1792,7 @@
       "id": "2025-03-199",
       "word": "challenge",
       "meaning": "도전",
+      "pos": "verb",
       "example": "So exercise with a friend, call someone when you have a difficult decision to make, and be there as a support for others as they take on challenges.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1602,6 +1801,7 @@
       "id": "2025-03-200",
       "word": "dependent",
       "meaning": "의존적인",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1610,6 +1810,7 @@
       "id": "2025-03-201",
       "word": "necessity",
       "meaning": "필요성",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -1618,6 +1819,7 @@
       "id": "2025-03-202",
       "word": "independent",
       "meaning": "독립적인",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1626,6 +1828,7 @@
       "id": "2025-03-203",
       "word": "factor",
       "meaning": "요인",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1634,6 +1837,7 @@
       "id": "2025-03-204",
       "word": "require",
       "meaning": "필요로 하다",
+      "pos": "verb",
       "example": "If you have any special requirements or need further assistance, feel free to contact us in advance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -1642,6 +1846,7 @@
       "id": "2025-03-205",
       "word": "boost",
       "meaning": "높이다, 증가",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1650,6 +1855,7 @@
       "id": "2025-03-206",
       "word": "competitive",
       "meaning": "경쟁적인",
+      "pos": "adj",
       "example": "Routines also enable athletes to adjust and fine­tune their preparations ③based on those evaluations or in pursuit of a particular competitive goal.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1658,6 +1864,7 @@
       "id": "2025-03-207",
       "word": "maintain",
       "meaning": "유지하다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1666,6 +1873,7 @@
       "id": "2025-03-208",
       "word": "last",
       "meaning": "지속하다, 마지막의",
+      "pos": "verb",
       "example": "(Last admission at 3:30 p.m.) Ticket Prices • Age 13 - 64: $30 • Age 3 - 12: $20 • Others: Free Seasonal Note Since the weather is still cold, some animals like snakes and turtles will stay only indoors.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1674,6 +1882,7 @@
       "id": "2025-03-209",
       "word": "bond",
       "meaning": "유대, 채권",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1682,6 +1891,7 @@
       "id": "2025-03-210",
       "word": "importance",
       "meaning": "중요성",
+      "pos": "noun",
       "example": "( ①) Architects understood the importance of shade, airflow, light colors.",
       "exampleMeaning": "",
       "questionNumber": 35
@@ -1690,6 +1900,7 @@
       "id": "2025-03-211",
       "word": "build",
       "meaning": "짓다, 세우다",
+      "pos": "verb",
       "example": "The rise of air­conditioning accelerated the construction of sealed boxes, where the building’s only airflow is through the filtered ducts of the air­conditioning unit.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1698,6 +1909,7 @@
       "id": "2025-03-212",
       "word": "connect",
       "meaning": "연결하다",
+      "pos": "verb",
       "example": "And when we are trying to motivate ourselves, doing things to enhance a sense of connectedness to others can be crucial to long­term persistence.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -1706,6 +1918,7 @@
       "id": "2025-03-213",
       "word": "modern",
       "meaning": "현대의",
+      "pos": "adj",
       "example": "Modern brain­scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1714,6 +1927,7 @@
       "id": "2025-03-214",
       "word": "brain",
       "meaning": "뇌",
+      "pos": "noun",
       "example": "Modern brain­scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1722,6 +1936,7 @@
       "id": "2025-03-215",
       "word": "scan",
       "meaning": "훑어보다",
+      "pos": "verb",
       "example": "Modern brain­scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1730,6 +1945,7 @@
       "id": "2025-03-216",
       "word": "technique",
       "meaning": "기술",
+      "pos": "noun",
       "example": "Modern brain­scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1738,6 +1954,7 @@
       "id": "2025-03-217",
       "word": "functional",
       "meaning": "기능적인",
+      "pos": "adj",
       "example": "Modern brain­scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1746,6 +1963,7 @@
       "id": "2025-03-218",
       "word": "image",
       "meaning": "이미지",
+      "pos": "noun",
       "example": "It might be enough for her to have, for example, the ability to think in images; to make a mental map of the tree where she can imagine and try out different routes.",
       "exampleMeaning": "",
       "questionNumber": 35
@@ -1754,6 +1972,7 @@
       "id": "2025-03-219",
       "word": "reveal",
       "meaning": "드러내다",
+      "pos": "verb",
       "example": "Modern brain­scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1762,6 +1981,7 @@
       "id": "2025-03-220",
       "word": "read",
       "meaning": "읽다",
+      "pos": "verb",
       "example": "Modern brain­scanning techniques such as fMRI (functional Magnetic Resonance Imaging) have revealed that reading aloud lights up many areas of the brain.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1770,6 +1990,7 @@
       "id": "2025-03-221",
       "word": "intense",
       "meaning": "강렬한",
+      "pos": "adj",
       "example": "There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1778,6 +1999,7 @@
       "id": "2025-03-222",
       "word": "activity",
       "meaning": "활동",
+      "pos": "noun",
       "example": "There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1786,6 +2008,7 @@
       "id": "2025-03-223",
       "word": "associate",
       "meaning": "연관시키다",
+      "pos": "verb",
       "example": "There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1794,6 +2017,7 @@
       "id": "2025-03-224",
       "word": "hear",
       "meaning": "듣다",
+      "pos": "verb",
       "example": "The shadow moves closer, and my heart is beating fast — until the figure steps into a faint beam of light breaking through a crack in the wall.",
       "exampleMeaning": "",
       "questionNumber": 19
@@ -1802,6 +2026,7 @@
       "id": "2025-03-225",
       "word": "sound",
       "meaning": "건전한",
+      "pos": "verb",
       "example": "There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1810,6 +2035,7 @@
       "id": "2025-03-226",
       "word": "response",
       "meaning": "응답",
+      "pos": "noun",
       "example": "There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1818,6 +2044,7 @@
       "id": "2025-03-227",
       "word": "strengthen",
       "meaning": "강화하다",
+      "pos": "verb",
       "example": "There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1826,6 +2053,7 @@
       "id": "2025-03-228",
       "word": "connective",
       "meaning": "연결하다",
+      "pos": "adj",
       "example": "There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1834,6 +2062,7 @@
       "id": "2025-03-229",
       "word": "structure",
       "meaning": "구조",
+      "pos": "verb",
       "example": "There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1842,6 +2071,7 @@
       "id": "2025-03-230",
       "word": "cell",
       "meaning": "세포",
+      "pos": "noun",
       "example": "There is intense activity in areas associated with pronunciation and hearing the sound of the spoken response, which strengthens the connective structures of your brain cells for more brainpower.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1850,6 +2080,7 @@
       "id": "2025-03-231",
       "word": "lead",
       "meaning": "이끌다, 납",
+      "pos": "verb",
       "example": "This leads to an overall improvement in concentration.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1858,6 +2089,7 @@
       "id": "2025-03-232",
       "word": "overall",
       "meaning": "전반적으로",
+      "pos": "noun",
       "example": "This leads to an overall improvement in concentration.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1866,6 +2098,7 @@
       "id": "2025-03-233",
       "word": "improvement",
       "meaning": "개선",
+      "pos": "noun",
       "example": "This leads to an overall improvement in concentration.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1874,6 +2107,7 @@
       "id": "2025-03-234",
       "word": "concentration",
       "meaning": "집중",
+      "pos": "noun",
       "example": "This leads to an overall improvement in concentration.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1882,6 +2116,7 @@
       "id": "2025-03-235",
       "word": "develop",
       "meaning": "발전시키다, 개발하다",
+      "pos": "verb",
       "example": "Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word — something people don’t often do when reading quickly, or reading in silence.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1890,6 +2125,7 @@
       "id": "2025-03-236",
       "word": "public",
       "meaning": "공공의",
+      "pos": "adj",
       "example": "Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word — something people don’t often do when reading quickly, or reading in silence.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1898,6 +2134,7 @@
       "id": "2025-03-237",
       "word": "skill",
       "meaning": "기술",
+      "pos": "noun",
       "example": "Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word — something people don’t often do when reading quickly, or reading in silence.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1906,6 +2143,7 @@
       "id": "2025-03-238",
       "word": "force",
       "meaning": "강요하다, 힘",
+      "pos": "verb",
       "example": "Reading aloud is also a good way to develop your public speaking skills because it forces you to read each and every word — something people don’t often do when reading quickly, or reading in silence.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1914,6 +2152,7 @@
       "id": "2025-03-239",
       "word": "particular",
       "meaning": "특정한",
+      "pos": "adj",
       "example": "Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1922,6 +2161,7 @@
       "id": "2025-03-240",
       "word": "encourage",
       "meaning": "격려하다",
+      "pos": "verb",
       "example": "Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1930,6 +2170,7 @@
       "id": "2025-03-241",
       "word": "connection",
       "meaning": "연결",
+      "pos": "noun",
       "example": "Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1938,6 +2179,7 @@
       "id": "2025-03-242",
       "word": "positive",
       "meaning": "긍정적인",
+      "pos": "adj",
       "example": "Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1946,6 +2188,7 @@
       "id": "2025-03-243",
       "word": "sing",
       "meaning": "노래하다",
+      "pos": "verb",
       "example": "Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1954,6 +2197,7 @@
       "id": "2025-03-244",
       "word": "touch",
       "meaning": "만지다",
+      "pos": "verb",
       "example": "Children, in particular, should be encouraged to read aloud because the brain is wired for learning through connections that are created by positive stimulation, such as singing, touching, and reading aloud.",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1962,6 +2206,7 @@
       "id": "2025-03-245",
       "word": "academic",
       "meaning": "학문적인",
+      "pos": "adj",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1970,6 +2215,7 @@
       "id": "2025-03-246",
       "word": "achievement",
       "meaning": "성취",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 24
@@ -1978,6 +2224,7 @@
       "id": "2025-03-247",
       "word": "write",
       "meaning": "쓰다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -1986,6 +2233,7 @@
       "id": "2025-03-248",
       "word": "graph",
       "meaning": "그래프",
+      "pos": "noun",
       "example": "The above graph shows how often people in America consumed fast food in 2023, sorted according to frequency of consumption.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -1994,6 +2242,7 @@
       "id": "2025-03-249",
       "word": "show",
       "meaning": "보여주다",
+      "pos": "verb",
       "example": "The above graph shows how often people in America consumed fast food in 2023, sorted according to frequency of consumption.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2002,6 +2251,7 @@
       "id": "2025-03-250",
       "word": "consume",
       "meaning": "소비하다",
+      "pos": "verb",
       "example": "The above graph shows how often people in America consumed fast food in 2023, sorted according to frequency of consumption.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2010,6 +2260,7 @@
       "id": "2025-03-251",
       "word": "sort",
       "meaning": "분류하다, 종류",
+      "pos": "verb",
       "example": "The above graph shows how often people in America consumed fast food in 2023, sorted according to frequency of consumption.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2018,6 +2269,7 @@
       "id": "2025-03-252",
       "word": "frequency",
       "meaning": "빈도",
+      "pos": "noun",
       "example": "The above graph shows how often people in America consumed fast food in 2023, sorted according to frequency of consumption.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2026,6 +2278,7 @@
       "id": "2025-03-253",
       "word": "consumption",
       "meaning": "소비",
+      "pos": "noun",
       "example": "The above graph shows how often people in America consumed fast food in 2023, sorted according to frequency of consumption.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2034,6 +2287,7 @@
       "id": "2025-03-254",
       "word": "individual",
       "meaning": "개인의",
+      "pos": "noun",
       "example": "①More than 50 percent of individuals consumed fast food once a week or more frequently.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2042,6 +2296,7 @@
       "id": "2025-03-255",
       "word": "frequently",
       "meaning": "자주",
+      "pos": "adv",
       "example": "①More than 50 percent of individuals consumed fast food once a week or more frequently.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2050,6 +2305,7 @@
       "id": "2025-03-256",
       "word": "highly",
       "meaning": "매우",
+      "pos": "adv",
       "example": "②The most highly reported pattern of consumption was a few times a week, which was 36 percent of the total.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2058,6 +2314,7 @@
       "id": "2025-03-257",
       "word": "report",
       "meaning": "보고하다",
+      "pos": "verb",
       "example": "②The most highly reported pattern of consumption was a few times a week, which was 36 percent of the total.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2066,6 +2323,7 @@
       "id": "2025-03-258",
       "word": "pattern",
       "meaning": "패턴",
+      "pos": "noun",
       "example": "②The most highly reported pattern of consumption was a few times a week, which was 36 percent of the total.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2074,6 +2332,7 @@
       "id": "2025-03-259",
       "word": "account",
       "meaning": "설명하다, 계좌, 설명",
+      "pos": "verb",
       "example": "③The second most highly reported pattern was a few times a month, accounting for 18 percent of the total.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2082,6 +2341,7 @@
       "id": "2025-03-260",
       "word": "eat",
       "meaning": "먹다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -2090,6 +2350,7 @@
       "id": "2025-03-261",
       "word": "daily",
       "meaning": "매일의",
+      "pos": "adj",
       "example": "④The percentage of people who ate fast food once every couple of months was more than that of those who consumed it daily.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2098,6 +2359,7 @@
       "id": "2025-03-262",
       "word": "combine",
       "meaning": "결합하다",
+      "pos": "verb",
       "example": "⑤The combined share of those who rarely or never ate fast food was less than 10 percent.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2106,6 +2368,7 @@
       "id": "2025-03-263",
       "word": "share",
       "meaning": "공유하다",
+      "pos": "verb",
       "example": "⑤The combined share of those who rarely or never ate fast food was less than 10 percent.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2114,6 +2377,7 @@
       "id": "2025-03-264",
       "word": "rarely",
       "meaning": "드물게",
+      "pos": "adv",
       "example": "⑤The combined share of those who rarely or never ate fast food was less than 10 percent.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2122,6 +2386,7 @@
       "id": "2025-03-265",
       "word": "bear",
       "meaning": "참다, 곰",
+      "pos": "verb",
       "example": "Cartilage is extremely important for the healthy functioning of a joint, especially if that joint bears weight, like your knee.",
       "exampleMeaning": "",
       "questionNumber": 35
@@ -2130,6 +2395,7 @@
       "id": "2025-03-266",
       "word": "high",
       "meaning": "높은",
+      "pos": "adj",
       "example": "Your gestures should highlight your words, not overshadow them.",
       "exampleMeaning": "",
       "questionNumber": 20
@@ -2138,6 +2404,7 @@
       "id": "2025-03-267",
       "word": "university",
       "meaning": "대학교",
+      "pos": "noun",
       "example": "At the University of Chicago, he majored in history.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2146,6 +2413,7 @@
       "id": "2025-03-268",
       "word": "major",
       "meaning": "주요한",
+      "pos": "adj",
       "example": "At the University of Chicago, he majored in history.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2154,6 +2422,7 @@
       "id": "2025-03-269",
       "word": "history",
       "meaning": "역사",
+      "pos": "noun",
       "example": "At the University of Chicago, he majored in history.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2162,6 +2431,7 @@
       "id": "2025-03-270",
       "word": "economic",
       "meaning": "경제적인",
+      "pos": "adj",
       "example": "After taking economic history courses at University of California, Berkeley, he developed an interest in economics.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2170,6 +2440,7 @@
       "id": "2025-03-271",
       "word": "interest",
       "meaning": "관심, 이자",
+      "pos": "noun",
       "example": "After taking economic history courses at University of California, Berkeley, he developed an interest in economics.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2178,6 +2449,7 @@
       "id": "2025-03-272",
       "word": "earn",
       "meaning": "벌다",
+      "pos": "verb",
       "example": "He earned a doctoral degree in economics from the University of Chicago in 1964.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2186,6 +2458,7 @@
       "id": "2025-03-273",
       "word": "degree",
       "meaning": "정도, 학위",
+      "pos": "noun",
       "example": "He earned a doctoral degree in economics from the University of Chicago in 1964.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2194,6 +2467,7 @@
       "id": "2025-03-274",
       "word": "teach",
       "meaning": "가르치다",
+      "pos": "verb",
       "example": "There is a wealth of evidence that when parents, teachers, supervisors, and coaches are perceived as involved and caring, people feel happier and more motivated.",
       "exampleMeaning": "",
       "questionNumber": 23
@@ -2202,6 +2476,7 @@
       "id": "2025-03-275",
       "word": "influential",
       "meaning": "영향력 있는",
+      "pos": "adj",
       "example": "He was known as a very influential economist and, in 1995, he was awarded the Nobel Prize in Economic Sciences.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2210,6 +2485,7 @@
       "id": "2025-03-276",
       "word": "welcome",
       "meaning": "환영하는",
+      "pos": "verb",
       "example": "Welcome to Blackwood Zoo Get ready to explore!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2218,6 +2494,7 @@
       "id": "2025-03-277",
       "word": "ready",
       "meaning": "준비된",
+      "pos": "adj",
       "example": "Welcome to Blackwood Zoo Get ready to explore!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2226,6 +2503,7 @@
       "id": "2025-03-278",
       "word": "explore",
       "meaning": "탐험하다",
+      "pos": "verb",
       "example": "Welcome to Blackwood Zoo Get ready to explore!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2234,6 +2512,7 @@
       "id": "2025-03-279",
       "word": "watch",
       "meaning": "지켜보다",
+      "pos": "verb",
       "example": "You can watch amazing animals on our 10 km walking path.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2242,6 +2521,7 @@
       "id": "2025-03-280",
       "word": "amaze",
       "meaning": "놀라게 하다",
+      "pos": "verb",
       "example": "He said, “This is a diamond.” Jack was amazed and said, “I saw so many rocks like that and thought they were useless.",
       "exampleMeaning": "",
       "questionNumber": 42
@@ -2250,6 +2530,7 @@
       "id": "2025-03-281",
       "word": "walk",
       "meaning": "걷다",
+      "pos": "verb",
       "example": "You can watch amazing animals on our 10 km walking path.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2258,6 +2539,7 @@
       "id": "2025-03-282",
       "word": "path",
       "meaning": "경로",
+      "pos": "noun",
       "example": "You can watch amazing animals on our 10 km walking path.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2266,6 +2548,7 @@
       "id": "2025-03-283",
       "word": "operation",
       "meaning": "운영, 수술",
+      "pos": "noun",
       "example": "Hours of Operation • Every day, all year round!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2274,6 +2557,7 @@
       "id": "2025-03-284",
       "word": "admission",
       "meaning": "입학, 인정",
+      "pos": "noun",
       "example": "(Last admission at 3:30 p.m.) Ticket Prices • Age 13 - 64: $30 • Age 3 - 12: $20 • Others: Free Seasonal Note Since the weather is still cold, some animals like snakes and turtles will stay only indoors.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2282,6 +2566,7 @@
       "id": "2025-03-285",
       "word": "note",
       "meaning": "주목하다, 메모",
+      "pos": "verb",
       "example": "(Last admission at 3:30 p.m.) Ticket Prices • Age 13 - 64: $30 • Age 3 - 12: $20 • Others: Free Seasonal Note Since the weather is still cold, some animals like snakes and turtles will stay only indoors.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2290,6 +2575,7 @@
       "id": "2025-03-286",
       "word": "stay",
       "meaning": "머무르다",
+      "pos": "verb",
       "example": "(Last admission at 3:30 p.m.) Ticket Prices • Age 13 - 64: $30 • Age 3 - 12: $20 • Others: Free Seasonal Note Since the weather is still cold, some animals like snakes and turtles will stay only indoors.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2298,6 +2584,7 @@
       "id": "2025-03-287",
       "word": "depart",
       "meaning": "출발하다",
+      "pos": "verb",
       "example": "※ Free shuttle bus departs from Blackwood Subway Station every 30 minutes.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2306,6 +2593,7 @@
       "id": "2025-03-288",
       "word": "workshop",
       "meaning": "워크숍",
+      "pos": "noun",
       "example": "Sock DIY Workshop Join us for a fun and creative Sock DIY (Do It Yourself) Workshop for all ages!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2314,6 +2602,7 @@
       "id": "2025-03-289",
       "word": "join",
       "meaning": "합류하다, 합치다",
+      "pos": "verb",
       "example": "Sock DIY Workshop Join us for a fun and creative Sock DIY (Do It Yourself) Workshop for all ages!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2322,6 +2611,7 @@
       "id": "2025-03-290",
       "word": "creative",
       "meaning": "창의적인",
+      "pos": "adj",
       "example": "Sock DIY Workshop Join us for a fun and creative Sock DIY (Do It Yourself) Workshop for all ages!",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2330,6 +2620,7 @@
       "id": "2025-03-291",
       "word": "program",
       "meaning": "프로그램을 짜다",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2338,6 +2629,7 @@
       "id": "2025-03-292",
       "word": "prepare",
       "meaning": "준비하다",
+      "pos": "verb",
       "example": "This information can then be used to ②properly prepare for her serve.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2346,6 +2638,7 @@
       "id": "2025-03-293",
       "word": "clean",
       "meaning": "청소하다, 깨끗한",
+      "pos": "verb",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2354,6 +2647,7 @@
       "id": "2025-03-294",
       "word": "participation",
       "meaning": "참여",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2362,6 +2656,7 @@
       "id": "2025-03-295",
       "word": "include",
       "meaning": "포함하다",
+      "pos": "verb",
       "example": "census taking, income distribution), they (b) include information of enormous value.",
       "exampleMeaning": "",
       "questionNumber": 40
@@ -2370,6 +2665,7 @@
       "id": "2025-03-296",
       "word": "cost",
       "meaning": "비용이 들다, 비용",
+      "pos": "verb",
       "example": "In effect, whether they can continue with their education, where, and at what cost depends importantly on a handful of numbers.",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2378,6 +2674,7 @@
       "id": "2025-03-297",
       "word": "material",
       "meaning": "재료",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2386,6 +2683,7 @@
       "id": "2025-03-298",
       "word": "detail",
       "meaning": "세부 사항",
+      "pos": "noun",
       "example": "",
       "exampleMeaning": "",
       "questionNumber": 25
@@ -2394,6 +2692,7 @@
       "id": "2025-03-299",
       "word": "visit",
       "meaning": "방문하다",
+      "pos": "verb",
       "example": "Visitors can easily find your artworks located near the entrance.",
       "exampleMeaning": "",
       "questionNumber": 18
@@ -2402,6 +2701,7 @@
       "id": "2025-03-300",
       "word": "item",
       "meaning": "항목",
+      "pos": "noun",
       "example": "Time DIY Item Things to Do 1 p.m.",
       "exampleMeaning": "",
       "questionNumber": 25

@@ -29,14 +29,22 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
+function pickDistractors(word: WordData, allWords: WordData[], count: number): WordData[] {
+  const others = allWords.filter((o) => o.id !== word.id);
+  // Prefer same POS
+  const samePOS = shuffle(others.filter((o) => o.pos === word.pos));
+  const diffPOS = shuffle(others.filter((o) => o.pos !== word.pos));
+  const pool = [...samePOS, ...diffPOS];
+  return pool.slice(0, count);
+}
+
 function buildQuiz(
   words: WordData[],
   allWords: WordData[],
   mode: QuizMode
 ): QuizItem[] {
   return words.map((w) => {
-    const others = allWords.filter((o) => o.id !== w.id);
-    const distractors = shuffle(others).slice(0, 3);
+    const distractors = pickDistractors(w, allWords, 3);
 
     if (mode === 'en-to-kr') {
       const options = shuffle([w, ...distractors].map((x) => x.meaning));

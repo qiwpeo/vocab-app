@@ -1,7 +1,10 @@
+export type POS = 'verb' | 'noun' | 'adj' | 'adv';
+
 export interface WordData {
   id: string;
   word: string;
   meaning: string;
+  pos: POS;
   example: string;
   exampleMeaning: string;
   questionNumber?: number;
