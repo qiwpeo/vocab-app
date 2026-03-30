@@ -18,7 +18,7 @@ export default function ExamPage() {
 
   if (!examData) {
     return (
-      <div className="text-center py-12" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+      <div className="text-center py-12 font-mono text-beige-shadow">
         [ERROR] 해당 시험을 찾을 수 없습니다.
       </div>
     );
@@ -36,14 +36,13 @@ export default function ExamPage() {
   return (
     <div>
       <div className="mb-6">
-        <Link href="/" className="text-sm hover:opacity-70 transition-opacity mb-3 inline-block"
-          style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+        <Link href="/" className="font-mono text-sm text-beige-shadow hover:opacity-70 transition-opacity mb-3 inline-block">
           &larr; [목록으로]
         </Link>
-        <h1 className="text-2xl mb-1" style={{ fontFamily: 'var(--font-serif)', fontWeight: 600 }}>
+        <h1 className="font-serif text-2xl mb-1" style={{ fontWeight: 600 }}>
           {examData.exam.label}
         </h1>
-        <p className="text-sm mb-4" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+        <p className="font-mono text-sm text-beige-shadow mb-4">
           {examData.words.length} words loaded
         </p>
         <ProgressBar current={memorizedCount} total={examData.words.length} />
@@ -52,22 +51,14 @@ export default function ExamPage() {
       <div className="flex items-center justify-between gap-3 mb-5 flex-wrap">
         <FilterBar current={filter} onChange={setFilter} />
         <div className="flex items-center gap-2">
-          <button
-            onClick={() => setHideMeaning(!hideMeaning)}
-            className={`text-sm px-3 py-1.5 retro-key transition-all ${hideMeaning ? 'retro-key-active' : ''}`}
-          >
+          <button onClick={() => setHideMeaning(!hideMeaning)}
+            className={`key px-3 py-1.5 text-sm ${hideMeaning ? 'key-pressed' : ''}`}>
             {hideMeaning ? '학습중' : '뜻 보기'}
           </button>
-          <Link
-            href={`/exam/${examId}/flashcard`}
-            className="text-sm px-3 py-1.5 retro-key inline-block text-center"
-          >
+          <Link href={`/exam/${examId}/flashcard`} className="key px-3 py-1.5 text-sm inline-block text-center">
             카드
           </Link>
-          <Link
-            href={`/exam/${examId}/quiz`}
-            className="text-sm px-3 py-1.5 retro-btn rounded inline-block text-center"
-          >
+          <Link href={`/exam/${examId}/quiz`} className="btn btn-sm inline-block text-center">
             퀴즈
           </Link>
         </div>
@@ -75,16 +66,11 @@ export default function ExamPage() {
 
       <div className="space-y-3">
         {filteredWords.map((word) => (
-          <WordCard
-            key={word.id}
-            word={word}
-            isMemorized={!!memorized[word.id]}
-            onToggleMemorized={() => toggle(word.id)}
-            hideMeaning={hideMeaning}
-          />
+          <WordCard key={word.id} word={word} isMemorized={!!memorized[word.id]}
+            onToggleMemorized={() => toggle(word.id)} hideMeaning={hideMeaning} />
         ))}
         {filteredWords.length === 0 && (
-          <div className="text-center py-12" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+          <div className="text-center py-12 font-mono text-beige-shadow">
             [EMPTY] 해당하는 단어가 없습니다.
           </div>
         )}

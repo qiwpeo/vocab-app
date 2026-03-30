@@ -17,25 +17,19 @@ export default function ExamCard({
 
   return (
     <Link href={`/exam/${examId}`}>
-      <div className="retro-card rounded-lg p-5 hover:translate-y-[-2px] transition-all duration-200 cursor-pointer">
+      <div className="face-front rounded-lg p-5 hover:translate-y-[-2px] transition-all duration-200 cursor-pointer">
         <div className="flex items-center justify-between mb-3">
-          <h3 className="text-lg" style={{ fontFamily: 'var(--font-serif)', fontWeight: 600 }}>
+          <h3 className="font-serif text-lg" style={{ fontWeight: 600 }}>
             {data.exam.label}
           </h3>
-          <span className="text-xs px-2 py-0.5" style={{
-            fontFamily: 'var(--font-mono)',
-            background: 'var(--screen-black)',
-            color: 'var(--crt-green)',
-            borderRadius: '3px',
-          }}>
+          <span className="font-mono text-xs px-2 py-0.5 bg-screen text-crt rounded-sm">
             {data.words.length} words
           </span>
         </div>
         <ProgressBar current={memorizedCount} total={data.words.length} />
-        {/* Vent grill decoration */}
-        <div className="vent-grill mt-3 w-8">
-          <div /><div /><div /><div />
-          <div /><div /><div /><div />
+        <div className="grill mt-3" style={{ width: 32, height: 10 }}>
+          <div className="vent" /><div className="vent" /><div className="vent" /><div className="vent" />
+          <div className="vent" /><div className="vent" /><div className="vent" /><div className="vent" />
         </div>
       </div>
     </Link>

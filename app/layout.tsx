@@ -20,28 +20,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko" className="h-full">
-      <body className="min-h-full flex flex-col" style={{ fontFamily: "var(--font-serif)" }}>
+      <body className="min-h-full flex flex-col">
         <div className="crt-overlay" />
-        <header className="sticky top-0 z-50" style={{ background: 'var(--beige-main)', borderBottom: '1px solid var(--beige-dark)' }}>
+        <header className="sticky top-0 z-50 bg-beige-main" style={{ borderBottom: '1px solid var(--beige-dark)' }}>
           <div className="max-w-2xl mx-auto px-4 py-3 flex items-center justify-between">
             <a href="/" className="flex items-center gap-3">
-              {/* Rainbow apple-like badge */}
-              <div className="relative w-5 h-6" style={{
-                borderRadius: '50% 50% 50% 50% / 60% 60% 40% 40%',
-                background: 'linear-gradient(180deg, #63B548 0%, #63B548 16.6%, #F6C829 16.6%, #F6C829 33.3%, #E57D25 33.3%, #E57D25 50%, #D83335 50%, #D83335 66.6%, #9C4595 66.6%, #9C4595 83.3%, #468CCF 83.3%, #468CCF 100%)',
-                boxShadow: 'inset 1px 1px 2px rgba(0,0,0,0.2)',
-              }}>
-                <div className="absolute -top-1.5 left-1/2 -translate-x-1/2 w-0.5 h-1.5 rounded-sm" style={{ background: '#5a3e28' }} />
+              <div className="logo-badge relative" style={{ width: 20, height: 26 }}>
+                <div className="logo-badge-stem absolute -top-1.5 left-1/2 -translate-x-1/2" style={{ width: 3, height: 7 }} />
               </div>
-              <span className="text-lg tracking-tight" style={{ fontFamily: 'var(--font-serif)', fontWeight: 600, color: 'var(--ink-black)' }}>
+              <span className="font-serif text-lg text-ink" style={{ fontWeight: 600 }}>
                 Voca Mint
               </span>
             </a>
-            <a
-              href="/wrong-notes"
-              className="text-sm flex items-center gap-1.5 hover:opacity-70 transition-opacity"
-              style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}
-            >
+            <a href="/wrong-notes" className="font-mono text-sm text-beige-shadow hover:opacity-70 transition-opacity">
               [오답노트]
             </a>
           </div>

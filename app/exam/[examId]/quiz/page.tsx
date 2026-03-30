@@ -89,80 +89,54 @@ export default function QuizPage() {
   );
 
   if (!examData) {
-    return (
-      <div className="text-center py-12" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
-        [ERROR] 해당 시험을 찾을 수 없습니다.
-      </div>
-    );
+    return <div className="text-center py-12 font-mono text-beige-shadow">[ERROR] 해당 시험을 찾을 수 없습니다.</div>;
   }
 
-  // Setup screen
+  // Setup
   if (!started) {
     return (
       <div className="max-w-lg mx-auto">
-        <Link href={`/exam/${examId}`} className="text-sm hover:opacity-70 transition-opacity mb-4 inline-block"
-          style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+        <Link href={`/exam/${examId}`} className="font-mono text-sm text-beige-shadow hover:opacity-70 transition-opacity mb-4 inline-block">
           &larr; [돌아가기]
         </Link>
 
-        <div className="retro-screen p-5 mb-6">
-          <p className="text-xs mb-1" style={{ color: 'var(--crt-green)', fontFamily: 'var(--font-mono)' }}>
-            &gt; Quiz Configuration
-          </p>
-          <p className="text-lg" style={{ fontFamily: 'var(--font-serif)', color: '#fff', fontWeight: 600 }}>
-            퀴즈 설정
-          </p>
-          <p className="text-xs mt-1" style={{ color: '#888', fontFamily: 'var(--font-mono)' }}>
-            {examData.exam.label}
-          </p>
+        <div className="crt-flat p-5 mb-6 rounded-sm shadow-screen">
+          <p className="text-crt font-mono text-xs mb-1">&gt; Quiz Configuration</p>
+          <p className="font-serif text-lg" style={{ color: '#fff', fontWeight: 600 }}>퀴즈 설정</p>
+          <p className="font-mono text-xs mt-1" style={{ color: '#888' }}>{examData.exam.label}</p>
         </div>
 
         <div className="space-y-5">
           <div>
-            <label className="block text-xs uppercase tracking-widest mb-2" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
-              퀴즈 모드
-            </label>
+            <label className="spec-label block mb-2 font-mono text-beige-shadow">퀴즈 모드</label>
             <div className="flex gap-2">
               {([['en-to-kr', '영 → 한'], ['kr-to-en', '한 → 영']] as const).map(([v, l]) => (
                 <button key={v} onClick={() => setMode(v)}
-                  className={`flex-1 py-3 text-sm retro-key transition-all ${mode === v ? 'retro-key-active' : ''}`}>
-                  {l}
-                </button>
+                  className={`flex-1 py-3 text-sm key ${mode === v ? 'key-pressed' : ''}`}>{l}</button>
               ))}
             </div>
           </div>
-
           <div>
-            <label className="block text-xs uppercase tracking-widest mb-2" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
-              출제 범위
-            </label>
+            <label className="spec-label block mb-2 font-mono text-beige-shadow">출제 범위</label>
             <div className="flex gap-2">
               {([['all', '전체 단어'], ['not-memorized', '미암기만']] as const).map(([v, l]) => (
                 <button key={v} onClick={() => setScope(v)}
-                  className={`flex-1 py-3 text-sm retro-key transition-all ${scope === v ? 'retro-key-active' : ''}`}>
-                  {l}
-                </button>
+                  className={`flex-1 py-3 text-sm key ${scope === v ? 'key-pressed' : ''}`}>{l}</button>
               ))}
             </div>
           </div>
-
           <div>
-            <label className="block text-xs uppercase tracking-widest mb-2" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
-              문제 수
-            </label>
+            <label className="spec-label block mb-2 font-mono text-beige-shadow">문제 수</label>
             <div className="flex gap-2">
               {([10, 20, 'all'] as const).map((v) => (
                 <button key={String(v)} onClick={() => setCount(v)}
-                  className={`flex-1 py-3 text-sm retro-key transition-all ${count === v ? 'retro-key-active' : ''}`}>
+                  className={`flex-1 py-3 text-sm key ${count === v ? 'key-pressed' : ''}`}>
                   {v === 'all' ? '전체' : `${v}문제`}
                 </button>
               ))}
             </div>
           </div>
-
-          <button onClick={() => setStarted(true)}
-            className="w-full py-4 retro-btn rounded-lg text-lg mt-2"
-            style={{ fontFamily: 'var(--font-serif)', fontWeight: 600 }}>
+          <button onClick={() => setStarted(true)} className="w-full py-4 btn text-lg mt-2">
             퀴즈 시작
           </button>
         </div>
@@ -170,7 +144,7 @@ export default function QuizPage() {
     );
   }
 
-  // Results screen
+  // Results
   if (finished) {
     const correctCount = results.filter((r) => r.correct).length;
     const wrongWords = results.filter((r) => !r.correct);
@@ -178,29 +152,27 @@ export default function QuizPage() {
 
     return (
       <div className="max-w-lg mx-auto">
-        <div className="retro-screen p-6 text-center mb-6">
-          <p className="text-xs mb-2" style={{ color: 'var(--crt-green)', fontFamily: 'var(--font-mono)' }}>
-            &gt; Quiz Complete
-          </p>
-          <div className="text-5xl mb-2" style={{ fontFamily: 'var(--font-mono)', color: score >= 80 ? 'var(--crt-green)' : score >= 50 ? '#F6C829' : '#D83335' }}>
+        <div className="crt-flat p-6 text-center mb-6 rounded-sm shadow-screen">
+          <p className="text-crt font-mono text-xs mb-2">&gt; Quiz Complete</p>
+          <div className="font-mono text-5xl mb-2"
+            style={{ color: score >= 80 ? 'var(--crt-green)' : score >= 50 ? '#F6C829' : '#D83335',
+                     textShadow: score >= 80 ? '0 0 8px rgba(51,255,0,0.4)' : undefined }}>
             {score}%
           </div>
-          <p className="text-sm" style={{ color: '#888', fontFamily: 'var(--font-mono)' }}>
-            {correctCount}/{results.length} correct
-          </p>
+          <p className="font-mono text-sm" style={{ color: '#888' }}>{correctCount}/{results.length} correct</p>
         </div>
 
         {wrongWords.length > 0 && (
           <div className="mb-6">
-            <h2 className="text-xs uppercase tracking-widest mb-3" style={{ fontFamily: 'var(--font-mono)', color: '#D83335' }}>
+            <h2 className="font-mono text-xs uppercase tracking-widest text-error mb-3">
               ── 틀린 단어 ({wrongWords.length}개) → 오답노트 ──
             </h2>
             <div className="space-y-2">
               {wrongWords.map(({ word }) => (
-                <div key={word.id} className="retro-card rounded p-3 flex items-center gap-3"
+                <div key={word.id} className="face-front rounded p-3 flex items-center gap-3"
                   style={{ borderLeft: '3px solid #D83335' }}>
-                  <span style={{ fontFamily: 'var(--font-serif)', fontWeight: 600 }}>{word.word}</span>
-                  <span style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)', fontSize: '0.875rem' }}>{word.meaning}</span>
+                  <span className="font-serif" style={{ fontWeight: 600 }}>{word.word}</span>
+                  <span className="font-mono text-sm text-beige-shadow">{word.meaning}</span>
                 </div>
               ))}
             </div>
@@ -209,13 +181,8 @@ export default function QuizPage() {
 
         <div className="flex gap-3">
           <button onClick={() => { setStarted(false); setFinished(false); setCurrentIdx(0); setResults([]); }}
-            className="flex-1 py-3 retro-btn rounded text-sm" style={{ fontFamily: 'var(--font-serif)' }}>
-            다시 풀기
-          </button>
-          <Link href={`/exam/${examId}`}
-            className="flex-1 py-3 text-center retro-key rounded text-sm">
-            단어장으로
-          </Link>
+            className="flex-1 py-3 btn btn-sm">다시 풀기</button>
+          <Link href={`/exam/${examId}`} className="flex-1 py-3 text-center key rounded text-sm">단어장으로</Link>
         </div>
       </div>
     );
@@ -223,15 +190,6 @@ export default function QuizPage() {
 
   const item = quizItems[currentIdx];
   if (!item) return null;
-
-  return (
-    <QuizQuestion
-      question={item.question}
-      options={item.options}
-      correctIndex={item.correctIndex}
-      onAnswer={handleAnswer}
-      questionNum={currentIdx + 1}
-      totalQuestions={quizItems.length}
-    />
-  );
+  return <QuizQuestion question={item.question} options={item.options} correctIndex={item.correctIndex}
+    onAnswer={handleAnswer} questionNum={currentIdx + 1} totalQuestions={quizItems.length} />;
 }

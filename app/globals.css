@@ -1,17 +1,22 @@
 @import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=VT323&display=swap');
 
+/* ============================================================
+   1. CSS Variables — Fig Mint 원본 그대로
+   ============================================================ */
 :root {
   --beige-light: #F0EDE0;
   --beige-main: #E0DCCF;
   --beige-dark: #C4C0B3;
   --beige-shadow: #A09C8F;
   --screen-black: #222529;
+  --screen-glow: #3E434C;
   --crt-green: #33ff00;
+  --accent-blue: #2B6CB0;
+  --accent-orange: #C05621;
   --ink-black: #0f0f0f;
-  --cream-bg: #f4f1e6;
-  --font-serif: 'EB Garamond', 'Georgia', serif;
-  --font-mono: 'VT323', 'Courier New', monospace;
+  --font-serif: 'EB Garamond', serif;
+  --font-mono: 'VT323', monospace;
   --background: #f4f1e6;
   --foreground: #0f0f0f;
 }
@@ -25,106 +30,310 @@
   :root {
     --background: #1a1814;
     --foreground: #E0DCCF;
-    --cream-bg: #1a1814;
     --beige-light: #2a2620;
     --beige-main: #232019;
     --beige-dark: #1a1814;
     --beige-shadow: #131210;
     --screen-black: #0a0a0a;
+    --screen-glow: #1a1d22;
     --ink-black: #E0DCCF;
+    --accent-blue: #5a9bd5;
+    --accent-orange: #e08a4a;
   }
 }
 
+/* ============================================================
+   2. Base — 원본 body 스타일
+   ============================================================ */
 body {
-  background: var(--cream-bg);
-  color: var(--foreground);
+  background-color: #f4f1e6;
   font-family: var(--font-serif);
+  color: var(--ink-black);
 }
 
-/* CRT scanline effect */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1814;
+  }
+}
+
+@font-face {
+  font-family: 'RetroSerif';
+  src: local('Apple Garamond'), local('Garamond'), local('Times New Roman');
+}
+
+@font-face {
+  font-family: 'RetroMono';
+  src: local('Courier New'), local('Courier'), monospace;
+}
+
+/* ============================================================
+   3. CRT Scanline Overlay — 원본 ::before 패턴 그대로
+   ============================================================ */
 .crt-overlay {
   pointer-events: none;
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
   background:
-    linear-gradient(rgba(18,16,16,0) 50%, rgba(0,0,0,0.03) 50%);
-  background-size: 100% 4px;
+    linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%),
+    linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+  background-size: 100% 2px, 3px 100%;
   z-index: 9999;
+  opacity: 0.3;
 }
 
-/* Retro inset screen */
-.retro-screen {
+/* ============================================================
+   4. Screen Inset — 원본 .screen-inset 그대로
+   ============================================================ */
+.screen-inset {
+  background: #D1CEC7;
+  border-radius: 16px;
+  box-shadow:
+    inset 2px 2px 8px rgba(0,0,0,0.2),
+    inset -2px -2px 8px rgba(255,255,255,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ============================================================
+   5. CRT Screen — 원본 .crt + .crt-glow 그대로
+   ============================================================ */
+.crt {
+  background: var(--screen-black);
+  border-radius: 40% 40% 40% 40% / 10% 10% 10% 10%;
+  position: relative;
+  overflow: hidden;
+  box-shadow: inset 0 0 20px rgba(0,0,0,1);
+}
+
+.crt-glow {
+  color: #fff;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  text-shadow: 0 0 2px rgba(255,255,255,0.5);
+}
+
+/* Flat CRT for cards/sections (rectangular variant) */
+.crt-flat {
   background: var(--screen-black);
   color: #fff;
   font-family: var(--font-mono);
-  border-radius: 8px;
-  box-shadow:
-    inset 2px 2px 8px rgba(0,0,0,0.5),
-    inset -2px -2px 8px rgba(0,0,0,0.3);
+  border-radius: 2px;
+  box-shadow: inset 0 0 20px rgba(0,0,0,0.8);
+  text-shadow: 0 0 2px rgba(255,255,255,0.5);
 }
 
-/* Retro beige card */
-.retro-card {
+/* ============================================================
+   6. Window — 원본 .window 그대로
+   ============================================================ */
+.window {
+  background: #fff;
+  color: #000;
+  border-radius: 2px;
+  padding: 5px;
+  box-shadow: 2px 2px 0 rgba(0,0,0,0.5);
+  font-family: var(--font-mono);
+  font-size: 10px;
+}
+
+.window-header {
+  border-bottom: 1px dotted #000;
+  margin-bottom: 5px;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* ============================================================
+   7. Face / Card — 원본 .front face 그대로
+   ============================================================ */
+.face-front {
   background: linear-gradient(135deg, var(--beige-light) 0%, var(--beige-main) 100%);
-  border: 1px solid rgba(0,0,0,0.08);
   box-shadow:
-    inset 1px 1px 3px rgba(255,255,255,0.6),
-    inset -2px -2px 6px rgba(0,0,0,0.08),
-    2px 4px 12px rgba(0,0,0,0.1);
+    inset 2px 2px 5px rgba(255,255,255,0.8),
+    inset -5px -5px 15px rgba(0,0,0,0.1);
 }
 
-/* Retro button */
-.retro-btn {
+.face-side {
+  background: var(--beige-dark);
+  box-shadow: inset 10px 0 20px rgba(0,0,0,0.1);
+}
+
+.face-top {
+  background: var(--beige-light);
+}
+
+.face-shadow {
+  background: var(--beige-shadow);
+  box-shadow: 0 50px 80px rgba(0,0,0,0.3);
+}
+
+/* ============================================================
+   8. Button (.btn) — 원본 그대로
+   ============================================================ */
+.btn {
   display: inline-block;
   background: var(--ink-black);
-  color: var(--cream-bg);
+  color: #f4f1e6;
+  padding: 1rem 2rem;
+  font-size: 1.25rem;
+  text-decoration: none;
+  border-radius: 8px;
   font-family: var(--font-serif);
   border: 2px solid var(--ink-black);
   cursor: pointer;
-  transition: all 0.15s ease;
+  transition: all 0.2s ease;
 }
 
-.retro-btn:hover {
+.btn:hover {
   background: transparent;
   color: var(--ink-black);
 }
 
-/* Retro key button */
-.retro-key {
-  background: var(--beige-light);
+.btn-sm {
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  border-radius: 6px;
+}
+
+/* ============================================================
+   9. Keyboard Key — 원본 .key 그대로
+   ============================================================ */
+.key {
+  background: #ECE8DA;
   border-radius: 4px;
   box-shadow:
-    0 3px 0 var(--beige-dark),
-    0 4px 6px rgba(0,0,0,0.15);
-  transition: all 0.05s;
+    0 6px 0 #C4C0B3,
+    0 8px 7px rgba(0,0,0,0.2);
   font-family: var(--font-mono);
+  transition: transform 0.05s;
+  cursor: pointer;
 }
 
-.retro-key:active {
-  transform: translateY(2px);
+.key:active {
+  transform: translateY(5px);
   box-shadow:
-    0 1px 0 var(--beige-dark),
-    0 1px 2px rgba(0,0,0,0.1);
+    0 1px 0 #C4C0B3,
+    0 1px 2px rgba(0,0,0,0.05);
 }
 
-.retro-key-active {
+.key-pressed {
   background: var(--screen-black);
   color: #fff;
+  transform: translateY(4px);
   box-shadow:
-    0 1px 0 #000,
-    0 1px 4px rgba(0,0,0,0.3);
-  transform: translateY(1px);
+    0 2px 0 #000,
+    0 2px 4px rgba(0,0,0,0.3);
 }
 
-/* Blinking cursor */
+@keyframes typeKey {
+  0%, 100% { transform: translateY(0); box-shadow: 0 6px 0 #C4C0B3, 0 8px 7px rgba(0,0,0,0.2); }
+  50% { transform: translateY(5px); box-shadow: 0 1px 0 #C4C0B3, 0 1px 2px rgba(0,0,0,0.05); }
+}
+
+/* ============================================================
+   10. Price Tag — 원본 .price-tag 그대로
+   ============================================================ */
+.price-tag {
+  font-family: var(--font-mono);
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+/* ============================================================
+   11. Spec Label — 원본 .spec-item 그대로
+   ============================================================ */
+.spec-label {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+  margin: 0;
+}
+
+.spec-value {
+  font-family: var(--font-mono);
+  margin: 0.5rem 0 0 0;
+}
+
+/* ============================================================
+   12. Sticker — 원본 .sticker variants 그대로
+   ============================================================ */
+.sticker {
+  box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+
+.sticker-badge {
+  background: #8B0000;
+  color: #F0E68C;
+  font-family: 'Courier New', courier, monospace;
+  font-size: 6px;
+  line-height: 1.3;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+  border: 1px solid rgba(255,255,255,0.2);
+}
+
+.sticker-accent {
+  background: var(--accent-orange);
+}
+
+/* ============================================================
+   13. Logo Badge — 원본 .logo-badge 그대로
+   ============================================================ */
+.logo-badge {
+  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  background: linear-gradient(180deg,
+    #63B548 0%, #63B548 16.6%,
+    #F6C829 16.6%, #F6C829 33.3%,
+    #E57D25 33.3%, #E57D25 50%,
+    #D83335 50%, #D83335 66.6%,
+    #9C4595 66.6%, #9C4595 83.3%,
+    #468CCF 83.3%, #468CCF 100%);
+  box-shadow: inset 1px 1px 2px rgba(0,0,0,0.2);
+}
+
+.logo-badge-stem {
+  background: #5a3e28;
+  border-radius: 1px;
+}
+
+/* ============================================================
+   14. Grill / Vent — 원본 .grill .vent 그대로
+   ============================================================ */
+.grill {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2px;
+}
+
+.vent {
+  background: #333;
+  border-radius: 1px;
+  box-shadow: inset 1px 1px 1px rgba(0,0,0,0.5);
+  height: 3px;
+}
+
+/* ============================================================
+   15. Floppy Slot — 원본 .floppy-slot 그대로
+   ============================================================ */
+.floppy-slot {
+  background: #333;
+  border-radius: 6px;
+  box-shadow: inset 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+/* ============================================================
+   16. Cursor — 원본 .cursor 그대로
+   ============================================================ */
 .cursor-blink {
   display: inline-block;
   width: 8px;
   height: 15px;
-  background: currentColor;
+  background: #fff;
   animation: blink 1s step-end infinite;
   vertical-align: middle;
-  margin-left: 2px;
 }
 
 @keyframes blink {
@@ -132,26 +341,106 @@ body {
   50% { opacity: 0; }
 }
 
-/* Vent grill */
-.vent-grill {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 2px;
+/* ============================================================
+   17. Icon circles — 원본 .icon-circle 그대로
+   ============================================================ */
+.icon-circle {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #555;
+  display: inline-block;
 }
-.vent-grill > div {
-  height: 3px;
-  background: var(--beige-shadow);
-  border-radius: 1px;
+.icon-circle-blue { background: #468CCF; }
+.icon-circle-orange { background: #E57D25; }
+.icon-circle-green { background: #63B548; }
+.icon-circle-red { background: #D83335; }
+.icon-circle-purple { background: #9C4595; }
+
+/* ============================================================
+   18. Typography — 원본 h1, p.lead 그대로
+   ============================================================ */
+.heading-hero {
+  font-size: 5rem;
+  line-height: 0.85;
+  letter-spacing: -2px;
+  font-weight: 500;
+  font-family: var(--font-serif);
 }
 
-/* Progress bar retro */
-.retro-progress-track {
+.heading-hero-italic {
+  font-style: italic;
+  font-family: var(--font-serif);
+}
+
+.text-lead {
+  font-size: 1.5rem;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+  font-family: var(--font-serif);
+  color: #444;
+}
+
+@media (prefers-color-scheme: dark) {
+  .text-lead { color: #999; }
+}
+
+/* ============================================================
+   19. Keyboard shadow — 원본 .kb-front 등 그대로
+   ============================================================ */
+.kb-surface {
+  background: var(--beige-main);
+  box-shadow:
+    inset 1px 1px 2px rgba(255,255,255,0.5),
+    inset -5px -5px 15px rgba(0,0,0,0.1);
+}
+
+.kb-edge-front {
+  background: linear-gradient(180deg, #cdc9bb 0%, #b5b1a3 100%);
+}
+
+.kb-edge-top {
+  background: linear-gradient(180deg, #e5e1d4 0%, #c9c5b8 100%);
+}
+
+/* ============================================================
+   20. Utility helpers — CRT green glow, accent colors
+   ============================================================ */
+.text-crt { color: var(--crt-green); text-shadow: 0 0 4px rgba(51, 255, 0, 0.4); }
+.text-ink { color: var(--ink-black); }
+.text-beige-shadow { color: var(--beige-shadow); }
+.text-accent-blue { color: var(--accent-blue); }
+.text-accent-orange { color: var(--accent-orange); }
+.text-error { color: #D83335; }
+.text-warn { color: #F6C829; }
+.text-ok { color: var(--crt-green); }
+
+.bg-screen { background: var(--screen-black); }
+.bg-beige-light { background: var(--beige-light); }
+.bg-beige-main { background: var(--beige-main); }
+.bg-beige-dark { background: var(--beige-dark); }
+.bg-ink { background: var(--ink-black); }
+
+.font-serif { font-family: var(--font-serif) !important; }
+.font-mono { font-family: var(--font-mono) !important; }
+
+.shadow-crt-glow { box-shadow: 0 0 6px rgba(51, 255, 0, 0.4); }
+.shadow-face { box-shadow: inset 2px 2px 5px rgba(255,255,255,0.8), inset -5px -5px 15px rgba(0,0,0,0.1); }
+.shadow-screen { box-shadow: inset 0 0 20px rgba(0,0,0,1); }
+.shadow-window { box-shadow: 2px 2px 0 rgba(0,0,0,0.5); }
+.shadow-key { box-shadow: 0 6px 0 #C4C0B3, 0 8px 7px rgba(0,0,0,0.2); }
+.shadow-key-pressed { box-shadow: 0 1px 0 #C4C0B3, 0 1px 2px rgba(0,0,0,0.05); }
+.shadow-drop { box-shadow: 0 50px 80px rgba(0,0,0,0.3); }
+
+/* Progress bar — CRT green on screen black */
+.progress-track {
   background: var(--screen-black);
   border-radius: 4px;
   box-shadow: inset 1px 1px 4px rgba(0,0,0,0.5);
 }
-.retro-progress-fill {
+.progress-fill {
   background: var(--crt-green);
   border-radius: 3px;
   box-shadow: 0 0 6px rgba(51, 255, 0, 0.4);
+  transition: width 0.5s ease-out;
 }

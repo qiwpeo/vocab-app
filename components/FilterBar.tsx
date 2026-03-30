@@ -21,8 +21,8 @@ export default function FilterBar({
         <button
           key={f.value}
           onClick={() => onChange(f.value)}
-          className={`px-3 py-1.5 text-sm retro-key transition-all ${
-            current === f.value ? 'retro-key-active' : ''
+          className={`key px-3 py-1.5 text-sm ${
+            current === f.value ? 'key-pressed' : ''
           }`}
         >
           {f.label}

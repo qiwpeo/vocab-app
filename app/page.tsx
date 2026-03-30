@@ -20,18 +20,18 @@ export default function HomePage() {
   return (
     <div>
       <div className="mb-8">
-        <h1 className="text-4xl mb-2" style={{ fontFamily: 'var(--font-serif)', fontWeight: 400, letterSpacing: '-1px', lineHeight: 1 }}>
+        <h1 className="heading-hero">
           <span className="block">모의고사</span>
-          <span className="block italic">단어장.</span>
+          <span className="block heading-hero-italic">단어장.</span>
         </h1>
-        <p className="text-base mt-3" style={{ fontFamily: 'var(--font-serif)', color: '#888', maxWidth: 360 }}>
+        <p className="text-lead mt-3" style={{ maxWidth: 360 }}>
           고1 영어 모의고사 핵심 단어를 학습하세요.
           단어장, 퀴즈, 플래시카드로 완벽하게.
         </p>
       </div>
       {years.map((year) => (
         <section key={year} className="mb-8">
-          <h2 className="text-xs uppercase tracking-widest mb-3" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+          <h2 className="font-mono text-xs uppercase tracking-widest text-beige-shadow mb-3">
             ── {year}년 ──
           </h2>
           <div className="grid gap-3">
