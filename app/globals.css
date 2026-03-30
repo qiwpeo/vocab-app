@@ -1,51 +1,157 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=VT323&display=swap');
 
 :root {
-  --background: #f0f4ff;
-  --foreground: #171717;
+  --beige-light: #F0EDE0;
+  --beige-main: #E0DCCF;
+  --beige-dark: #C4C0B3;
+  --beige-shadow: #A09C8F;
+  --screen-black: #222529;
+  --crt-green: #33ff00;
+  --ink-black: #0f0f0f;
+  --cream-bg: #f4f1e6;
+  --font-serif: 'EB Garamond', 'Georgia', serif;
+  --font-mono: 'VT323', 'Courier New', monospace;
+  --background: #f4f1e6;
+  --foreground: #0f0f0f;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0f172a;
-    --foreground: #f3f4f6;
+    --background: #1a1814;
+    --foreground: #E0DCCF;
+    --cream-bg: #1a1814;
+    --beige-light: #2a2620;
+    --beige-main: #232019;
+    --beige-dark: #1a1814;
+    --beige-shadow: #131210;
+    --screen-black: #0a0a0a;
+    --ink-black: #E0DCCF;
   }
 }
 
 body {
-  background: var(--background);
+  background: var(--cream-bg);
   color: var(--foreground);
+  font-family: var(--font-serif);
 }
 
-.gradient-text {
-  background: linear-gradient(135deg, #6366f1, #8b5cf6, #a855f7);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+/* CRT scanline effect */
+.crt-overlay {
+  pointer-events: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background:
+    linear-gradient(rgba(18,16,16,0) 50%, rgba(0,0,0,0.03) 50%);
+  background-size: 100% 4px;
+  z-index: 9999;
 }
 
-.card-shine {
-  position: relative;
-  overflow: hidden;
+/* Retro inset screen */
+.retro-screen {
+  background: var(--screen-black);
+  color: #fff;
+  font-family: var(--font-mono);
+  border-radius: 8px;
+  box-shadow:
+    inset 2px 2px 8px rgba(0,0,0,0.5),
+    inset -2px -2px 8px rgba(0,0,0,0.3);
 }
 
-.card-shine::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: -100%;
-  width: 50%;
-  height: 100%;
-  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.05), transparent);
-  transition: left 0.5s;
+/* Retro beige card */
+.retro-card {
+  background: linear-gradient(135deg, var(--beige-light) 0%, var(--beige-main) 100%);
+  border: 1px solid rgba(0,0,0,0.08);
+  box-shadow:
+    inset 1px 1px 3px rgba(255,255,255,0.6),
+    inset -2px -2px 6px rgba(0,0,0,0.08),
+    2px 4px 12px rgba(0,0,0,0.1);
 }
 
-.card-shine:hover::before {
-  left: 100%;
+/* Retro button */
+.retro-btn {
+  display: inline-block;
+  background: var(--ink-black);
+  color: var(--cream-bg);
+  font-family: var(--font-serif);
+  border: 2px solid var(--ink-black);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.retro-btn:hover {
+  background: transparent;
+  color: var(--ink-black);
+}
+
+/* Retro key button */
+.retro-key {
+  background: var(--beige-light);
+  border-radius: 4px;
+  box-shadow:
+    0 3px 0 var(--beige-dark),
+    0 4px 6px rgba(0,0,0,0.15);
+  transition: all 0.05s;
+  font-family: var(--font-mono);
+}
+
+.retro-key:active {
+  transform: translateY(2px);
+  box-shadow:
+    0 1px 0 var(--beige-dark),
+    0 1px 2px rgba(0,0,0,0.1);
+}
+
+.retro-key-active {
+  background: var(--screen-black);
+  color: #fff;
+  box-shadow:
+    0 1px 0 #000,
+    0 1px 4px rgba(0,0,0,0.3);
+  transform: translateY(1px);
+}
+
+/* Blinking cursor */
+.cursor-blink {
+  display: inline-block;
+  width: 8px;
+  height: 15px;
+  background: currentColor;
+  animation: blink 1s step-end infinite;
+  vertical-align: middle;
+  margin-left: 2px;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* Vent grill */
+.vent-grill {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2px;
+}
+.vent-grill > div {
+  height: 3px;
+  background: var(--beige-shadow);
+  border-radius: 1px;
+}
+
+/* Progress bar retro */
+.retro-progress-track {
+  background: var(--screen-black);
+  border-radius: 4px;
+  box-shadow: inset 1px 1px 4px rgba(0,0,0,0.5);
+}
+.retro-progress-fill {
+  background: var(--crt-green);
+  border-radius: 3px;
+  box-shadow: 0 0 6px rgba(51, 255, 0, 0.4);
 }

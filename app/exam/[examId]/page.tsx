@@ -18,8 +18,8 @@ export default function ExamPage() {
 
   if (!examData) {
     return (
-      <div className="text-center py-12 text-gray-500">
-        해당 시험을 찾을 수 없습니다.
+      <div className="text-center py-12" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+        [ERROR] 해당 시험을 찾을 수 없습니다.
       </div>
     );
   }
@@ -36,17 +36,15 @@ export default function ExamPage() {
   return (
     <div>
       <div className="mb-6">
-        <Link href="/" className="inline-flex items-center gap-1 text-sm text-indigo-500 hover:text-indigo-600 mb-3 font-medium">
-          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-            <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
-          </svg>
-          목록으로
+        <Link href="/" className="text-sm hover:opacity-70 transition-opacity mb-3 inline-block"
+          style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+          &larr; [목록으로]
         </Link>
-        <h1 className="text-2xl font-extrabold text-gray-900 dark:text-gray-100 mb-1">
+        <h1 className="text-2xl mb-1" style={{ fontFamily: 'var(--font-serif)', fontWeight: 600 }}>
           {examData.exam.label}
         </h1>
-        <p className="text-sm text-gray-400 dark:text-gray-500 mb-4">
-          총 {examData.words.length}개 단어
+        <p className="text-sm mb-4" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+          {examData.words.length} words loaded
         </p>
         <ProgressBar current={memorizedCount} total={examData.words.length} />
       </div>
@@ -56,23 +54,19 @@ export default function ExamPage() {
         <div className="flex items-center gap-2">
           <button
             onClick={() => setHideMeaning(!hideMeaning)}
-            className={`text-sm px-3.5 py-1.5 rounded-full font-medium transition-all duration-200 ${
-              hideMeaning
-                ? 'bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 border border-amber-200 dark:border-amber-800'
-                : 'bg-white dark:bg-slate-800 text-gray-500 dark:text-gray-400 border border-gray-200 dark:border-slate-700'
-            }`}
+            className={`text-sm px-3 py-1.5 retro-key transition-all ${hideMeaning ? 'retro-key-active' : ''}`}
           >
-            {hideMeaning ? '학습 모드' : '뜻 보기'}
+            {hideMeaning ? '학습중' : '뜻 보기'}
           </button>
           <Link
             href={`/exam/${examId}/flashcard`}
-            className="text-sm px-4 py-1.5 bg-gradient-to-r from-amber-400 to-orange-500 text-white rounded-full font-medium hover:shadow-lg hover:shadow-orange-200 dark:hover:shadow-orange-900/30 transition-all duration-200"
+            className="text-sm px-3 py-1.5 retro-key inline-block text-center"
           >
-            플래시카드
+            카드
           </Link>
           <Link
             href={`/exam/${examId}/quiz`}
-            className="text-sm px-4 py-1.5 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-full font-medium hover:shadow-lg hover:shadow-indigo-200 dark:hover:shadow-indigo-900/30 transition-all duration-200"
+            className="text-sm px-3 py-1.5 retro-btn rounded inline-block text-center"
           >
             퀴즈
           </Link>
@@ -90,8 +84,8 @@ export default function ExamPage() {
           />
         ))}
         {filteredWords.length === 0 && (
-          <div className="text-center py-12">
-            <p className="text-gray-400 text-lg">해당하는 단어가 없습니다.</p>
+          <div className="text-center py-12" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+            [EMPTY] 해당하는 단어가 없습니다.
           </div>
         )}
       </div>

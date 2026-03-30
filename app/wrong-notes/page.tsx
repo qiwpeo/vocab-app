@@ -43,12 +43,7 @@ export default function WrongNotesPage() {
       const diffPOS = shuffle(others.filter((o) => o.pos !== w.pos));
       const distractors = [...samePOS, ...diffPOS].slice(0, 3);
       const options = shuffle([w, ...distractors].map((x) => x.meaning));
-      return {
-        word: w,
-        question: w.word,
-        options,
-        correctIndex: options.indexOf(w.meaning),
-      };
+      return { word: w, question: w.word, options, correctIndex: options.indexOf(w.meaning) };
     });
   }, [quizMode, entries]);
 
@@ -60,11 +55,8 @@ export default function WrongNotesPage() {
         const entry = entries.find((e) => e.word.id === item.word.id);
         if (entry) addWrongNote(item.word, entry.examId);
       }
-      if (quizIdx + 1 >= quizItems.length) {
-        setQuizFinished(true);
-      } else {
-        setQuizIdx((prev) => prev + 1);
-      }
+      if (quizIdx + 1 >= quizItems.length) setQuizFinished(true);
+      else setQuizIdx((prev) => prev + 1);
     },
     [quizIdx, quizItems, entries]
   );
@@ -72,15 +64,12 @@ export default function WrongNotesPage() {
   if (entries.length === 0 && !quizMode) {
     return (
       <div className="text-center py-20">
-        <div className="text-5xl mb-4 opacity-30">
-          <svg className="w-16 h-16 mx-auto text-gray-300 dark:text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1}>
-            <path strokeLinecap="round" strokeLinejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-          </svg>
+        <div className="retro-screen inline-block px-8 py-6 mb-4">
+          <p style={{ fontFamily: 'var(--font-mono)', color: 'var(--crt-green)', fontSize: '14px' }}>
+            &gt; 오답노트가 비어있습니다_<span className="cursor-blink" style={{ background: 'var(--crt-green)' }} />
+          </p>
         </div>
-        <p className="text-gray-400 dark:text-gray-500 text-lg font-medium mb-2">
-          오답노트가 비어있습니다
-        </p>
-        <p className="text-sm text-gray-300 dark:text-gray-600">
+        <p className="text-sm" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
           퀴즈에서 틀린 단어가 자동으로 추가됩니다.
         </p>
       </div>
@@ -93,27 +82,15 @@ export default function WrongNotesPage() {
       const score = Math.round((correctCount / quizResults.length) * 100);
       return (
         <div className="max-w-lg mx-auto">
-          <h1 className="text-2xl font-extrabold text-gray-900 dark:text-gray-100 mb-6">
-            오답노트 퀴즈 결과
-          </h1>
-          <div className="text-center py-8 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-2xl shadow-lg mb-6">
-            <div className="text-6xl font-extrabold text-white mb-1">
-              {score}
+          <div className="retro-screen p-6 text-center mb-6">
+            <p className="text-xs mb-2" style={{ color: 'var(--crt-green)', fontFamily: 'var(--font-mono)' }}>&gt; Wrong Notes Quiz Complete</p>
+            <div className="text-5xl mb-2" style={{ fontFamily: 'var(--font-mono)', color: score >= 80 ? 'var(--crt-green)' : score >= 50 ? '#F6C829' : '#D83335' }}>
+              {score}%
             </div>
-            <p className="text-white/70 text-lg">
-              {correctCount} / {quizResults.length} 정답
-            </p>
+            <p className="text-sm" style={{ color: '#888', fontFamily: 'var(--font-mono)' }}>{correctCount}/{quizResults.length} correct</p>
           </div>
-          <button
-            onClick={() => {
-              setQuizMode(false);
-              setQuizIdx(0);
-              setQuizResults([]);
-              setQuizFinished(false);
-              refresh();
-            }}
-            className="w-full py-3 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-xl font-bold hover:shadow-lg transition-all duration-200"
-          >
+          <button onClick={() => { setQuizMode(false); setQuizIdx(0); setQuizResults([]); setQuizFinished(false); refresh(); }}
+            className="w-full py-3 retro-btn rounded text-sm" style={{ fontFamily: 'var(--font-serif)' }}>
             돌아가기
           </button>
         </div>
@@ -122,31 +99,15 @@ export default function WrongNotesPage() {
 
     const item = quizItems[quizIdx];
     if (!item) return null;
-
     return (
       <div>
-        <button
-          onClick={() => {
-            setQuizMode(false);
-            setQuizIdx(0);
-            setQuizResults([]);
-            setQuizFinished(false);
-          }}
-          className="inline-flex items-center gap-1 text-sm text-indigo-500 hover:text-indigo-600 font-medium mb-4"
-        >
-          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-            <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
-          </svg>
-          오답노트로 돌아가기
+        <button onClick={() => { setQuizMode(false); setQuizIdx(0); setQuizResults([]); setQuizFinished(false); }}
+          className="text-sm hover:opacity-70 transition-opacity mb-4 inline-block"
+          style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+          &larr; [오답노트로]
         </button>
-        <QuizQuestion
-          question={item.question}
-          options={item.options}
-          correctIndex={item.correctIndex}
-          onAnswer={handleQuizAnswer}
-          questionNum={quizIdx + 1}
-          totalQuestions={quizItems.length}
-        />
+        <QuizQuestion question={item.question} options={item.options} correctIndex={item.correctIndex}
+          onAnswer={handleQuizAnswer} questionNum={quizIdx + 1} totalQuestions={quizItems.length} />
       </div>
     );
   }
@@ -154,14 +115,12 @@ export default function WrongNotesPage() {
   return (
     <div>
       <div className="flex items-center justify-between mb-6">
-        <h1 className="text-2xl font-extrabold text-gray-900 dark:text-gray-100">
+        <h1 className="text-2xl" style={{ fontFamily: 'var(--font-serif)', fontWeight: 600 }}>
           오답노트
         </h1>
         {entries.length >= 4 && (
-          <button
-            onClick={() => setQuizMode(true)}
-            className="text-sm px-4 py-2 bg-gradient-to-r from-indigo-500 to-purple-500 text-white rounded-full font-bold hover:shadow-lg hover:shadow-indigo-200 dark:hover:shadow-indigo-900/30 transition-all duration-200"
-          >
+          <button onClick={() => setQuizMode(true)}
+            className="text-sm px-4 py-2 retro-btn rounded">
             오답 퀴즈
           </button>
         )}
@@ -169,32 +128,32 @@ export default function WrongNotesPage() {
 
       {Object.entries(grouped).map(([label, items]) => (
         <section key={label} className="mb-6">
-          <h2 className="text-xs font-bold text-indigo-500 dark:text-indigo-400 uppercase tracking-wider mb-3">
-            {label} ({items.length}개)
+          <h2 className="text-xs uppercase tracking-widest mb-3" style={{ fontFamily: 'var(--font-mono)', color: 'var(--beige-shadow)' }}>
+            ── {label} ({items.length}개) ──
           </h2>
           <div className="space-y-2">
             {items.map((entry) => (
-              <div
-                key={entry.word.id}
-                className="flex items-center justify-between p-4 bg-white dark:bg-slate-800 border border-gray-100 dark:border-slate-700 rounded-xl shadow-sm"
-              >
+              <div key={entry.word.id} className="retro-card rounded-lg p-4 flex items-center justify-between">
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center gap-2">
-                    <span className="font-bold text-gray-900 dark:text-gray-100">
-                      {entry.word.word}
-                    </span>
-                    <span className="text-xs font-medium px-2 py-0.5 bg-rose-50 dark:bg-rose-900/20 text-rose-500 dark:text-rose-400 rounded-full">
-                      {entry.wrongCount}회
+                    <span style={{ fontFamily: 'var(--font-serif)', fontWeight: 600 }}>{entry.word.word}</span>
+                    <span className="text-xs px-1.5 py-0.5" style={{
+                      fontFamily: 'var(--font-mono)',
+                      background: '#D83335',
+                      color: '#F0E68C',
+                      borderRadius: '2px',
+                      fontSize: '10px',
+                    }}>
+                      ×{entry.wrongCount}
                     </span>
                   </div>
-                  <p className="text-sm text-gray-500 dark:text-gray-400 mt-0.5">
+                  <p className="text-sm mt-0.5" style={{ fontFamily: 'var(--font-serif)', color: 'var(--beige-shadow)' }}>
                     {entry.word.meaning}
                   </p>
                 </div>
-                <button
-                  onClick={() => remove(entry.word.id)}
-                  className="shrink-0 ml-3 text-xs font-bold px-3 py-1.5 bg-emerald-50 dark:bg-emerald-900/20 text-emerald-600 dark:text-emerald-400 rounded-full hover:bg-emerald-100 dark:hover:bg-emerald-900/40 transition-colors"
-                >
+                <button onClick={() => remove(entry.word.id)}
+                  className="shrink-0 ml-3 text-xs px-3 py-1.5 retro-key"
+                  style={{ fontFamily: 'var(--font-mono)' }}>
                   완료
                 </button>
               </div>
