@@ -1,5 +1,6 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap');
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=VT323&display=swap');
 
 /* ============================================================
    1. CSS Variables — Fig Mint 원본 그대로
@@ -15,8 +16,12 @@
   --accent-blue: #2B6CB0;
   --accent-orange: #C05621;
   --ink-black: #0f0f0f;
-  --font-serif: 'EB Garamond', serif;
-  --font-mono: 'VT323', monospace;
+  --font-heading: 'Pretendard Variable', 'Pretendard', sans-serif;
+  --font-body: 'Pretendard Variable', 'Pretendard', sans-serif;
+  --font-english: 'Space Grotesk', 'Pretendard Variable', sans-serif;
+  --font-number: 'Space Grotesk', 'Pretendard Variable', sans-serif;
+  --font-serif: 'Pretendard Variable', 'Pretendard', sans-serif;
+  --font-mono: 'Space Grotesk', 'Pretendard Variable', sans-serif;
   --background: #f4f1e6;
   --foreground: #0f0f0f;
 }
@@ -47,7 +52,7 @@
    ============================================================ */
 body {
   background-color: #f4f1e6;
-  font-family: var(--font-serif);
+  font-family: var(--font-body);
   color: var(--ink-black);
 }
 
@@ -55,16 +60,6 @@ body {
   body {
     background-color: #1a1814;
   }
-}
-
-@font-face {
-  font-family: 'RetroSerif';
-  src: local('Apple Garamond'), local('Garamond'), local('Times New Roman');
-}
-
-@font-face {
-  font-family: 'RetroMono';
-  src: local('Courier New'), local('Courier'), monospace;
 }
 
 /* ============================================================
@@ -364,13 +359,14 @@ body {
   font-size: 5rem;
   line-height: 0.85;
   letter-spacing: -2px;
-  font-weight: 500;
-  font-family: var(--font-serif);
+  font-weight: 700;
+  font-family: var(--font-heading);
 }
 
 .heading-hero-italic {
   font-style: italic;
-  font-family: var(--font-serif);
+  font-family: var(--font-heading);
+  font-weight: 700;
 }
 
 .text-lead {
@@ -421,8 +417,8 @@ body {
 .bg-beige-dark { background: var(--beige-dark); }
 .bg-ink { background: var(--ink-black); }
 
-.font-serif { font-family: var(--font-serif) !important; }
-.font-mono { font-family: var(--font-mono) !important; }
+.font-serif { font-family: var(--font-body) !important; }
+.font-mono { font-family: var(--font-english) !important; }
 
 .shadow-crt-glow { box-shadow: 0 0 6px rgba(51, 255, 0, 0.4); }
 .shadow-face { box-shadow: inset 2px 2px 5px rgba(255,255,255,0.8), inset -5px -5px 15px rgba(0,0,0,0.1); }
