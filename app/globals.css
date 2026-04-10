@@ -196,30 +196,31 @@ body {
    9. Keyboard Key — 원본 .key 그대로
    ============================================================ */
 .key {
-  background: #ECE8DA;
+  background: transparent;
+  color: #aaa;
+  border: 1px solid #555;
   border-radius: 4px;
-  box-shadow:
-    0 6px 0 #C4C0B3,
-    0 8px 7px rgba(0,0,0,0.2);
-  font-family: var(--font-mono);
-  transition: transform 0.05s;
+  font-family: var(--font-english);
   cursor: pointer;
+  transition: all 0.15s ease;
 }
 
-.key:active {
-  transform: translateY(5px);
-  box-shadow:
-    0 1px 0 #C4C0B3,
-    0 1px 2px rgba(0,0,0,0.05);
+.key:hover {
+  border-color: #888;
+  color: #ccc;
 }
 
 .key-pressed {
-  background: var(--screen-black);
-  color: #fff;
-  transform: translateY(4px);
-  box-shadow:
-    0 2px 0 #000,
-    0 2px 4px rgba(0,0,0,0.3);
+  background: #e8e0d0;
+  color: #1a1a1a;
+  font-weight: 600;
+  border-color: #e8e0d0;
+}
+
+.key-pressed:hover {
+  background: #e8e0d0;
+  color: #1a1a1a;
+  border-color: #e8e0d0;
 }
 
 @keyframes typeKey {
